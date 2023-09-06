@@ -1,0 +1,483 @@
+*{box-sizing: border-box;}
+html,body{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;   
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: 'Roboto Slab', serif; */
+}
+ul{padding: 0;margin: 0;}
+header{
+    width: 100%;
+    height: 140px;
+    background-color: rgb(247, 247, 247);
+}
+.basic-info{
+    width: 100%;
+    /* height: 20px; */
+    padding: .5% 1%;
+    background-color: rgb(35, 19, 216);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.basic-info a{color: white;}
+.basic-info ul{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+    mix-blend-mode:darken;
+    width: 100px;
+}
+.basic-info ul{list-style: none;}
+.basic-info b a:hover{
+    color: rgb(246, 255, 0);
+}
+header nav{
+    width: 100%;
+    height: 100px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+header nav ul{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    list-style: none;
+    font-weight: bold;
+    font-size:1.5rem ;
+}
+header  a{text-decoration: none;color: black;}
+/* NAVBAR ENDS */
+
+.herosection{
+    width: 100%;
+    height: 60%;
+    clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
+    /* background-color: teal; */
+    background-image: url('https://cdn.pixabay.com/photo/2017/08/17/05/59/peterbilt-2650184_1280.jpg');
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    display: grid;
+    place-items: center;
+}
+.video{
+    width: 100%;
+    height: 100%;
+    
+}
+.heroksection-bg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.698);
+}
+.herosection h1{
+    font-size: 3rem;
+    font-weight: 900;
+    padding: 0;
+    margin: 0;
+    color: white;
+   
+}
+.formsection{
+    width: 100%;
+    height: auto;
+    padding: 3%;
+}
+.form-group{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    background-color: rgba(24, 14, 139, 0.86);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    gap: 5%;
+}
+input{
+    width: 25%;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    outline: 0;
+}
+input[type=submit]{width: 10%;}
+
+.list-of-services{
+    width: 100%;
+    height: auto;
+    padding: 7% 5%;
+}
+.ser{text-align: center;color: white; position: relative;
+    z-index: 1;}
+    .ser p{
+        width: 75%;
+        margin: auto;
+    }
+.services-box{
+    width:100%;
+    height: auto;
+    display: flex;
+    align-items:center;
+    justify-self: center;
+    margin: 10px 0;
+}
+.image-box{
+    width: 40%;
+    height: 300px;
+    object-fit: cover;
+}
+.image-box img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.content-box{
+    padding:.5% 0% .5% 0;
+    width: 60%;
+}
+.content-box h2{
+    font-size: 2rem;
+}
+.content-box p{
+    font-size: 1.1rem;
+    line-height: 25px;
+}
+.content-box button{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    background-color: transparent;
+    color: rgb(41, 30, 255);
+    font-weight: bold;
+    cursor: pointer;
+}
+.content-box-2{
+    background-color: rgb(237, 237, 237);
+    padding: 1%;
+}
+
+
+
+
+
+
+
+/* FAQ ENDS */
+footer{
+    background-color: rgb(32, 30, 30);
+    padding: .5%;
+    color: white;
+}
+footer .p{text-align: center;margin-top: 3%;background-color: #666;}
+.footer-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+a{text-decoration: none;}
+footer ul{
+    list-style: none;
+}
+footer ul li{
+    margin: 10px 0;
+}
+footer ul a{
+    color: white;
+    text-decoration: none;
+}
+.fp{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.multiline-ellipsis {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4; /* start showing ellipsis when 3rd line is reached */
+    white-space: pre-wrap; /* let the text wrap preserving spaces */}
+
+/* Index CSS  */
+.why-choose-us{
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cdn.pixabay.com/photo/2016/07/03/22/36/transportation-1495618_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position:center;
+    background-attachment: fixed;
+    position: relative;
+}
+.why-choose-us-bg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(14, 31, 213, 0.779);
+    top: 0;
+    left: 0;
+}
+.why-us{width: 100%;
+height: auto;position: relative;z-index: 1;}
+.why-choose-us__title{
+    font-size: 3rem;
+    font-weight: 900;
+    padding-top: 3%;
+    text-align: center;
+    color: white;
+}
+.box{
+    width: 300px;
+    height: auto;
+    margin: 0 10px;
+    position: relative;
+    color: white;
+    text-align: center;
+}
+.box i{
+    font-size: 2rem;
+}
+.how-it-work{
+    padding: 3% 1%;
+}
+.how-it-work-title{
+    width: 300px;
+    position: relative;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    color:rgba(14, 31, 213);
+    border-bottom:2px solid rgb(35, 19, 216);
+}
+.how-work{
+    padding-top: 10%;
+    position: relative;
+}
+.how-box{
+    width: 400px;
+    height: auto;
+    /* background-color: lightblue; */
+    margin: 0 10px;
+    position: relative;
+    text-align: center;
+}
+.how-box p{
+    font-size: x-large;
+    text-align: center;
+    color: rgb(12, 12, 207);
+}
+/* .how-a{
+    background-image: url('../images/a.png');
+    background-size: 60px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 60px;
+    height: 60px;
+    mix-blend-mode: darken;
+  
+} */
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.a::after{
+    content: '';
+    background-image: url('../images/a.png');
+    background-size: 60px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 60px;
+    mix-blend-mode: darken;
+    position: absolute;
+    top: 17%;
+    right: -13%;
+}
+/* Index CSS  */
+/* nav */
+.services-ul{
+    position: relative;
+    display: inline-block;
+}
+.drop{
+    display: none;
+    width:300px;
+    text-align: center;
+    height: auto;
+    padding: 1%;
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: -100%;
+    border-radius: 5px;
+    background-color: rgb(224, 224, 224);
+    color: #242222;
+    font-size: large;
+}
+.drop-btn{cursor: pointer;}
+.drop a{
+    display: block;
+    margin: 10px 0;
+    font-weight: 300;
+}
+.services-ul:hover .drop{
+    display: block;
+}
+.formobile {
+    display: none;
+}
+
+.fordesktop {
+    display: flex;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:1100px) {
+    .review-section {
+        width: auto;
+        color: white;
+    }
+    .form-div {width: 40%;margin: 0;}
+    .form-div input{width: 100%;}
+    .guranteed {
+        left: -18%;
+        top: -15%;
+    }.row{    flex-wrap: nowrap;}
+    .container{background-size: auto;}
+    .blog-section {height: 85%;}
+}
+@media screen and (max-width:770px) {
+    .review-section {
+        display: none;
+    }
+    .testmo{background-position: center;    background-attachment: inherit;}
+    .row{    flex-wrap: nowrap;}
+    .a::after{right: -22%;}
+    .form-div {width: 60%;}
+    .form-div input {width: 100%;}
+    .why-choose-us{background-size: auto;height: auto;}
+.hero-p{display: none;}
+}
+@media screen and (max-width:650px) {
+   
+}
+@media screen and (max-width:550px) {
+    .multiline-ellipsis {
+        -webkit-line-clamp: 3;}
+    .row{flex-wrap: wrap;}
+    .cc{margin-top: 10%;}
+    .review-section {
+        display: none;
+    }
+    .content-box-2 { padding: 3%; }
+/* NAV BAR STARTS */
+    .fordesktop {
+        display: none;
+    }
+
+    .formobile {
+        width: 100%;
+        height: 100%;
+        display: block;
+        padding: 2%;
+    }
+
+    .formobile ul {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .why-choose-us__title {font-size: 2.5rem;}
+    #navbar {
+        font-size: xx-large;
+    }
+
+    header nav {
+        display: block; 
+    }
+
+    .container {
+        padding: 3%;
+    }
+
+    .form-div {
+        width: 100%;
+    }
+
+    .form-div input {
+        width: 100%;
+    }
+
+    .guranteed {
+        left: -5%;
+        top: -22%;
+    }
+    .foo{width: 100%;}
+    .footer-container{padding: 1% 5%;    flex-wrap: wrap;}
+    /* NAV BAR ENDS */
+
+    .a::after {
+        top: auto;
+        right: 0;
+        left: 35%;
+        transform: rotate(100deg);
+        bottom: -60%;
+    }
+    .how-box {margin: 25px 10px;}
+    .testmo{    background-size: auto; background-position: center;    background-attachment: inherit;}
+    .herosection {
+        height: 50%;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        background-size: 100% 100%;
+    }
+    .herosection_content {
+        width: 100%;
+    }
+    .herosection_content h1 {
+        font-size: 2.4rem;
+        text-align: center;
+        width: 100%;
+    }
+    .herosection_content .hero-p{display: none; }
+    .rating{text-align: center;}
+    .grid {
+        padding: 0;
+        grid-template-columns: 320px;
+        gap: 0.5%;
+        grid-template-rows: repeat(6, 300px);
+    }
+    .why-choose-us {
+        height: auto;
+        background-size: auto;
+    }
+    .call-to-action {text-align: center;}
+    .call-to-action a button {margin: 5px 0;}
+}

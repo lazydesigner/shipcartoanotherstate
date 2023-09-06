@@ -1,0 +1,659 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: 'Roboto Slab', serif; */
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    height: 140px;
+    background-color: rgb(247, 247, 247);
+}
+
+.basic-info {
+    width: 100%;
+    /* height: 20px; */
+    padding: .5% 1%;
+    background-color: rgb(35, 19, 216);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+.basic-info a {
+    color: white;
+}
+
+.basic-info ul {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.logo {
+    mix-blend-mode: darken;
+    width: 100px;
+}
+
+.basic-info ul {
+    list-style: none;
+}
+
+.basic-info b a:hover {
+    color: rgb(246, 255, 0);
+}
+
+header nav {
+    width: 100%;
+    height: 90px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+header nav ul {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+.services-ul {
+    position: relative;
+    display: inline-block;
+}
+
+.drop {
+    display: none;
+    width: 300px;
+    text-align: center;
+    height: auto;
+    padding: 1%;
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: -100%;
+    border-radius: 5px;
+    background-color: rgb(224, 224, 224);
+    color: #242222;
+    font-size: large;
+}
+
+.drop-btn {
+    cursor: pointer;
+}
+
+.drop a {
+    display: block;
+    margin: 10px 0;
+    font-weight: 300;
+}
+
+.services-ul:hover .drop {
+    display: block;
+}
+
+/* NAVBAR ENDS */
+.service-banner {
+    width: 100%;
+    height: 60%;
+    background-image: url('../images/truck-2755172_1280.jpg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.service-banner-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #242222ba;
+}
+
+.service-banner-heading {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+    color: white;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+
+.service-banner-heading h1 {
+    width: 70%;
+    margin: auto;
+    font-size: 3.5rem;
+    font-weight: 900;
+    font-style: oblique;
+}
+
+.service-banner-heading p {
+    width: 70%;
+    margin: auto;
+    line-height: 20px;
+    font-size: 1.1rem;
+}
+
+.herosection {
+    width: 100%;
+    height: 60%;
+    clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
+    /* background-color: teal; */
+    background-image: url('https://cdn.pixabay.com/photo/2017/08/17/05/59/peterbilt-2650184_1280.jpg');
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    display: grid;
+    place-items: center;
+}
+
+.heroksection-bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.698);
+}
+
+.herosection h1 {
+    font-size: 3rem;
+    font-weight: 900;
+    padding: 0;
+    margin: 0;
+    color: white;
+
+
+}
+
+.ser {
+    text-align: center;
+    color: white;
+    position: relative;
+    z-index: 1;
+}
+
+/* footer */
+footer {
+    background-color: rgba(27, 27, 27, 0.953);
+    padding: .5%;
+    color: white;
+}
+
+footer .p {
+    text-align: center;
+    margin-top: 3%;
+    background-color: #666;
+}
+
+.footer-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    margin: 10px 0;
+}
+
+footer ul a {
+    color: white;
+    text-decoration: none;
+}
+
+.fp {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+/* END OF ERRA */
+textarea {
+    resize: none;
+    width: 503px;
+    height: auto;
+    margin-top: 10px;
+    border: 1px solid rgb(193, 193, 193);
+    border-radius: 5px;
+    outline: 0;
+
+}
+
+.contact-section {
+    width: 100%;
+    height: auto;
+    padding: 5%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+input {
+    width: 250px;
+    height: 40px;
+    border: 1px solid rgb(188, 188, 188);
+    border-radius: 5px;
+    outline: 0;
+    padding: 1%;
+}
+
+.send {
+    width: 150px;
+    height: 50px;
+    border: 0;
+    background-color: rgba(11, 11, 138, 0.949);
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+.info-box {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    gap: 5%;
+    font-size: 1.2rem;
+    margin: 10% 0;
+}
+
+.why-choose-us {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cdn.pixabay.com/photo/2016/07/03/22/36/transportation-1495618_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.why-choose-us-bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(14, 31, 213, 0.779);
+    top: 0;
+    left: 0;
+}
+
+.why-us {
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 1;
+}
+
+.why-choose-us__title {
+    font-size: 3rem;
+    font-weight: 900;
+    padding-top: 3%;
+    text-align: center;
+    color: white;
+}
+
+.box {
+    width: 300px;
+    height: auto;
+    margin: 0 10px;
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+.box i {
+    font-size: 2rem;
+}
+
+.how-it-work {
+    padding: 3% 1%;
+}
+
+.how-it-work-title {
+    width: 300px;
+    position: relative;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    color: rgba(14, 31, 213);
+    border-bottom: 2px solid rgb(35, 19, 216);
+}
+
+.how-work {
+    padding-top: 10%;
+    position: relative;
+}
+
+.how-box {
+    width: 400px;
+    height: auto;
+    /* background-color: lightblue; */
+    margin: 0 10px;
+    position: relative;
+    text-align: center;
+}
+
+.how-box p {
+    font-size: x-large;
+    text-align: center;
+    color: rgb(12, 12, 207);
+}
+
+/* .how-a{
+    background-image: url('../images/a.png');
+    background-size: 60px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 60px;
+    height: 60px;
+    mix-blend-mode: darken;
+  
+} */
+.a::after {
+    content: '';
+    background-image: url('../images/a.png');
+    background-size: 60px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height: 60px;
+    mix-blend-mode: darken;
+    position: absolute;
+    top: 17%;
+    right: -13%;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.testmo {
+    padding: 5%;
+    color: white;
+    position: relative;
+    background-image: url('https://cdn.pixabay.com/photo/2021/12/02/06/08/car-carrier-trailer-6839728_640.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.testo-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.t-s {
+    text-align: center;
+}
+
+.t-s h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.t-s p {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.testo-bgimg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* z-index: -1; */
+    object-fit: cover;
+    background-color: rgba(25, 25, 175, 0.687);
+}
+
+.formobile {
+    display: none;
+}
+
+.fordesktop {
+    display: flex;
+}
+
+
+
+
+
+
+@media screen and (max-width:1280px) {.why-choose-us {height: auto;background-size: auto;}}
+
+@media screen and (max-width:770px) {
+    .row {
+        flex-wrap: nowrap;
+    }
+
+    .a::after {
+        right: -22%;
+    }
+
+    .form-div {
+        width: 60%;
+    }
+
+    .form-div input {
+        width: 100%;
+    }
+
+    .sitebutton {
+        right: 3%
+    }
+
+    input {
+        width: 100%;
+    }
+
+    form {
+        justify-content: space-evenly;
+        gap: 0;
+    }.contact-section{
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .call-to-action h2 {
+        text-align: center;
+    }
+
+    .call-to-action a {
+        margin: 5px 0;
+    }
+
+    .row {
+        flex-wrap: wrap;
+    }
+
+    .review-section {
+        display: none;
+    }
+
+    /* NAV BAR STARTS */
+    .fordesktop {
+        display: none;
+    }
+
+    .formobile {
+        width: 100%;
+        height: 100%;
+        display: block;
+        padding: 2%;
+    }
+
+    .formobile ul {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    #navbar {
+        font-size: xx-large;
+    }
+
+    header nav {
+        display: block;
+    }
+
+    .container {
+        padding: 3%;
+    }
+
+    .form-div {
+        width: 100%;
+    }
+
+    .form-div input {
+        width: 100%;
+    }
+
+    .guranteed {
+        left: -5%;
+        top: -22%;
+    }
+
+    .foo {
+        width: 100%;
+    }
+
+    .footer-container {
+        padding: 1% 5%;
+        flex-wrap: wrap;
+    }
+
+    /* NAV BAR ENDS */
+    .service-banner-heading h1 {
+        width: 100%;
+        font-size: 2.5rem;
+    }
+
+    .service-banner-heading p {
+        width: 98%;
+        font-size: 1rem;
+        margin-top: 5%;
+    }
+
+    .service-banner {
+        background-size: auto;
+        background-position: center;
+    }
+
+    form {
+        flex-wrap: wrap;
+    }
+
+    .form-group {
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .form-group-b {
+        text-align: center;
+    }
+
+    input {
+        width: 100%;
+    }
+
+    .form-section {
+        padding: 1%;
+        height: auto;
+    }
+
+    .blog-reason {
+        width: auto;
+    }
+
+    .sitebutton {
+        right: 3%
+    }
+
+    .a::after {
+        top: auto;
+        right: 0;
+        left: 35%;
+        transform: rotate(100deg);
+        bottom: -60%;
+    }
+
+    .how-box {
+        margin: 25px 10px;
+    }
+
+    header nav {
+        height: 110px;
+    }
+
+    .why-choose-us {
+        height: auto;
+        background-size: auto;
+    }
+
+    .testmo {
+        background-size: auto;
+        background-position: center;
+        background-attachment: scroll;
+    }
+
+    .t-s p {
+        width: 100%;
+        margin: 20px auto;
+    }
+
+    .service-banner-heading h1 {
+        width: 90%;
+    }
+    .herosection { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);background-size: auto;}
+    .contact-section{
+        flex-wrap: wrap;
+    }
+    textarea {width: 100%;}
+
+}
