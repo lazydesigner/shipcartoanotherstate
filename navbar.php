@@ -16,7 +16,7 @@
                 </ul>
             </div>
             <ul class="fordesktop">
-                <li><a href="/deepak">Home</a></li>
+                <li><a href="https://shipcartoanotherstate.com">Home</a></li>
                 <li class="services-ul"><a href="services">Services</a> </li>
                 <li class="logo" style="position: relative;"><a href="" style="display: flex;"><span style="position:absolute;opacity: 0;">.</span><img src="http://localhost/deepak/assets/images/Modern.png"
                             alt="" width="100%"></a></li>
