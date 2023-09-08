@@ -60,7 +60,7 @@
         <div class="form-div">
             <div class="guranteed"><img src="./assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
             <h1><strong>Get A Free Quote</strong></h1>
-            <form action="./save-to-form.php" id="form-" method="post">
+            <form action="<?=get_home_url()  ?>save-to-form.php" id="form-" method="post">
 
                 <div class="part1" id="part1">
                     <div class="form-group">
