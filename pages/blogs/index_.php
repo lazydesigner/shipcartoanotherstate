@@ -1,4 +1,4 @@
-<?php include './routes.php' ?>
+<?php include '../../routes.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 
