@@ -1,6 +1,14 @@
 <?php include_once "./connection.php"; ?>
 
 <?php
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require './phpMailer/src/Exception.php';
+require './phpMailer/src/PHPMailer.php';
+require './phpMailer/src/SMTP.php';
+
+
     if(isset($_POST['submit'])){
         
         $query = "SELECT * FROM form_qoute ORDER BY id DESC LIMIT 1";
@@ -37,10 +45,35 @@
        
         $insert_qoute = mysqli_query($con, $insert_query) or die("insert_query_failed");
         if($insert_qoute){
-            $to = "info@rapidautoshipping.com , amankeshari5937@gmail.com, ".$user_email;
-            $subject = "Qoute from Rapid";
-            
-            $message = '
+            // $to = "info@rapidautoshipping.com , amankeshari5937@gmail.com, ".$user_email;
+            $mail = new PHPMailer(true);
+    
+    $mail->isSMTP();
+    // $mail->Host = 'smtp.gmail.com';
+    // $mail->Host = 'smtp.titan.email';
+    $mail->Host = 'smtp.hostinger.com';
+    $mail->SMTPAuth = true;
+    $mail->Username = 'info@shipcartoanotherstate.com';
+    $mail->Password = 'Smile@1427';
+    $mail->SMTPSecure = 'ssl';
+    $mail->Port= 465;
+    // $mail->Host = 'smtp.gmail.com';
+    // $mail->SMTPAuth = true;
+    // $mail->Username = 'deepakbaradwaj933@gmail.com';
+    // $mail->Password = 'sjkosmmlnbabblmm';
+    // $mail->SMTPSecure = 'ssl';
+    // $mail->Port= 465;
+    // 
+    $mail->setFrom('info@shipcartoanotherstate.com', 'shipcartoanotherstate');
+    // $mail->setFrom('deepakbaradwaj933@gmail.com', 'ShareRapidly');
+    
+    $mail->addAddress($user_email);
+    
+    $mail->isHTML(true);
+    
+    $mail->Subject = 'shipcartoanotherstate';
+    
+    $mail->Body = '
             <html>
             <head>
             <title>HTML email</title>
@@ -52,8 +85,8 @@
                     <table class="wrap-table" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
                         <tr>
                             <td align="center" style="padding: 0 15px 10px 15px">
-                                <img src="https://rapidautoshipping.com/assets/images/coloured-logo.jpg"
-                                    alt="Rapid Auto Shipping" width="auto" height="50" style="display: block" />
+                                <img src="https://shipcartoanotherstate.com/assets/images/Modern.png"
+                                    alt="Auto Transportation Center" width="auto" height="100px" style="display: block" />
                             </td>
                         </tr>
                         <tr>
@@ -76,7 +109,7 @@
                                     <tr>
                                         <td style="padding: 0px 0 15px 0">Hi, <b>'.$username.'</b><br>Thank you for your interest in shipping your vehicle
                                             with
-                                            <b style="color: #ff5527">Rapid Auto Shipping</b>.
+                                            <b style="color: rgba(20, 20, 191, 0.897)"> Ship Car To Another State</b>.
                                         </td>
                                     </tr>
                                     <tr>
@@ -98,20 +131,20 @@
                           text-align: center;
                         ">
                                                     <a href="tel:+1-833-233-4447" style="
-                            background: #fff;
+                            background: rgba(20, 20, 191, 0.897);
                             width: fit-content;
-                            border: 2px solid #ff5227;
+                            border: 2px solid rgba(20, 20, 191, 0.897);
                             font-size: 18px;
                             border-radius: 4px;
                             padding: 10px 16px;
                             display: inline-block;
-                            color: #ff5227 !important;
+                            color: rgba(20, 20, 191, 0.897) !important;
                             cursor: pointer;
                             text-decoration: none;
                             box-sizing: border-box;
                             white-space: nowrap;
                           ">
-                                                        <span style="color: #ff5227 !important"><b>Call</b> +1 (833)
+                                                        <span style="color: white !important"><b>Call</b> +1 (833)
                                                             233-4447</span>
                                                     </a>
                                                 </div>
@@ -124,17 +157,17 @@
                                                         target="_blank" style="
                             background: #fff;
                             width: fit-content;
-                            border: 2px solid #ff5227;
+                            border: 2px solid rgba(20, 20, 191, 0.897);
                             font-size: 18px;
                             border-radius: 4px;
                             padding: 10px 16px;
                             display: inline-block;
-                            color: #ff5227 !important;
+                            color: rgba(20, 20, 191, 0.897) !important;
                             cursor: pointer;
                             text-decoration: none;
                             box-sizing: border-box;
                           ">
-                                                        <span style="color: #ff5227 !important"><b>Chat</b> with
+                                                        <span style="color: rgba(20, 20, 191, 0.897) !important"><b>Chat</b> with
                                                             us</span>
                                                     </a>
                                                 </div>
@@ -164,7 +197,7 @@
                             display: inline-block;
                           " />
                                             </span>
-                                            <span style="color: #ff5227; font-weight: bold">$0 upfront payment</span>
+                                            <span style="color: rgba(20, 20, 191, 0.897); font-weight: bold">$0 upfront payment</span>
                                         </td>
                                         <td style="padding-bottom: 5px">
                                             <span style="display: inline-block; width: 15px; height: 14px">
@@ -175,7 +208,7 @@
                             display: inline-block;
                           " />
                                             </span>
-                                            <span style="color: #ff5227; font-weight: bold">Full-insurance
+                                            <span style="color: rgba(20, 20, 191, 0.897); font-weight: bold">Full-insurance
                                                 coverage</span>
                                         </td>
                                     </tr>
@@ -189,7 +222,7 @@
                             display: inline-block;
                           " />
                                             </span>
-                                            <span style="color: #ff5227; font-weight: bold">Free cancellation</span>
+                                            <span style="color: rgba(20, 20, 191, 0.897); font-weight: bold">Free cancellation</span>
                                         </td>
                                         <td style="padding-bottom: 30px">
                                             <span style="display: inline-block; width: 15px; height: 14px">
@@ -200,7 +233,7 @@
                             display: inline-block;
                           " />
                                             </span>
-                                            <span style="color: #ff5227; font-weight: bold">Door-to-door
+                                            <span style="color: rgba(20, 20, 191, 0.897); font-weight: bold">Door-to-door
                                                 transport</span>
                                         </td>
 
@@ -223,7 +256,7 @@
                         text-transform: uppercase;
 
                         padding: 15px 0 15px 0;
-                        background-color: #ff5227;
+                        background-color: rgba(20, 20, 181, 0.897);
                         color: #fff;
                       ">
                                             Quote ID: <b> 
@@ -425,7 +458,7 @@
                                         <td width="40%" align="left" style="
                         text-align: left;
                         text-transform: uppercase;
-                        color: #ff5227;
+                        color: rgba(20, 20, 191, 0.897);
                         font-weight: bold;
                         width: 40%;
                         padding: 15px 0 0 15px;
@@ -434,7 +467,7 @@
                                         </td>
                                         <td width="60%" rowspan="2" align="right" style="
                         text-align: right;
-                        color: #ff5227;
+                        color: rgba(20, 20, 191, 0.897);
                         font-size: 18px;
                         width: 60%;
                         
@@ -447,7 +480,7 @@
 
                                     <tr>
                                         <td width="100%" colspan="2" align="left" style="
-                        color: #ff5227;
+                        color: rgba(20, 20, 191, 0.897);
                         font-size: 14px;
                         font-style: italic;
                         text-align: left;
@@ -484,9 +517,9 @@
                           text-align: center;
                         ">
                                                     <a href="tel:+1-833-233-4447" style="
-                            background: #ff5227;
+                            background: rgba(20, 20, 191, 0.897);
                             width: fit-content;
-                            border: 2px solid #ff5227;
+                            border: 2px solid rgba(20, 20, 191, 0.897);
                             font-size: 18px;
                             border-radius: 4px;
                             padding: 10px 16px;
@@ -508,9 +541,9 @@
                         ">
                                                     <a href="https://tawk.to/chat/61cd6c5dc82c976b71c415f2/1fo56ukbg"
                                                         target="_blank" style="
-                            background: #ff5227;
+                            background: rgba(20, 20, 191, 0.897);
                             width: fit-content;
-                            border: 2px solid #ff5227;
+                            border: 2px solid rgba(20, 20, 191, 0.897);
                             font-size: 18px;
                             border-radius: 4px;
                             padding: 10px 16px;
@@ -694,18 +727,18 @@
                                     <tr>
                                         <td style="padding: 0px 0 15px 0">
                                             <b>Email:</b>
-                                            <a target="_blank" href="mailto:info@rapidautoshipping.com"
-                                                style="color: #000000 !important; text-decoration: none">info@rapidautoshipping.com</a>
+                                            <a target="_blank" href="mailto:info@shipcartoanotherstate.com"
+                                                style="color: #000000 !important; text-decoration: none">info@shipcartoanotherstate.com</a>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td style="padding: 0px 0 15px 0">
-                                            <a target="_blank" href="https://www.rapidautoshipping.com"
-                                                style="color: #000000 !important; text-decoration: none">www.rapidautoshipping.com</a>
+                                            <a target="_blank" href="https://shipcartoanotherstate.com"
+                                                style="color: #000000 !important; text-decoration: none">www.shipcartoanotherstate.com</a>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>906 S Main Street Silverton Texas USA-79257</td>
+                                        <td>New Jersey USA</td>
                                     </tr>
                                 </table>
                             </td>
@@ -716,7 +749,7 @@
                                     style="color: #333333; font-size: 14px; text-align: center">
                                     <tr>
                                         <td style="padding: 0px 0 5px 0; font-size: 12px">
-                                            This email was sent to you from Rapid Auto Shipping.
+                                            This email was sent to you from  Ship Car To Another State.
                                         </td>
                                     </tr>
 
@@ -733,13 +766,8 @@
             ';
 
       // Always set content-type when sending HTML email
-      $headers = "MIME-Version: 1.0" . "\r\n";
-      $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-
-      // More headers
-       $headers .= 'From: <noreply.rapidautoshipping.com>' . "\r\n";
-
-       if(!mail($to,$subject,$message,$headers)){
+     
+       if(!$mail->send()){
         echo "Something Went wrong. Please Try again!";
        }
        
@@ -747,9 +775,9 @@
         }
         
     }
-    // else{
-    //     header('LOCATION: /');
-    // }
+    else{
+        header('LOCATION: /');
+    }
 ?>
 
 <!DOCTYPE html>
@@ -796,7 +824,7 @@
                     <table class="wrap-table" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
                         <tr>
                             <td align="center" style="padding: 0 15px 10px 15px">
-                                <img src="https://rapidautoshipping.com/assets/images/coloured-logo.jpg"
+                                <img src="https://shipcartoanotherstate.com/assets/images/Modern.png"
                                     alt="Rapid Auto Shipping" width="auto" height="50" style="display: block" />
                             </td>
                         </tr>
@@ -810,7 +838,7 @@
                             <td align="center" style="padding: 0 15px">
                                 <span style="font-size: 14px; display: block; line-height: normal">5-star rated company
                                     with
-                                    <br />over 28,000 vehicles
+                                    <br />over 36,674 vehicles
                                     shipped!</span>
                             </td>
                         </tr>
@@ -821,7 +849,7 @@
                                         <td style="padding: 0px 0 15px 0">Hi
                                             <?= $username ?>, <br>Thank you for your interest in shipping your vehicle
                                             with
-                                            <b style="color: #ff5527">Rapid Auto Shipping</b>.
+                                            <b style="color: rgba(20, 20, 181, 0.897)">Ship Car To Another State</b>.
                                         </td>
                                     </tr>
                                     <tr>
@@ -845,18 +873,18 @@
                                                     <a href="tel:+1-833-233-4447" style="
                             background: #fff;
                             width: fit-content;
-                            border: 2px solid #ff5227;
+                            border: 2px solid rgba(20, 20, 181, 0.897);
                             font-size: 18px;
                             border-radius: 4px;
                             padding: 10px 16px;
                             display: inline-block;
-                            color: #ff5227 !important;
+                            color: rgba(20, 20, 181, 0.897) !important;
                             cursor: pointer;
                             text-decoration: none;
                             box-sizing: border-box;
                             white-space: nowrap;
                           ">
-                                                        <span style="color: #ff5227 !important"><b>Call</b> +1 (833)
+                                                        <span style="color: rgba(20, 20, 181, 0.897) !important"><b>Call</b> +1 (833)
                                                             233-4447</span>
                                                     </a>
                                                 </div>
@@ -893,7 +921,7 @@
                             display: inline-block;
                           " />
                                             </span>
-                                            <span style="color: #ff5227; font-weight: bold">$0 upfront payment</span>
+                                            <span style="color: rgba(20, 20, 181, 0.897); font-weight: bold">$0 upfront payment</span>
                                         </td>
                                         <td style="padding-bottom: 5px">
                                             <span style="display: inline-block; width: 15px; height: 14px">
@@ -904,7 +932,7 @@
                             display: inline-block;
                           " />
                                             </span>
-                                            <span style="color: #ff5227; font-weight: bold">Full-insurance
+                                            <span style="color: rgba(20, 20, 181, 0.897); font-weight: bold">Full-insurance
                                                 coverage</span>
                                         </td>
                                     </tr>
@@ -918,7 +946,7 @@
                             display: inline-block;
                           " />
                                             </span>
-                                            <span style="color: #ff5227; font-weight: bold">Free cancellation</span>
+                                            <span style="color: rgba(20, 20, 181, 0.897); font-weight: bold">Free cancellation</span>
                                         </td>
                                         <td style="padding-bottom: 30px">
                                             <span style="display: inline-block; width: 15px; height: 14px">
@@ -929,7 +957,7 @@
                             display: inline-block;
                           " />
                                             </span>
-                                            <span style="color: #ff5227; font-weight: bold">Door-to-door
+                                            <span style="color: rgba(20, 20, 181, 0.897); font-weight: bold">Door-to-door
                                                 transport</span>
                                         </td>
 
@@ -952,7 +980,7 @@
                         text-transform: uppercase;
 
                         padding: 15px 0 15px 0;
-                        background-color: #ff5227;
+                        background-color: rgba(20, 20, 181, 0.897);
                         color: #fff;
                       ">
                                             Quote ID: <b>
@@ -1132,7 +1160,7 @@
                                         <td width="40%" align="left" style="
                         text-align: left;
                         text-transform: uppercase;
-                        color: #ff5227;
+                        color: rgba(20, 20, 181, 0.897);
                         font-weight: bold;
                         width: 40%;
                         padding: 15px 0 0 15px;
@@ -1141,7 +1169,7 @@
                                         </td>
                                         <td width="60%" rowspan="2" align="right" style="
                         text-align: right;
-                        color: #ff5227;
+                        color: rgba(20, 20, 181, 0.897);
                         font-size: 18px;
                         width: 60%;
                         
@@ -1154,7 +1182,7 @@
 
                                     <tr>
                                         <td width="100%" colspan="2" align="left" style="
-                        color: #ff5227;
+                        color: rgba(20, 20, 181, 0.897);
                         font-size: 14px;
                         font-style: italic;
                         text-align: left;
@@ -1191,9 +1219,9 @@
                           text-align: center;
                         ">
                                                     <a href="tel:+1-833-233-4447" style="
-                            background: #ff5227;
+                            background: rgba(20, 20, 181, 0.897);
                             width: fit-content;
-                            border: 2px solid #ff5227;
+                            border: 2px solid rgba(20, 20, 191, 0.897);
                             font-size: 18px;
                             border-radius: 4px;
                             padding: 10px 16px;
@@ -1385,18 +1413,18 @@
                                     <tr>
                                         <td style="padding: 0px 0 15px 0">
                                             <b>Email:</b>
-                                            <a target="_blank" href="mailto:info@rapidautoshipping.com"
-                                                style="color: #000000 !important; text-decoration: none">info@rapidautoshipping.com</a>
+                                            <a target="_blank" href="mailto:info@shipcartoanotherstate.com"
+                                                style="color: #000000 !important; text-decoration: none">info@shipcartoanotherstate.com</a>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td style="padding: 0px 0 15px 0">
-                                            <a target="_blank" href="https://www.rapidautoshipping.com"
-                                                style="color: #000000 !important; text-decoration: none">www.rapidautoshipping.com</a>
+                                            <a target="_blank" href="https://shipcartoanotherstate.com"
+                                                style="color: #000000 !important; text-decoration: none">www.shipcartoanotherstate.com</a>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>906 S Main Street Silverton Texas USA-79257</td>
+                                        <td>New Jersey USA</td>
                                     </tr>
                                 </table>
                             </td>
@@ -1407,7 +1435,7 @@
                                     style="color: #333333; font-size: 14px; text-align: center">
                                     <tr>
                                         <td style="padding: 0px 0 5px 0; font-size: 12px">
-                                            This email was sent to you from Rapid Auto Shipping.
+                                            This email was sent to you from Auto Transportation Center.
                                         </td>
                                     </tr>
 

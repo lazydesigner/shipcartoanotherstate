@@ -1,10 +1,11 @@
+<?php include './routes.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./assets/css/form.css">
+    <link rel="stylesheet" href="<?=get_home_url()  ?>assets/css/form.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>Document</title>
     <style>
@@ -46,7 +47,7 @@
                     <img src="https://cdn.pixabay.com/photo/2016/11/29/06/46/adult-1867889_640.jpg" width="100%" height="100%" alt="">
                 </div>
                 <div class="review-name"><b>Estep Meade</b></div>
-                <div class="review-title">
+                <div class="review-title"class="review-title" style="text-align: justify;"><i class="ri-double-quotes-l" style="font-size: 2rem;" ></i>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque quas harum officia consequatur vero nihil provident tempora quos excepturi veniam.
                 </div>
                 <div class="review-star">

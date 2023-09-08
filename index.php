@@ -1,3 +1,4 @@
+<?php include './routes.php' ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,7 +7,7 @@
     <link rel="preload"
         src="https://www.blg-logistics.com/fileadmin/_processed_/b/c/csm_BLG-Autotransport-7_d8a2558bd9.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./assets/css/index.css">
+    <link rel="stylesheet" href="<?=get_home_url()  ?>assets/css/index.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -216,8 +217,8 @@
     <section class="call-to-action">
         <div class="row">
             <h2>Want to know the cost of shipping a car with us?</h2>
-            <a href="./form.html" style="margin-right: 5px;"><button>Get Free Quote</button></a>
-            <a href="./form.html"><button>Call Us Now</button></a>
+            <a href="get-quotes" style="margin-right: 5px;"><button>Get Free Quote</button></a>
+            <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a>
         </div>
     </section>
     <section class="testmo">
