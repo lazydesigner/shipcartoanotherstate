@@ -1,6 +1,6 @@
 <header>
         <div class="basic-info">
-            <b><a href=""><i class="ri-phone-fill"></i> +91 0000 000 000</a></b>
+            <b><a href="tel:+1 (833) 233-4447"><i class="ri-phone-fill"></i>+1 (833) 233-4447</a></b>
             <ul>
                 <li><a href=""><span style="opacity: 0;">.</span><i class="ri-facebook-fill"></i></a></li>
                 <li><a href=""><span style="opacity: 0;">.</span><i class="ri-instagram-line"></i></a></li>
