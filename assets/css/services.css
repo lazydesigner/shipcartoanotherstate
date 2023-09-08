@@ -352,7 +352,8 @@ height: auto;position: relative;z-index: 1;}
 .fordesktop {
     display: flex;
 }
-
+.hidelogoforphone{display: block;}
+#navbar3{display: none;}
 
 
 
@@ -480,4 +481,21 @@ height: auto;position: relative;z-index: 1;}
     }
     .call-to-action {text-align: center;}
     .call-to-action a button {margin: 5px 0;}
+    .hidelogoforphone{display: none;}
+    .fordesktop{
+        position: absolute;
+        z-index: 1;
+        background-color: whitesmoke;
+        place-items: center;
+        height: 100%;
+    width: 100%;
+    }
+    .fordesktop2{
+        display: block;
+    height: auto;
+    text-align: center;
+    width: 100%;
+    }
+    .fordesktop2 li{margin: 5% 0;}
+
 }

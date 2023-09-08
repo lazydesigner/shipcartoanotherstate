@@ -397,6 +397,16 @@
                 document.getElementById('car-option').style.display='none'
             })
         }
+        document.getElementById('navbar2').addEventListener('click',()=>{
+            document.getElementById('navbar2').style.display ='none';
+            document.getElementById('navbar3').style.display ='block';
+            document.getElementById('fordesktop').style.display ='grid';
+        })
+        document.getElementById('navbar3').addEventListener('click',()=>{
+            document.getElementById('navbar2').style.display ='block';
+            document.getElementById('navbar3').style.display ='none';
+            document.getElementById('fordesktop').style.display ='none';
+        })
     </script>
     <!-- Form validation -->
 </body>

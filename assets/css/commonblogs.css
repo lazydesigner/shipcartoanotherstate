@@ -420,7 +420,8 @@ input[type=submit]{
 .fordesktop {
     display: flex;
 }
-
+.hidelogoforphone{display: block;}
+#navbar3{display: none;}
 @media screen and (max-width:1100px) {
    
     .form-div {width: 40%;margin: 0;}
@@ -521,6 +522,22 @@ input[type=submit]{
     }
     .blog-reason{width: auto;}
     .sitebutton{right:3%}
+    .hidelogoforphone{display: none;}
+    .fordesktop{
+        position: absolute;
+        z-index: 1;
+        background-color: whitesmoke;
+        place-items: center;
+        height: 100%;
+    width: 100%;
+    }
+    .fordesktop2{
+        display: block;
+    height: auto;
+    text-align: center;
+    width: 100%;
+    }
+    .fordesktop2 li{margin: 5% 0;}
 }
 
 
