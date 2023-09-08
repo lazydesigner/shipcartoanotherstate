@@ -368,4 +368,8 @@ header  a{text-decoration: none;color: black;}
     width: 100%;
     }
     .fordesktop2 li{margin: 5% 0;}
+    .herosection {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+            background-size: auto;
+    }
 }
