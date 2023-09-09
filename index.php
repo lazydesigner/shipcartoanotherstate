@@ -272,7 +272,7 @@
         <h2 class="blog-section-heading"> Get the latest news, advice & best practice from blog</h2>
         <div class="blog-body row">
             <div class="blog-item">
-                <img src="https://rapidautoshipping.com/assets/images/door-to-door-bg.jfif" width="100%" height="100%" alt="">
+                <img src="<?=get_home_url()  ?>assets/images/California-to-Texas.webp" width="100%" height="100%" alt="">
                 <div class="blog-detail">
                     <div class="blog-admin-detail">
                         <div class="blog-date"><i class="ri-calendar-2-line"></i>September 5 2023</div>
@@ -283,7 +283,7 @@
                 </div>
             </div>
             <div class="blog-item">
-                <img src="https://rapidautoshipping.com/assets/images/hauling-truck-bg-2.jpg" width="100%" height="100%" alt="">
+            <img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland.webp" width="100%" height="100%" alt="">
                 <div class="blog-detail">
                     <div class="blog-admin-detail">
                         <div class="blog-date"><i class="ri-calendar-2-line"></i>September 10 2023</div>
@@ -294,7 +294,7 @@
                 </div>
             </div>
             <div class="blog-item">
-                <img src="https://rapidautoshipping.com/assets/images/auto-transport-open.jpg" width="100%" height="100%" alt="">
+            <img src="<?=get_home_url()  ?>assets/images/New-York-To-Nevada.webp" alt="" width="100%" height="100%">
                 <div class="blog-detail">
                     <div class="blog-admin-detail">
                         <div class="blog-date"><i class="ri-calendar-2-line"></i>September 15 2023</div>
