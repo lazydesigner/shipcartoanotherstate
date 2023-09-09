@@ -191,12 +191,12 @@
         <div class="form-div">
             <h1><strong>Get A Free Quote</strong></h1>
             <form action="<?=get_home_url()  ?>save-to-form.php" method="post" id="next-step">
-
+ 
                 <div class="part1" id="part1">
                     <div class="form-group">
-                        <input type="text" placeholder="Address or City" value="<?= $_GET['from'] ?>" id="ship_from" hidden>
+                        <input type="text" placeholder="Address or City" value="<?= $_GET['from'] ?>" name="ship_from" id="ship_from" hidden>
 
-                        <input type="text" placeholder="Address or City" value="<?= $_GET['to'] ?>" id="ship_to" hidden>
+                        <input type="text" placeholder="Address or City" value="<?= $_GET['to'] ?>" name="ship_to" id="ship_to" hidden>
                         <input type="text" id="url" value="<?= $_SERVER['REQUEST_URI'] ?>" name="url" placeholder="Address or City" hidden>
                         <div id="ip"></div>
 
@@ -204,11 +204,11 @@
                     </div>
                     <div class="form-group">
                         <label for="">Date OF Pickup</label><br>
-                        <input type="date" placeholder="Pickup Date" id="ship_date">
+                        <input type="date" placeholder="Pickup Date" id="ship_date" name='pick_up_date'>
                     </div>
                     <div class="form-group">
                         <label for="">Vehicle Size</label><br>
-                        <input type="text" placeholder="Select an option" id="ship_vehicle" readonly>
+                        <input type="text" placeholder="Select an option" name="vehicle_size" id="ship_vehicle" readonly>
                         <div class="car-option" id="car-option">
                             <div class="cars" id="cars"><img src="./assets/images/car/boat-trailer.png" alt="">
                                 <p>boat-trailer</p>
@@ -271,11 +271,11 @@
                     </div>
                     <div class="form-group">
                         <label for="">Email</label><br>
-                        <input type="email" placeholder="Enter Your Email" id="email">
+                        <input type="email" name="user_email" placeholder="Enter Your Email" id="email">
                     </div>
                     <div class="form-group">
                         <label for="">Phone</label><br>
-                        <input type="text" placeholder="Enter Your Phone" id="phone" min="10" onkeyup="formatPhoneNumber(this)" max="10">
+                        <input type="text" name="phone_number" placeholder="Enter Your Phone" id="phone" min="10" onkeyup="formatPhoneNumber(this)" max="10">
                     </div>
                     <div class="form-group" style="text-align: center;margin:10px auto;">
                         <input type="submit" name="submit" value="submit">
