@@ -70,7 +70,7 @@
                     <h1>Best Auto Shipping Company In Usa</h1>
                     <p class="hero-p">We provide our customers an array of solutions for our clientele, such as cross-state cargo transport, quick consignment dispatch, domestic relocations, automobile conveyance, real-time package monitoring, and a plethora of additional offerings.</p>
                     <div class="rating">
-                        <img src="./assets/images/b.svg" class="review-img" width="150px" alt="">
+                        <img src="./assets/images/b.svg" class="review-img" width="150px" height="auto" alt="">
                         <p><b>ShipCartoAnotherState</b> rating<br> Based on 13956 customer review</p>
                     </div>
                 </div>
