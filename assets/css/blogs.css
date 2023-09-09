@@ -297,9 +297,22 @@ header  a{text-decoration: none;color: black;}
 }
 @media screen and (max-width:770px) {
     .why-choose-us {height: auto; background-repeat: no-repeat;}
-    .row{    flex-wrap: wrap;}
+    .row{flex-wrap: wrap;}
     .form-div {width: 60%;}
     .form-div input {width: 100%;}
+    .blog-detail {
+        width: auto;
+        background-color: white;
+        /* border: 1px solid grey; */
+        padding: 6% 2%;
+        /* clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0% 100%); */
+        position: relative;
+        bottom: auto;
+        left: auto;
+        text-align: center;
+    }
+    .blog-section{height: auto;}
+    .blog-item {height: auto;}
 }
 @media screen and (max-width:550px) {
     .row{    flex-wrap: wrap;}
@@ -372,4 +385,5 @@ header  a{text-decoration: none;color: black;}
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
             background-size: auto;
     }
+   
 }
