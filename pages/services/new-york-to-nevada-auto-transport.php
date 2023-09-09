@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+<link rel="preload" as="image" href="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" type="image/webp">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="New York to Nevada Auto Transport | Ship Car To Another State" />
@@ -21,7 +22,7 @@
 <meta property="article:tag" content="New York to Nevada Vehicle shipping" />
 <meta property="article:tag" content="New York to Nevada Vehicle shipping service" />
     <link rel="stylesheet" href="<?=get_home_url() ?>assets/css/commonservice.css" async>
-    <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" type="image/webp">
+    
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer"   as="style" onload="this.onload=null;this.rel='stylesheet'" async/>
     <title>New York to Nevada Auto Transport | Ship Car To Another State</title>
