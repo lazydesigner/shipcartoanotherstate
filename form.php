@@ -30,7 +30,7 @@
     </style>
 </head>
 
-<body>
+<body> 
 
 
     <?php include './navbar.php' ?>
