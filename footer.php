@@ -11,8 +11,8 @@
             <div class="foo">
                 <p class="fp">Important Links</p>
                 <ul>
-                    <li><a href="/deepak">Home</a></li>
-                    <li><a href="">About</a></li>
+                    <li><a href="https://shipcartoanotherstate.com/">Home</a></li>
+                    <li><a href="https://shipcartoanotherstate.com/about">About</a></li>
                     <li><a href="services">Services</a></li>
                     <li><a href="blogs">Blog</a></li>
                     <li><a href="contact">contact</a></li>

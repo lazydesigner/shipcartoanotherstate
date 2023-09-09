@@ -24,15 +24,14 @@
     <meta property="article:tag" content="cost to ship car to another state" />
     <meta property="article:tag" content="how to ship your car to another state" />
 <!-- change -->
-    <link rel="preload" src="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.jpg">
     <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css">
+    <link  rel="preload" href="<?= get_home_url()  ?>assets/css/index.css"  as="style" onload="this.onload=null;this.rel='stylesheet'" async>
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Paytone+One&family=Roboto+Slab&family=Seymour+One&family=Sonsie+One&family=Yanone+Kaffeesatz:wght@300&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Paytone+One&family=Roboto+Slab&family=Seymour+One&family=Sonsie+One&family=Yanone+Kaffeesatz:wght@300&display=swap"  rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" async>
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer"  as="style" onload="this.onload=null;this.rel='stylesheet'" async/>
     <title>How To Ship A Car To Another State | Ship Car To Another State</title>
     <style>
         .error {
@@ -65,7 +64,7 @@
         <div class="herosection_">
             <div class="herosection_bg">
             </div>
-            <img src="https://cdn.pixabay.com/photo/2017/11/13/21/13/trucker-2946821_1280.jpg" width="100%" height="100%" class="backgroundimg" alt="">
+            <img src="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp" width="100%" height="100%" class="backgroundimg" alt="">
             <div class="row">
                 <div class="herosection_content">
                     <h1>Best Auto Shipping Company In Usa</h1>
