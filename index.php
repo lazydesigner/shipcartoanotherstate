@@ -493,12 +493,12 @@
             })
         }
 
-        document.getElementById('quote').addEventListener('click', function(e) {
-            e.preventDefault();
-            document.getElementById('part1').style.display = 'none';
-            document.getElementById('part2').style.display = 'block';
+        // document.getElementById('quote').addEventListener('click', function(e) {
+        //     e.preventDefault();
+        //     document.getElementById('part1').style.display = 'none';
+        //     document.getElementById('part2').style.display = 'block';
 
-        })
+        // })
         document.getElementById('previous').addEventListener('click', function(e) {
             e.preventDefault();
             document.getElementById('part2').style.display = 'none';
