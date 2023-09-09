@@ -12,10 +12,33 @@
     <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Paytone+One&family=Roboto+Slab&family=Seymour+One&family=Sonsie+One&family=Yanone+Kaffeesatz:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>Design One</title>
+    <style>
+        .error {
+            width: 220px;
+            height: 80px;
+            background-color: tomato;
+            /* padding: 2%; */
+            border-radius: 5px;
+            display: none;
+            place-items: center;
+            color: white;
+            position: fixed;
+            top: 10%;
+            right: 10%;
+            text-align: center;
+            font-size: 1.2rem;
+            z-index: 10;
+        }
+
+        /*  */
+    </style>
 </head>
 
 <body>
     <?php include 'navbar.php' ?>
+    <div class="error" id="error">
+        <p id="error-text">Directions request returned no results</p>
+    </div>
     <section class="herosection">
         <div class="herosection_">
             <div class="herosection_bg">
