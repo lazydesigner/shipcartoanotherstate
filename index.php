@@ -51,7 +51,7 @@
                             <div class="form-group" id="distance"> </div>
                             <div class="form-group">
                                 <label for="">Vehicle Size</label><br>
-                                <input type="text" placeholder="Select an option" name="vehicle_size" id="ship_vehicle">
+                                <input type="text" placeholder="Select an option" name="vehicle_size" id="ship_vehicle" readonly>
                                 <div class="car-option" id="car-option">
                                     <div class="cars" id="cars"><img src="./assets/images/car/boat-trailer.png" alt="">
                                         <p>boat-trailer</p>
