@@ -231,6 +231,11 @@ padding: 3%;
     color: whitesmoke;
     font-weight: bold;
     background-color: rgba(20, 20, 157, 0.918);
+    animation: xyz .5s linear infinite alternate;
+}
+@keyframes xyz {
+    from{transform: scale(1);}
+    to{transform: scale(1.1);}
 }
 .hidelogoforphone{display: block;}
 #navbar3{display: none;}
