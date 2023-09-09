@@ -7,7 +7,7 @@ RewriteRule ^$ index.php [NC,L]
 RewriteRule ^services([/]?)$ services.php [NC,L]
 RewriteRule ^blogs([/]?)$ blogs.php [NC,L]
 RewriteRule ^form-submit([/]?)$ form-submit.php [NC,L]
-RewriteRule ^form-submit([/]?)$ save-to-form.php [NC,L]
+RewriteRule ^save-to-form([/]?)$ save-to-form.php [NC,L]
 RewriteRule ^get-quotes([/]?)$ form.php [NC,L]
 RewriteRule ^contact([/]?)$ contact.php [NC,L]
 
