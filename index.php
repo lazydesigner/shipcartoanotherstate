@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <link rel="preload" src="https://www.blg-logistics.com/fileadmin/_processed_/b/c/csm_BLG-Autotransport-7_d8a2558bd9.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="<?= get_home_url()  ?>deepak/assets/css/index.css">
+    <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Paytone+One&family=Roboto+Slab&family=Seymour+One&family=Sonsie+One&family=Yanone+Kaffeesatz:wght@300&display=swap" rel="stylesheet">
