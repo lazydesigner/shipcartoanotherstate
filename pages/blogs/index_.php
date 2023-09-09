@@ -131,10 +131,10 @@
             <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="./form.html"><button>Get Free Quote</button></a>
             <a href="./form.html"><button>Call Us Now</button></a></div>
         </div>
-    </section>
-    <div class="sitebutton" id="sitebutton">
+    </section>  
+    <!-- <div class="sitebutton" id="sitebutton">
         <a href="<?=get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
-    </div>
+    </div> -->
     <?php include '../../footer.php' ?>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>
     <script>

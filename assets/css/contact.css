@@ -450,7 +450,11 @@ input {
     object-fit: cover;
     background-color: rgba(25, 25, 175, 0.687);
 }
+::-webkit-scrollbar{width: 10px;}
 
+::-webkit-scrollbar-thumb{
+    background-color: #555555;
+}
 .formobile {
     display: none;
 }
