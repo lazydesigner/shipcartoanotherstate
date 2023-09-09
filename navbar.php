@@ -10,7 +10,7 @@
         <nav>
             <div class="formobile">
                 <ul>
-                <li class="logo" style="position: relative;"><a href="https://shipcartoanotherstate.com" style="display: flex;"><span style="position:absolute;opacity: 0;">.</span><img src="https://shipcartoanotherstate.com/assets/images/Modern.png"
+                <li class="logo" style="position: relative;"><a href="https://shipcartoanotherstate.com" style="display: flex;"><span style="position:absolute;opacity: 0;">.</span><img src="https://shipcartoanotherstate.com/assets/images/Modern.webp"
                                 alt="https://shipcartoanotherstate.com" width="100%"  height="auto"></a></li>
                 <li><span id="navbar" style="cursor:pointer;"><i class="ri-menu-3-fill" id="navbar2"></i><i class="ri-close-line" id="navbar3"></i></span></li>
                 </ul>
@@ -19,7 +19,7 @@
             <ul class="fordesktop2">
                 <li><a href="https://shipcartoanotherstate.com">Home</a></li>
                 <li class="services-ul"><a href="services">Services</a> </li>
-                <li class="logo hidelogoforphone" style="position: relative;"><a href="" style="display: flex;"><span style="position:absolute;opacity: 0;">.</span><img src="https://shipcartoanotherstate.com/assets/images/Modern.png"
+                <li class="logo hidelogoforphone" style="position: relative;"><a href="" style="display: flex;"><span style="position:absolute;opacity: 0;">.</span><img src="https://shipcartoanotherstate.com/assets/images/Modern.webp"
                             alt="" width="100%"></a></li>
                 <li><a href="contact">Contact</a></li>
                 <li><a href="blogs">Blogs</a></li>
