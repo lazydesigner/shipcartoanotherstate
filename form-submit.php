@@ -190,7 +190,7 @@
         <div class="container-bg"></div>
         <div class="form-div">
             <h1><strong>Get A Free Quote</strong></h1>
-            <form action="<?=get_home_url()  ?>save-to-form.php" method="post" id="next-step">
+            <form action="<?=get_home_url()  ?>save-to-form" method="post" id="next-step">
  
                 <div class="part1" id="part1">
                     <div class="form-group">
@@ -204,7 +204,7 @@
                     </div>
                     <div class="form-group">
                         <label for="">Date OF Pickup</label><br>
-                        <input type="date" placeholder="Pickup Date" id="ship_date" name='pick_up_date'>
+                        <input type="date" placeholder="Pickup Date" min="<?php echo date('Y-m-d'); ?>" max="2030-12-31"  id="ship_date" name='pick_up_date'>
                     </div>
                     <div class="form-group">
                         <label for="">Vehicle Size</label><br>

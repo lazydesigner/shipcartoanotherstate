@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <link rel="preload" src="https://www.blg-logistics.com/fileadmin/_processed_/b/c/csm_BLG-Autotransport-7_d8a2558bd9.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css">
+    <link rel="stylesheet" href="<?= get_home_url()  ?>deepak/assets/css/index.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Paytone+One&family=Roboto+Slab&family=Seymour+One&family=Sonsie+One&family=Yanone+Kaffeesatz:wght@300&display=swap" rel="stylesheet">
@@ -69,7 +69,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="">Date OF Pickup</label><br>
-                                <input type="date" name='pick_up_date' placeholder="Pickup Date" id="ship_date">
+                                <input type="date"  name='pick_up_date' min="<?php echo date('Y-m-d'); ?>" max="2030-12-31" placeholder="Pickup Date" id="ship_date">
                             </div>
                             <div class="form-group" id="distance"> </div>
                             <div class="form-group">
@@ -401,6 +401,8 @@
     <?php include './footer.php' ?>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>
     <script>
+
+
         document.getElementById('quote').addEventListener('click', function(e) {
 
             let from = document.getElementById('origin-input').value
@@ -579,6 +581,8 @@
                 document.getElementById('car-option').style.display='none'
             })
         }
+
+        
     </script>
 </body>
 

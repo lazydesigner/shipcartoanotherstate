@@ -60,7 +60,7 @@
         <div class="form-div">
             <div class="guranteed"><img src="./assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
             <h1><strong>Get A Free Quote</strong></h1>
-            <form action="<?=get_home_url()  ?>save-to-form.php" id="form-" method="post">
+            <form action="<?=get_home_url()  ?>save-to-form" id="form-" method="post">
 
                 <div class="part1" id="part1">
                     <div class="form-group">
@@ -75,7 +75,7 @@
                     </div>
                     <div class="form-group">
                         <label for="">Date OF Pickup</label><br>
-                        <input type="date" name='pick_up_date' placeholder="Pickup Date" id="ship_date">
+                        <input type="date" name='pick_up_date'  min="<?php echo date('Y-m-d'); ?>" max="2030-12-31"  placeholder="Pickup Date" id="ship_date">
 
                     </div>
                     <div class="form-group">
