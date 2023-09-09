@@ -5,10 +5,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="Ship Car To Another State - Transportation Services List" />
+<meta name="description" content="Ship Car To Another State is known for its Quality Car Shipping services. We offer you the best auto shipping services in the US at competitive prices. Call +1-833-233-4447 right now." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ship Car To Another State - Transportation Services List" />
+<meta property="og:description" content="Ship Car To Another State is known for its Quality Car Shipping services. We offer you the best auto shipping services in the US at competitive prices. Call +1-833-233-4447 right now." />
+<meta property="og:url" content="http://shipcartoanotherstate.com/services" />
+<meta property="og:site_name" content="Ship Car To Another State - Transportation Services List" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="state to state car shipping, state to state auto transport, state to state vehicle transport, auto transport service, auto transportation , auto transport service near me, auto transport services, best auto transport company, best car shipping service , auto transportation service, auto transport company" />
+<meta property="article:tag" content="state to state car shipping" />
+<meta property="article:tag" content="state to state auto transport" />
+<meta property="article:tag" content="state to state vehicle transport" />
+<meta property="article:tag" content="auto transport service" />
+<meta property="article:tag" content="auto transportation" />
+<meta property="article:tag" content="auto transport service near me" />
+<meta property="article:tag" content="auto transport company" />
+<meta property="article:tag" content="best auto transport company" />
+<meta property="article:tag" content="best car shipping service" />
+<meta property="article:tag" content="auto transportation service" />
+<meta property="article:tag" content="auto transport services" />
     <link rel="stylesheet" href="<?=get_home_url()  ?>assets/css/services.css">
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>Document</title>
+    <title>Ship Car To Another State - Transportation Services List</title>
 </head>
 
 <body>

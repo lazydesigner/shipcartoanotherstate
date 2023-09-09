@@ -4,10 +4,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="Ship Car To Another State - Contact Us" />
+<meta name="description" content="Ship Car To Another State offers affordable, quick, and secure transportation services to its clients. Obtain a shipping estimate straight away at +1-833-233-4447" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ship Car To Another State - Contact Us" />
+<meta property="og:description" content="Ship Car To Another State offers affordable, quick, and secure transportation services to its clients. Obtain a shipping estimate straight away at +1-833-233-4447" />
+<meta property="og:url" content="http://shipcartoanotherstate.com/contact-us" />
+<meta property="og:site_name" content="Ship Car To Another State - Contact Us" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Ship Car To Another State Contact Us, Ship Car To Another State, Contact us Ship Car To Another State">
+<meta name="keywords" content="Ship Car To Another State Contact Us" />
+<meta property="article:tag" content="Ship Car To Another State" />
+<meta property="article:tag" content="Contact us Ship Car To Another State" />
     <link rel="stylesheet" href="<?=get_home_url()  ?>assets/css/contact.css">
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>Contact-Us</title>
+    <title>Ship Car To Another State - Contact Us</title>
  
 </head>
 <body>

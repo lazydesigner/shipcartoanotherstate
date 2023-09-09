@@ -4,12 +4,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="Ship Car To Another State - Read Our Most Recent Blog" />
+<meta name="description" content="Read Our Most Recent Blog. Helpful blog posts about auto shipping ,auto transport, state to state shipping , car shipping Published By Ship Car To Another State." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ship Car To Another State - Read Our Most Recent Blog" />
+<meta property="og:description" content="Read Our Most Recent Blog. Helpful blog posts about auto shipping ,auto transport, state to state shipping , car shipping Published By Ship Car To Another State." />
+<meta property="og:url" content="http://shipcartoanotherstate.com/blogs" />
+<meta property="og:site_name" content="Ship Car To Another State - Read Our Most Recent Blog" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Ship Car To Another State Blogs, Car Shipping Blogs, Auto Shipping Blogs , Auto Transport Blogs,">
+<meta property="article:tag" content="Ship Car To Another State Blogs" />
+<meta property="article:tag" content="Car Shipping Blogs" />
+<meta property="article:tag" content="Auto Shipping Blogs" />
+<meta property="article:tag" content="Auto Transport Blogs" />
     <link rel="stylesheet" href="<?=get_home_url()  ?>assets/css/blogs.css">
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css"
         integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>Blogs Page</title>
+    <title>Ship Car To Another State - Read Our Most Recent Blog</title>
 </head>
 <body>
 <?php include './navbar.php' ?>

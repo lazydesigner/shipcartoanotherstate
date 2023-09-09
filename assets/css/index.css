@@ -338,7 +338,7 @@ height: auto;position: relative;z-index: 1;}
 }
 .blog-section-para{
     text-align: center;
-    color: dodgerblue;
+    color: rgb(9, 49, 90);
 }
 .blog-section-heading{
     color: rgb(28, 28, 180);
@@ -577,6 +577,7 @@ footer ul li{
 }
 footer ul a{
     color: white;
+    font-size: larger;
     text-decoration: none;
 }
 .fp{

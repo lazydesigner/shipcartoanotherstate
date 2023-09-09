@@ -3,8 +3,29 @@
 <html lang="en">
 
 <head>
+    <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp" type="image/webp">
     <meta charset="UTF-8">
-    <link rel="preload" src="https://www.blg-logistics.com/fileadmin/_processed_/b/c/csm_BLG-Autotransport-7_d8a2558bd9.jpg">
+    <meta name="title" content="How To Ship A Car To Another State | Ship Car To Another State" />
+    <meta name="description" content="Ship Car To Another State is the best choice for your car, whether it's a luxurious sedan or a Classic Car. We provide you the best affordable and reliable Auto Shipping services in the US. Call us now at +1-833-233-4447" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="How To Ship A Car To Another State | Ship Car To Another State" />
+    <meta property="og:description" content="Ship Car To Another State is the best choice for your car, whether it's a luxurious sedan or a Classic Car. We provide you the best affordable and reliable Auto Shipping services in the US. Call us now at +1-833-233-4447" />
+    <meta property="og:url" content="http://shipcartoanotherstate.com/" />
+    <meta property="og:site_name" content="How To Ship A Car To Another State | Ship Car To Another State" />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="ship car to another state, ship my car to another state, ship a car to another state, how to ship a car to another state, ship your car to another state , how to ship car to another state, how to ship my car to another state, cost to ship car to another state, how to ship your car to another state" />
+    <meta property="article:tag" content="ship car to another state" />
+    <meta property="article:tag" content="ship my car to another state" />
+    <meta property="article:tag" content="ship a car to another state" />
+    <meta property="article:tag" content="how to ship a car to another state" />
+    <meta property="article:tag" content="ship your car to another state" />
+    <meta property="article:tag" content="how to ship car to another state" />
+    <meta property="article:tag" content="how to ship my car to another state" />
+    <meta property="article:tag" content="cost to ship car to another state" />
+    <meta property="article:tag" content="how to ship your car to another state" />
+<!-- change -->
+    <link rel="preload" src="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.jpg">
+    <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css">
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
@@ -12,7 +33,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Paytone+One&family=Roboto+Slab&family=Seymour+One&family=Sonsie+One&family=Yanone+Kaffeesatz:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>Design One</title>
+    <title>How To Ship A Car To Another State | Ship Car To Another State</title>
     <style>
         .error {
             width: 220px;
@@ -194,7 +215,7 @@
             </div>
         </div>
         <div class="more-service">
-            <a href=""><button>More Services</button></a>
+            <a href="<?=get_home_url()  ?>services"><button>More Services</button></a>
         </div>
 
     </section>
@@ -261,7 +282,7 @@
                         <div class="blog-admin"><i class="ri-user-star-line"></i>Admin</div>
                     </div>
                     <p>Enclosed Auto Transport Chicago(RAS)</p>
-                    <a href=""><button>Read More</button></a>
+                    <a href="<?=get_home_url()  ?>"><button>Read More</button></a>
                 </div>
             </div>
             <div class="blog-item">
@@ -272,7 +293,7 @@
                         <div class="blog-admin"><i class="ri-user-star-line"></i>Admin</div>
                     </div>
                     <p>Best Auto Shipping Company USA</p>
-                    <a href=""><button>Read More</button></a>
+                    <a href="<?=get_home_url()  ?>"><button>Read More</button></a>
                 </div>
             </div>
             <div class="blog-item">
@@ -283,7 +304,7 @@
                         <div class="blog-admin"><i class="ri-user-star-line"></i>Admin</div>
                     </div>
                     <p>Some important tips for international shipping</p>
-                    <a href=""><button>Read More</button></a>
+                    <a href="<?=get_home_url()  ?>"><button>Read More</button></a>
                 </div>
             </div>
         </div>
@@ -303,7 +324,7 @@
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/29/06/46/adult-1867889_640.jpg">
+                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/29/06/46/adult-1867889_640.jpg" alt="cost to ship car to another state">
                     <h2>Mark de cole</h2>
                     <p>They did a great job delivering my two-wheeler in their trailer. Auto Shippers did a great job of
                         delivering it. This is my third time with them, and I am always happy with their services.</p>
@@ -312,7 +333,7 @@
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2017/02/16/23/10/smile-2072907_640.jpg">
+                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2017/02/16/23/10/smile-2072907_640.jpg" alt="ship a car to another state">
                     <h2>Steven Faith</h2>
                     <p>I asked them for car shipping in a trailer to Vegas. I have been using their services for many
                         years and I am never disappointed. The vehicles arrived quickly and safely.</p>
@@ -322,7 +343,7 @@
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/18/19/07/happy-1836445_640.jpg">
+                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/18/19/07/happy-1836445_640.jpg" alt="ship your car to another state">
                     <h2>Estep Meade</h2>
                     <p>Very accurate and in-time services. Their home pickup was excellent, and auto shippers took care
                         of the vehicle very well. If I had known they were so good, I would have also asked them for car
@@ -331,7 +352,7 @@
             </div>
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2018/02/16/14/38/portrait-3157821_640.jpg">
+                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2018/02/16/14/38/portrait-3157821_640.jpg" alt="how to ship your car to another state">
                     <h2>Mark Hill</h2>
                     <p>Their auto shipping services are accurate whether it is home pickup or taking care of my
                         vehicles. I was happy with all their services and their shipping and transport services were

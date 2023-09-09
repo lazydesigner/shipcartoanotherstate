@@ -4,8 +4,8 @@
             <div class="foo">
                 <p class="fp">Polices</p>
                 <ul>
-                    <li><a href="">Terms And Condition</a></li>
-                    <li><a href="">Privacy Policy</a></li>
+                    <li><a href="<?=get_home_url()  ?>terms-and-condition">Terms And Condition</a></li>
+                    <li><a href="<?=get_home_url()  ?>privacy-policy">Privacy Policy</a></li>
                 </ul>
             </div>
             <div class="foo">
@@ -21,10 +21,10 @@
             <div class="foo">
                 <p class="fp">Follow Us</p>
                 <ul>
-                    <li><a href="">Facebook</a></li>
-                    <li><a href="">Instagram</a></li>
-                    <li><a href="">Youtube</a></li>
-                    <li><a href="">Twitter</a></li>
+                    <li><a href="facebook.com">Facebook</a></li>
+                    <li><a href="instagram.com">Instagram</a></li>
+                    <li><a href="youtube.com">Youtube</a></li>
+                    <li><a href="twitter.com">Twitter</a></li>
                 </ul>
             </div>
         </div>
