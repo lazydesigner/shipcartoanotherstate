@@ -13,4 +13,8 @@ RewriteRule ^contact([/]?)$ contact.php [NC,L]
 
 
 RewriteRule ^commonservice([/]?)$ pages/services/index_.php [NC,L]
+RewriteRule ^new-york-to-nevada-auto-transport([/]?)$ pages/services/new-york-to-nevada-auto-transport.php [NC,L]
+
+
+
 RewriteRule ^commonblogs([/]?)$ pages/blogs/index_.php [NC,L]
