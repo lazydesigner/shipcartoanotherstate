@@ -370,7 +370,7 @@
                 setTimeout(() => {
                     document.getElementById('error').style.display = 'none'
                 }, 2000)
-            }
+            } 
         })
 
         var ip

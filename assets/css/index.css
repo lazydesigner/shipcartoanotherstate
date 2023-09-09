@@ -114,7 +114,8 @@ header  a{text-decoration: none;color: black;}
     font-weight: 800;
     color: white;
 }
-.form-group{margin: 15px 0;}
+.form-group{margin: 15px 0;
+    position: relative;}
 .form-div input{
     width: 100%;
     height: 40px;
@@ -633,7 +634,25 @@ footer ul a{
 ::-webkit-scrollbar-thumb{
     background-color: #555555;
 }
-
+.car-option{
+    position: absolute;
+    background-color: whitesmoke;
+    padding: 5%;
+    display: none;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); /* 3 columns with minimum width of 250px */
+    grid-gap: 20px; /* Adjust the gap between grid items as needed */
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 150px;
+    overflow: auto;
+    z-index: 1;
+    border-radius: 5px;
+    user-select: none;
+}
+.cars{cursor: pointer;
+    user-select: none;}
+.cars p{padding: 0;margin: 0;}
 
 
 

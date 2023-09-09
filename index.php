@@ -4,29 +4,23 @@
 
 <head>
     <meta charset="UTF-8">
-    <link rel="preload"
-        src="https://www.blg-logistics.com/fileadmin/_processed_/b/c/csm_BLG-Autotransport-7_d8a2558bd9.jpg">
+    <link rel="preload" src="https://www.blg-logistics.com/fileadmin/_processed_/b/c/csm_BLG-Autotransport-7_d8a2558bd9.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="<?=get_home_url()  ?>assets/css/index.css">
+    <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Paytone+One&family=Roboto+Slab&family=Seymour+One&family=Sonsie+One&family=Yanone+Kaffeesatz:wght@300&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css"
-        integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Paytone+One&family=Roboto+Slab&family=Seymour+One&family=Sonsie+One&family=Yanone+Kaffeesatz:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>Design One</title>
 </head>
 
 <body>
-   <?php include 'navbar.php' ?>
+    <?php include 'navbar.php' ?>
     <section class="herosection">
         <div class="herosection_">
             <div class="herosection_bg">
             </div>
-            <img src="https://cdn.pixabay.com/photo/2017/11/13/21/13/trucker-2946821_1280.jpg" width="100%"
-                height="100%" class="backgroundimg" alt="">
+            <img src="https://cdn.pixabay.com/photo/2017/11/13/21/13/trucker-2946821_1280.jpg" width="100%" height="100%" class="backgroundimg" alt="">
             <div class="row">
                 <div class="herosection_content">
                     <h1>Best Auto Shipping Company In Usa</h1>
@@ -38,41 +32,102 @@
                 </div>
                 <div class="form-div">
                     <h1><strong>Get A Free Quote</strong></h1>
-                    <form action="">
+                    <form action="<?= get_home_url()  ?>save-to-form" id="form-" method="post">
 
                         <div class="part1" id="part1">
                             <div class="form-group">
                                 <label for="">From</label><br>
-                                <input type="text" placeholder="Address or City" id="ship_from">
+                                <input type="text" placeholder="Address or City" id="origin-input" name="ship_from">
+                                <input type="text" id="url" value="<?= $_SERVER['REQUEST_URI'] ?>" name="url" placeholder="Address or City" hidden>
                             </div>
                             <div class="form-group">
                                 <label for="">To</label><br>
-                                <input type="text" placeholder="Address or City" id="ship_to">
+                                <input type="text" placeholder="Address or City" id="destination-input" name="ship_to" >
                             </div>
                             <div class="form-group">
                                 <label for="">Date OF Pickup</label><br>
-                                <input type="date" placeholder="Pickup Date" id="ship_date">
+                                <input type="date" name='pick_up_date' placeholder="Pickup Date" id="ship_date">
                             </div>
+                            <div class="form-group" id="distance"> </div>
                             <div class="form-group">
                                 <label for="">Vehicle Size</label><br>
-                                <input type="text" placeholder="Select an option" id="ship_vehicle">
+                                <input type="text" placeholder="Select an option" name="vehicle_size" id="ship_vehicle">
+                                <div class="car-option" id="car-option">
+                                    <div class="cars" id="cars"><img src="./assets/images/car/boat-trailer.png" alt="">
+                                        <p>boat-trailer</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/dually-pickup.png" alt="">
+                                        <p>dually-pickup</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/fullsize-van.png" alt="">
+                                        <p>fullsize-van</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/golf-cart.png" alt="">
+                                        <p>golf-cart</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/hypercar.png" alt="">
+                                        <p>hypercar</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/large-car.png" alt="">
+                                        <p>large-car</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/large-pickup.png" alt="">
+                                        <p>large-pickup</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/large-suv.png" alt="">
+                                        <p>large-suv</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/medium-pickup.png" alt="">
+                                        <p>medium-pickup</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/midsize-suv.png" alt="">
+                                        <p>midsize-suv</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/midsize-car.png" alt="">
+                                        <p>midsize-car</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/mini-van.png" alt="">
+                                        <p>mini-van</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/motorcycle.png" alt="">
+                                        <p>motorcycle</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/small-car.png" alt="">
+                                        <p>small-car</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/small-suv.png" alt="">
+                                        <p>small-suv</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/small_car.png" alt="">
+                                        <p>small-car</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/sports-car.png" alt="">
+                                        <p>sports-car</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/travel-trailer.png" alt="">
+                                        <p>travel-trailer</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/others.png" alt="">
+                                        <p>others</p>
+                                    </div>
+                                </div>
                             </div>
                             <div class="form-group" style="text-align: center;margin:10px auto;">
-                                <input type="submit" value="Get A Quote" id="quote">
+                            <div class="nex" id="quote">Get A Quote</div>
                             </div>
                         </div>
                         <div class="part2" id="part2">
                             <div class="form-group">
                                 <label for="">Email</label><br>
-                                <input type="email" placeholder="Enter Your Email" id="email">
+                                <input type="email" name="user_email" placeholder="Enter Your Email" id="email">
                             </div>
                             <div class="form-group">
                                 <label for="">Phone</label><br>
-                                <input type="text" placeholder="Enter Your Phone" id="phone" min="10" onkeyup="formatPhoneNumber(this)" max="10" required>
+                                <input type="text" placeholder="Enter Your Phone" name="phone_number" id="phone" min="10" onkeyup="formatPhoneNumber(this)" max="10" required>
                             </div>
                             <div class="form-group" style="text-align: center;margin:10px auto;">
                                 <input type="submit" value="Previous" id="previous">
-                                <input type="submit" value="submit" id="next-step">
+                                <input type="submit" value="submit" name="submit" id="next-step">
                             </div>
                         </div>
 
@@ -92,8 +147,7 @@
                 <span class="item2 items1">OPEN TRANSPORT SHIPPING</span>
             </div>
             <div class="item">
-                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/cash-macanaya-9cSMMMSmZzY-unsplash-1024x1024_hbosfx.jpg"
-                    alt="">
+                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/cash-macanaya-9cSMMMSmZzY-unsplash-1024x1024_hbosfx.jpg" alt="">
                 <span class="item3 items1">ENCLOSED AUTO TRANSPORT</span>
             </div>
             <div class="item">
@@ -105,15 +159,13 @@
                 <span class="item5 items1">DOOR TO DOOR</span>
             </div>
             <div class="item ">
-                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665832014/received_594529625738657_y8wkkh.jpg"
-                    alt="">
+                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665832014/received_594529625738657_y8wkkh.jpg" alt="">
                 <span class="item1 items1 ">
                     SNOWBIRD SHIPPING
                 </span>
             </div>
             <div class="item">
-                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667637211/Recent%20Uploads/pexels-photo-4558369_clqufj.jpg"
-                    alt="">
+                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667637211/Recent%20Uploads/pexels-photo-4558369_clqufj.jpg" alt="">
                 <span class="item6 items1">BOAT SHIPPING</span>
             </div>
         </div>
@@ -138,7 +190,7 @@
                     <i class="ri-shield-check-fill"></i>
                     <p><b>SAFE AND SECURE </b></p>
                     <p>We Promise! For your vehicle safety. We provide the ultimate protection to your car as it matters most for you. Our top-notch security solutions like enclosed carriers and experienced drivers ensure your vehicle safety. Trust Ship Car To Another State expertise, because your car safety is our priority.
-</p>
+                    </p>
                 </div>
                 <div class="box">
                     <i class="ri-pin-distance-line"></i>
@@ -159,7 +211,7 @@
         <div class="how-work row">
             <div class="how-box a">
                 <p><b>Vehicle pick up</b></p>
-                <span>Our staff professional will pick your vehicle from your desired location on  your desired date.</span>
+                <span>Our staff professional will pick your vehicle from your desired location on your desired date.</span>
             </div>
             <div class="how-a"></div>
             <div class="how-box a">
@@ -178,8 +230,7 @@
         <h2 class="blog-section-heading"> Get the latest news, advice & best practice from blog</h2>
         <div class="blog-body row">
             <div class="blog-item">
-                <img src="https://rapidautoshipping.com/assets/images/door-to-door-bg.jfif" width="100%" height="100%"
-                    alt="">
+                <img src="https://rapidautoshipping.com/assets/images/door-to-door-bg.jfif" width="100%" height="100%" alt="">
                 <div class="blog-detail">
                     <div class="blog-admin-detail">
                         <div class="blog-date"><i class="ri-calendar-2-line"></i>September 5 2023</div>
@@ -190,8 +241,7 @@
                 </div>
             </div>
             <div class="blog-item">
-                <img src="https://rapidautoshipping.com/assets/images/hauling-truck-bg-2.jpg" width="100%" height="100%"
-                    alt="">
+                <img src="https://rapidautoshipping.com/assets/images/hauling-truck-bg-2.jpg" width="100%" height="100%" alt="">
                 <div class="blog-detail">
                     <div class="blog-admin-detail">
                         <div class="blog-date"><i class="ri-calendar-2-line"></i>September 10 2023</div>
@@ -202,8 +252,7 @@
                 </div>
             </div>
             <div class="blog-item">
-                <img src="https://rapidautoshipping.com/assets/images/auto-transport-open.jpg" width="100%"
-                    height="100%" alt="">
+                <img src="https://rapidautoshipping.com/assets/images/auto-transport-open.jpg" width="100%" height="100%" alt="">
                 <div class="blog-detail">
                     <div class="blog-admin-detail">
                         <div class="blog-date"><i class="ri-calendar-2-line"></i>September 15 2023</div>
@@ -258,8 +307,7 @@
             </div>
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img"
-                        src="https://cdn.pixabay.com/photo/2018/02/16/14/38/portrait-3157821_640.jpg">
+                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2018/02/16/14/38/portrait-3157821_640.jpg">
                     <h2>Mark Hill</h2>
                     <p>Their auto shipping services are accurate whether it is home pickup or taking care of my
                         vehicles. I was happy with all their services and their shipping and transport services were
@@ -318,7 +366,7 @@
             <div class="question" id="plus_">What do I need to prepare or provide before scheduling car transport with your company?<span><b>+</b></span></div>
             <div class="answer" id="answer8">
                 <p>Before scheduling, make sure your vehicle is clean, remove personal items, and secure loose parts. We'll guide you through the specific requirements during the booking process to ensure a smooth experience
-</p>
+                </p>
             </div>
         </div>
 
@@ -330,6 +378,90 @@
     <?php include './footer.php' ?>
 
     <script>
+        document.getElementById('quote').addEventListener('click', function(e) {
+
+            let from = document.getElementById('origin-input').value
+            let to = document.getElementById('destination-input').value
+            let date = document.getElementById('ship_date').value
+            let vehicle = document.getElementById('ship_vehicle').value
+            let isEmpty = document.getElementById('distance_').value;
+            if (from == '' || from == null || to == '' || to == null || date == '' || date == null || vehicle == '' || vehicle == null) {
+                document.getElementById('error').style.display = 'grid'
+                document.getElementById('error-text').innerText = "Fields Can't Be Empty ";
+                setTimeout(() => {
+                    document.getElementById('error').style.display = 'none'
+                }, 2000)
+            } else if (isEmpty == '' || isEmpty == null) {
+                document.getElementById('error').style.display = 'grid'
+                document.getElementById('error-text').innerText = "Directions request returned no results";
+                setTimeout(() => {
+                    document.getElementById('error').style.display = 'none'
+                }, 3000)
+            } else {
+                document.getElementById('part1').style.display = 'none';
+                document.getElementById('part2').style.display = 'block';
+            }
+        })
+
+        const originInput = document.getElementById('origin-input');
+        const destinationInput = document.getElementById('destination-input');
+        const originAutocomplete = new google.maps.places.Autocomplete(originInput);
+        const destinationAutocomplete = new google.maps.places.Autocomplete(destinationInput);
+        const directionsService = new google.maps.DirectionsService();
+        const directionsRenderer = new google.maps.DirectionsRenderer();
+
+        // Add a listener for when the user selects places in both fields.
+        originAutocomplete.addListener('place_changed', calculateDistance);
+        destinationAutocomplete.addListener('place_changed', calculateDistance);
+
+        function calculateDistance() {
+            const origin = originAutocomplete.getPlace();
+            const destination = destinationAutocomplete.getPlace();
+
+            if (!origin || !destination) {
+                return; // Handle invalid input
+            }
+
+            const request = {
+                origin: origin.geometry.location,
+                destination: destination.geometry.location,
+                travelMode: 'DRIVING', // You can change this to other travel modes like 'WALKING' or 'TRANSIT'
+                unitSystem: google.maps.UnitSystem.IMPERIAL,
+            };
+
+            directionsService.route(request, function(response, status) {
+                if (status === 'OK') {
+                    let distance = response.routes[0].legs[0].distance.text;
+                    // Display or use the distance information as needed.
+                    document.getElementById('distance').innerHTML = '<input type="text" value=' + distance + ' name="path_distance" id="distance_" hidden>'
+                } else {
+                    // Handle directions request error
+                    document.getElementById('distance').innerHTML = '<input type="text" name="path_distance" id="distance_" hidden>'
+                    document.getElementById('error').style.display = 'grid'
+                    document.getElementById('error-text').innerText = "Directions request returned no results ";
+                    setTimeout(() => {
+                        document.getElementById('error').style.display = 'none'
+                    }, 2000)
+                }
+            });
+        }
+
+        document.getElementById('form-').addEventListener('submit', function(e) {
+            // e.preventDefault()
+            let email = document.getElementById('email').value
+            let mobile = document.getElementById('phone').value
+            if (email == '' || email == null || mobile == '' || mobile == null) {
+                e.preventDefault()
+                document.getElementById('error').style.display = 'grid'
+                document.getElementById('error-text').innerText = "Fields Can't Be Empty ";
+                setTimeout(() => {
+                    document.getElementById('error').style.display = 'none'
+                }, 2000)
+            }
+        })
+
+
+
         let slideIndex = 0;
         showSlides();
 
@@ -341,36 +473,39 @@
                 slides[i].style.display = "none";
             }
             slideIndex++;
-            if (slideIndex > slides.length) { slideIndex = 1 }
+            if (slideIndex > slides.length) {
+                slideIndex = 1
+            }
             for (i = 0; i < dots.length; i++) {
                 dots[i].className = dots[i].className.replace(" active", "");
             }
             slides[slideIndex - 1].style.display = "block";
-            dots[slideIndex - 1].className += " active"; 
+            dots[slideIndex - 1].className += " active";
             setTimeout(showSlides, 5000); // Change image every 2 seconds
         }
 
         a = document.querySelectorAll('#plus_')
         for (i = 0; i < a.length; i++) {
-            a[i].addEventListener("click", function (e) {
+            a[i].addEventListener("click", function(e) {
                 e.preventDefault();
                 this.parentElement.children[0].children[0].classList.toggle('rotate_');
                 this.parentElement.children[1].classList.toggle("plus_");
             })
         }
 
-        document.getElementById('quote').addEventListener('click',function(e){
+        document.getElementById('quote').addEventListener('click', function(e) {
             e.preventDefault();
             document.getElementById('part1').style.display = 'none';
             document.getElementById('part2').style.display = 'block';
 
         })
-        document.getElementById('previous').addEventListener('click',function(e){
+        document.getElementById('previous').addEventListener('click', function(e) {
             e.preventDefault();
             document.getElementById('part2').style.display = 'none';
             document.getElementById('part1').style.display = 'block';
 
         })
+
         function formatPhoneNumber(input) {
             // Remove all non-digit characters from the input
             const phoneNumber = input.value.replace(/\D/g, '');
@@ -388,18 +523,27 @@
             document.getElementById('formattedPhoneNumber').textContent = input.value;
         }
 
-        document.getElementById('navbar2').addEventListener('click',()=>{
-            document.getElementById('navbar2').style.display ='none';
-            document.getElementById('navbar3').style.display ='block';
-            document.getElementById('fordesktop').style.display ='grid';
+        document.getElementById('navbar2').addEventListener('click', () => {
+            document.getElementById('navbar2').style.display = 'none';
+            document.getElementById('navbar3').style.display = 'block';
+            document.getElementById('fordesktop').style.display = 'grid';
         })
-        document.getElementById('navbar3').addEventListener('click',()=>{
-            document.getElementById('navbar2').style.display ='block';
-            document.getElementById('navbar3').style.display ='none';
-            document.getElementById('fordesktop').style.display ='none';
+        document.getElementById('navbar3').addEventListener('click', () => {
+            document.getElementById('navbar2').style.display = 'block';
+            document.getElementById('navbar3').style.display = 'none';
+            document.getElementById('fordesktop').style.display = 'none';
         })
 
-
+        var ip
+        fetch('https://api.ipify.org?format=json')
+            .then(response => response.json())
+            .then(data => {
+                ip = data.ip;
+                document.getElementById('ip').innerHTML += "<input type='text' name='ip' value='" + ip + "' hidden>"
+            })
+            .catch(error => {
+                console.log(error);
+            });
     </script>
 </body>
 
