@@ -119,7 +119,7 @@
                 </div>
                 <div class="reson-box" style="border: 0;">
                     <div class="reason-box-1">
-                        <a href=""><button>GET FREE QUOTES</button></a>
+                        <a href="<?=get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
                     </div>
                 </div>
             </div>
@@ -133,7 +133,7 @@
         </div>
     </section>
     <div class="sitebutton" id="sitebutton">
-        <a href=""><button>GET FREE QUOTES</button></a>
+        <a href="<?=get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
     </div>
     <?php include '../../footer.php' ?>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>

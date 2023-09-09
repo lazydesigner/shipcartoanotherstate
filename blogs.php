@@ -217,7 +217,7 @@
 
     </section>
     <div class="sitebutton" id="sitebutton">
-    <a href=""><button>GET FREE QUOTES</button></a>
+    <a href="<?=get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
 </div>
     <?php include './footer.php' ?>
     <script>

@@ -81,7 +81,7 @@
             </div>
             <div class="addvertisement">
                 <p>We are committed to delivering a safe, equitable, and reliable transportation system.</p>
-                <a href="get-quotes"><button>GET QUOTES</button></a>
+                <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">Types of Open Transport Car Shipping</h2>
@@ -175,7 +175,7 @@
             </div>
             <div class="addvertisement">
                 <p>When people want transportation, they want it now.</p>
-                <a href="get-quotes"><button>GET QUOTES</button></a>
+                <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">How to Determine When a Vehicle Is Ready?</h2>
@@ -279,8 +279,8 @@
     <section class="call-to-action">
         <div class="row">
             <h2>Want to know the cost of shipping a car with us?</h2>
-            <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="./form.html" ><button>Get Free Quote</button></a>
-            <a href="./form.html"><button>Call Us Now</button></a></div>
+            <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="<?=get_home_url()  ?>get-quotes" ><button>Get Free Quote</button></a>
+            <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a></div>
         </div>
     </section>
     <section class="testmo">
@@ -337,7 +337,7 @@
     </section>
     <?php include '../../footer.php' ?>
     <div class="sitebutton" id="sitebutton">
-        <a href="get-quotes"><button>GET FREE QUOTES</button></a>
+        <a href="<?=get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
     </div>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>
     <script>
