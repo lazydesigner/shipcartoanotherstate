@@ -187,30 +187,28 @@
         <div class="grid">
 
             <div class="item ">
-                <img src="https://rapidautoshipping.com/assets/images/auto-transport-open.jpg" alt="">
-                <span class="item2 items1">OPEN TRANSPORT SHIPPING</span>
+                <img src="<?= get_home_url()  ?>assets/images/California-to-Florida.webp" alt="">
+                <span class="item2 items1">CALIFORNIA TO FLORIDA</span>
             </div>
             <div class="item">
-                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667634733/cash-macanaya-9cSMMMSmZzY-unsplash-1024x1024_hbosfx.jpg" alt="">
-                <span class="item3 items1">ENCLOSED AUTO TRANSPORT</span>
+                <img src="<?= get_home_url()  ?>assets/images/California-To-Hawaii.webp" alt="">
+                <span class="item3 items1">CALIFORNIA TO HAWAII</span>
             </div>
             <div class="item">
-                <img src="https://rapidautoshipping.com/assets/images/loading-equipment-in-container-1.png" alt="">
-                <span class="item4 items1">HEAVY EQUIPMENT SHIPPING</span>
+                <img src="<?=get_home_url()  ?>assets/images/California-to-Texas.webp" alt="">
+                <span class="item4 items1">CALIFORNIA TO TEXAS</span>
             </div>
             <div class="item">
-                <img src="https://rapidautoshipping.com/assets/images/door-to-door-bg.jfif" alt="">
-                <span class="item5 items1">DOOR TO DOOR</span>
+                <img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland.webp" alt="">
+                <span class="item5 items1">HAWAII TO MAINLAND</span>
             </div>
             <div class="item ">
-                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1665832014/received_594529625738657_y8wkkh.jpg" alt="">
-                <span class="item1 items1 ">
-                    SNOWBIRD SHIPPING
-                </span>
+                <img src="<?=get_home_url()  ?>assets/images/New-York-To-Nevada.webp" alt="">
+                <span class="item1 items1 ">NEW-YORK TO NEVADA</span>
             </div>
             <div class="item">
-                <img src="https://res.cloudinary.com/dsmsqwx6q/image/upload/v1667637211/Recent%20Uploads/pexels-photo-4558369_clqufj.jpg" alt="">
-                <span class="item6 items1">BOAT SHIPPING</span>
+                <img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland2.webp" alt="">
+                <span class="item6 items1">HAWAII TO CALIFORNIA</span>
             </div>
         </div>
         <div class="more-service">
