@@ -225,7 +225,7 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
 
             <!-- <div class="addvertisement">
                 <p>When people want transportation, they want it now.</p>
-                <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
+                <a href="<?php //=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div> -->
             
            
@@ -304,7 +304,7 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/29/06/46/adult-1867889_640.jpg">
+                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/29/06/46/adult-1867889_640.jpg" alt="https://shipcartoanotherstate.com/new-york-to-nevada-auto-transport">
                     <h2>Mark de cole</h2>
                     <p>They did a great job delivering my two-wheeler in their trailer. Auto Shippers did a great job of
                         delivering it. This is my third time with them, and I am always happy with their services.</p>
@@ -313,7 +313,7 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2017/02/16/23/10/smile-2072907_640.jpg">
+                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2017/02/16/23/10/smile-2072907_640.jpg" alt="https://shipcartoanotherstate.com/new-york-to-nevada-auto-transport">
                     <h2>Steven Faith</h2>
                     <p>I asked them for car shipping in a trailer to Vegas. I have been using their services for many
                         years and I am never disappointed. The vehicles arrived quickly and safely.</p>
@@ -323,7 +323,7 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/18/19/07/happy-1836445_640.jpg">
+                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/18/19/07/happy-1836445_640.jpg" alt="https://shipcartoanotherstate.com/new-york-to-nevada-auto-transport">
                     <h2>Estep Meade</h2>
                     <p>Very accurate and in-time services. Their home pickup was excellent, and auto shippers took care
                         of the vehicle very well. If I had known they were so good, I would have also asked them for car
@@ -332,7 +332,7 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
             </div>
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2018/02/16/14/38/portrait-3157821_640.jpg">
+                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2018/02/16/14/38/portrait-3157821_640.jpg" alt="https://shipcartoanotherstate.com/new-york-to-nevada-auto-transport">
                     <h2>Mark Hill</h2>
                     <p>Their auto shipping services are accurate whether it is home pickup or taking care of my
                         vehicles. I was happy with all their services and their shipping and transport services were
