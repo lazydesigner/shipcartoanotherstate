@@ -608,7 +608,9 @@ height: auto;position: relative;z-index: 1;}
         width: 98%;
         font-size: 1rem;margin-top: 5%;
     }
-    .service-banner{background-size: auto;
+    .service-banner{
+        background-image: linear-gradient(45deg, dodgerblue, skyblue);
+        background-size: auto;
         background-position: center;height: 100%;}
     form{flex-wrap: wrap;}
     .form-group{width: 100%;margin: 5px 0;}
