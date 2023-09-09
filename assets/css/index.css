@@ -659,11 +659,11 @@ footer ul a{
     cursor: pointer;
     margin: auto;
     text-align: center;
-    color: rgb(21, 21, 21);
+      color: rgb(255, 255, 255);
     font-weight: bolder;
     padding: 2%;
     border-radius: 5px;
-    border: 1px solid rgb(21, 20, 20);
+    border: 1px solid rgb(242, 238, 238);
 }
 
 
