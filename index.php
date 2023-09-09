@@ -544,6 +544,18 @@
             .catch(error => {
                 console.log(error);
             });
+             document.getElementById('ship_vehicle').addEventListener('click',()=>{
+                document.getElementById('car-option').style.display='grid'
+            })
+
+        var sel = document.querySelectorAll('#cars')
+        for (i = 0; i < sel.length; i++) {
+            sel[i].addEventListener('click', function(e) {
+                e.preventDefault();
+                document.getElementById('ship_vehicle').value = ""+ this.children[1].innerText +""
+                document.getElementById('car-option').style.display='none'
+            })
+        }
     </script>
 </body>
 
