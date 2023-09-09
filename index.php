@@ -376,7 +376,7 @@
 
     </section>
     <?php include './footer.php' ?>
-
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>
     <script>
         document.getElementById('quote').addEventListener('click', function(e) {
 
