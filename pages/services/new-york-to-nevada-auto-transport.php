@@ -185,7 +185,7 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
                 </ul>
             </div>
             <div class="content-box-img">
-                <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%">
+                <!-- <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%"> -->
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">Some Cheapest Way to Ship a Car to Another State</h2>
@@ -220,7 +220,7 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
             
 
             <div class="content-box-img">
-                <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%">
+                <!-- <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%"> -->
             </div>
 
             <!-- <div class="addvertisement">
