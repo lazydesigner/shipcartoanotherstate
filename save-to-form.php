@@ -41,7 +41,7 @@ require './phpMailer/src/SMTP.php';
         $qoute_id = $row['qoute_id'] + 1;
         $route_distance = $_POST['path_distance'];
         
-        $insert_query = "INSERT INTO form_qoute (email, phone, ship_from, ship_to, vehicle_size,pickup_date, distance, qoute_id,url,ip) values ('$user_email', '$phone_number', '$ship_from', '$ship_to', '$vehicle_size','$pick_up_date', '$route_distance', '$qoute_id','$url','$ip')";
+        $insert_query = "INSERT INTO form_qoute (username,email, phone, ship_from, ship_to, vehicle_size,pickup_date, distance, qoute_id,url,ip) values ('$username','$user_email', '$phone_number', '$ship_from', '$ship_to', '$vehicle_size','$pick_up_date', '$route_distance', '$qoute_id','$url','$ip')";
        
         $insert_qoute = mysqli_query($con, $insert_query) or die("insert_query_failed");
         if($insert_qoute){

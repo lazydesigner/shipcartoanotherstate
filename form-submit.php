@@ -190,7 +190,7 @@
         <div class="container-bg"></div>
         <div class="form-div">
             <h1><strong>Get A Free Quote</strong></h1>
-            <form action="<?=get_home_url()  ?>save-to-form" method="post" id="next-step">
+            <form action="<?=get_home_url()  ?>save-to-form.php" method="post" id="next-step">
 
                 <div class="part1" id="part1">
                     <div class="form-group">
