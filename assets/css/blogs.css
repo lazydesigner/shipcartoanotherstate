@@ -296,7 +296,7 @@ header  a{text-decoration: none;color: black;}
     .container{background-size: auto;}
 }
 @media screen and (max-width:770px) {
-    .why-choose-us {height: auto; background-repeat: no-repeat;}
+    .why-choose-us {height: auto; background-repeat: no-repeat;background-size: auto;}
     .row{flex-wrap: wrap;}
     .form-div {width: 60%;}
     .form-div input {width: 100%;}
