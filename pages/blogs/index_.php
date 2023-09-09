@@ -75,7 +75,7 @@
                         <i class="ri-shield-flash-fill"></i>
                     </div>
                     <div class="reason-box-2">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, amet.
+                    We come from the top of the auto shipping company so as we have experienced and skilled staff to manage your shipping with our best services
                     </div>
                 </div>
                 <div class="reson-box">
@@ -83,7 +83,7 @@
                         <i class="ri-shield-flash-fill"></i>
                     </div>
                     <div class="reason-box-2">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, amet.
+                    We work on every aspect to ship your car. With our services you get  the hassle free shipping experience at less costing.
                     </div>
                 </div>
                 <div class="reson-box">
@@ -91,7 +91,7 @@
                         <i class="ri-shield-flash-fill"></i>
                     </div>
                     <div class="reason-box-2">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, amet.
+                    We charge no upfront payment!! That means you don't have to worry about the payment until the carrier  has been dispatched for your shipping.
                     </div>
                 </div>
                 <div class="reson-box" style="border: 0;">
