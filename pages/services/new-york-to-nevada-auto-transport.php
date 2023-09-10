@@ -29,9 +29,9 @@
     <style>
         @font-face {
 
-            font-family: "Open Sans";
+            font-family: "Open Sans"!important;
 
-            font-display: “swap”;
+            font-display: “swap”!important;
 
             src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2")
         }
