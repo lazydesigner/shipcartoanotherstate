@@ -100,8 +100,9 @@
                 <p class="content-section-paragraph">We have several beneficial methods available for shipping your car from Hawaii to the mainland. Let's explore our available services you can approach to transport your vehicle</p>
                 <h3 class="content-section-heading-h3">Roll-On/Roll-Off (RoRo) Shipping</h3>
                 <ul class="content-section-ul">
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph">Our RoRo shipping service drives your vehicle onto a specialized ship, where your vehicle is securely dispatched and transported to the mainland.</p></li><li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
+                        <p class="content-section-paragraph">Our RoRo shipping service drives your vehicle onto a specialized ship, where your vehicle is securely dispatched and transported to the mainland.</p></li>
+                        <li class="content-section-li">
                         <p class="content-section-paragraph">It's one of our most cost-effective options, but it may not be suitable for all types of vehicles or personal preferences. Furthermore it depends on the type of your vehicle.</p>
                     </li>
                 </ul>
