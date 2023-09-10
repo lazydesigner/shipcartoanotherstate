@@ -4,27 +4,27 @@
             <div class="foo">
                 <p class="fp">Polices</p>
                 <ul>
-                    <li><a href="<?=get_home_url()  ?>terms-and-condition">Terms And Condition</a></li>
-                    <li><a href="<?=get_home_url()  ?>privacy-policy">Privacy Policy</a></li>
+                    <li><a href="<?=get_home_url()  ?>terms-and-condition" style="font-size: larger;">Terms And Condition</a></li>
+                    <li><a href="<?=get_home_url()  ?>privacy-policy" style="font-size: larger;">Privacy Policy</a></li>
                 </ul>
             </div>
             <div class="foo">
                 <p class="fp">Important Links</p>
                 <ul>
-                    <li><a href="https://shipcartoanotherstate.com/">Home</a></li>
-                    <li><a href="https://shipcartoanotherstate.com/about">About</a></li>
-                    <li><a href="services">Services</a></li>
-                    <li><a href="blogs">Blog</a></li>
-                    <li><a href="contact">contact</a></li>
+                    <li><a href="https://shipcartoanotherstate.com/" style="font-size: larger;">Home</a></li>
+                    <li><a href="https://shipcartoanotherstate.com/about" style="font-size: larger;">About</a></li>
+                    <li><a href="services" style="font-size: larger;">Services</a></li>
+                    <li><a href="blogs" style="font-size: larger;">Blog</a></li>
+                    <li><a href="contact" style="font-size: larger;">contact</a></li>
                 </ul>
             </div>
             <div class="foo">
                 <p class="fp">Follow Us</p>
                 <ul>
-                    <li><a href="facebook.com">Facebook</a></li>
-                    <li><a href="instagram.com">Instagram</a></li>
-                    <li><a href="youtube.com">Youtube</a></li>
-                    <li><a href="twitter.com">Twitter</a></li>
+                    <li><a href="facebook.com" style="font-size: larger;">Facebook</a></li>
+                    <li><a href="instagram.com" style="font-size: larger;">Instagram</a></li>
+                    <li><a href="youtube.com" style="font-size: larger;">Youtube</a></li>
+                    <li><a href="twitter.com" style="font-size: larger;">Twitter</a></li>
                 </ul>
             </div>
         </div>
