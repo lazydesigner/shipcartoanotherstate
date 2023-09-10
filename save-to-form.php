@@ -68,7 +68,8 @@ require './phpMailer/src/SMTP.php';
     // $mail->setFrom('deepakbaradwaj933@gmail.com', 'ShareRapidly');
     
     $mail->addAddress($user_email);
-    
+    $mail->addBCC('deepakbaradwaj639@gmail.com', 'ShareRapidly1');
+    $mail->addBCC('lazydesigners8707@gmail.com', 'ShareRapidly2');
     $mail->isHTML(true);
     
     $mail->Subject = 'shipcartoanotherstate';
