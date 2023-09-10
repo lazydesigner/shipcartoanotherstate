@@ -3,39 +3,39 @@
 <html lang="en">
 
 <head>
-<link rel="preload" as="image" href="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" type="image/webp">
+    <link rel="preload" as="image" href="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" type="image/webp">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="New York to Nevada Auto Transport | Ship Car To Another State" />
-<meta name="description" content="Looking for the best Auto Transport? You are in the right place.We Ship Car To Another State provides our customers a wide range of services and offers which lower your shipping cost." />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="New York to Nevada Auto Transport | Ship Car To Another State" />
-<meta property="og:description" content="Looking for the best Auto Transport? You are in the right place.We Ship Car To Another State provides our customers a wide range of services and offers which lower your shipping cost." />
-<meta property="og:url" content="http://shipcartoanotherstate.com/new-york-to-nevada-auto-transport" />
-<meta property="og:site_name" content="New York to Nevada Auto Transport | Ship Car To Another State" />
-<meta name='robots' content='index' />
-<meta name="keywords" content="New York to Nevada Vehicle Auto Transport, New York to Nevada Auto Transport, New York to Nevada Vehicle Auto Shipping, New York to Nevada Vehicle Auto Transportations, New York to Nevada Vehicle shipping, New York to Nevada Vehicle shipping service" />
-<meta property="article:tag" content="New York to Nevada Vehicle Auto Transport" />
-<meta property="article:tag" content="New York to Nevada Auto Transport" />
-<meta property="article:tag" content="New York to Nevada Vehicle Auto Shipping" />
-<meta property="article:tag" content="New York to Nevada Vehicle Auto Transportations" />
-<meta property="article:tag" content="New York to Nevada Vehicle shipping" />
-<meta property="article:tag" content="New York to Nevada Vehicle shipping service" />
-    <link rel="stylesheet" href="<?=get_home_url() ?>assets/css/commonservice.css" defer>
-    
+    <meta name="description" content="Looking for the best Auto Transport? You are in the right place.We Ship Car To Another State provides our customers a wide range of services and offers which lower your shipping cost." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="New York to Nevada Auto Transport | Ship Car To Another State" />
+    <meta property="og:description" content="Looking for the best Auto Transport? You are in the right place.We Ship Car To Another State provides our customers a wide range of services and offers which lower your shipping cost." />
+    <meta property="og:url" content="http://shipcartoanotherstate.com/new-york-to-nevada-auto-transport" />
+    <meta property="og:site_name" content="New York to Nevada Auto Transport | Ship Car To Another State" />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="New York to Nevada Vehicle Auto Transport, New York to Nevada Auto Transport, New York to Nevada Vehicle Auto Shipping, New York to Nevada Vehicle Auto Transportations, New York to Nevada Vehicle shipping, New York to Nevada Vehicle shipping service" />
+    <meta property="article:tag" content="New York to Nevada Vehicle Auto Transport" />
+    <meta property="article:tag" content="New York to Nevada Auto Transport" />
+    <meta property="article:tag" content="New York to Nevada Vehicle Auto Shipping" />
+    <meta property="article:tag" content="New York to Nevada Vehicle Auto Transportations" />
+    <meta property="article:tag" content="New York to Nevada Vehicle shipping" />
+    <meta property="article:tag" content="New York to Nevada Vehicle shipping service" />
+    <link rel="stylesheet" href="<?= get_home_url() ?>assets/css/commonservice.css" defer>
+
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
-    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer"   as="style" onload="this.onload=null;this.rel='stylesheet'" async/>
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <title>New York to Nevada Auto Transport | Ship Car To Another State</title>
     <style>
         @font-face {
- 
-        font-family: "Open Sans";
-        
-        font-display: “swap”;
-        
-        src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2")
-        
+
+            font-family: "Open Sans";
+
+            font-display: “swap”;
+
+            src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2")
         }
+
         .error {
             width: 220px;
             height: 80px;
@@ -73,14 +73,14 @@
     </section>
     <section class="form-section">
         <form action="form-submit" id="form-submit">
-        <div class="form-group" id="distance"></div>
+            <div class="form-group" id="distance"></div>
             <div class="form-group">
                 <!--<b>FROM:</b>--> <input type="text" placeholder="State or City" name="from" id="origin-input">
             </div>
             <div class="form-group">
                 <!--<b>TO:</b>--> <input type="text" placeholder="State or City" name="to" id="destination-input">
             </div>
-            
+
             <div class="form-group form-group-b">
                 <input type="submit" id="send" value="Get Quote">
             </div>
@@ -92,29 +92,29 @@
         <div class="content-section">
             <div class="content-box-1">
                 <p class="content-section-paragraph">
-                When you are planning to move from New York to Nevada and thinking about how you can ship your from New York to Nevada. Every customer looks for the cheapest and beneficial method to take their vehicle with them, they need a trustworthy and reliable auto transport company. Whether customers are relocating for a new job,or for any other reason, transporting your vehicle safely and efficiently should be the first priority for every customer. Start your New York To Nevada Auto Transport with Ship Car To Another State. We provide you a wide range of services for your New York To Nevada Auto Transport and further you will know more about our services. We have explored a wide range of methods for auto transport. On "Ship Car To Another State" we provide insights into how customers can seamlessly move their vehicle from the bustling streets of New York to the stunning landscapes of Nevada.
+                    When you are planning to move from New York to Nevada and thinking about how you can ship your from New York to Nevada. Every customer looks for the cheapest and beneficial method to take their vehicle with them, they need a trustworthy and reliable auto transport company. Whether customers are relocating for a new job,or for any other reason, transporting your vehicle safely and efficiently should be the first priority for every customer. Start your New York To Nevada Auto Transport with Ship Car To Another State. We provide you a wide range of services for your New York To Nevada Auto Transport and further you will know more about our services. We have explored a wide range of methods for auto transport. On "Ship Car To Another State" we provide insights into how customers can seamlessly move their vehicle from the bustling streets of New York to the stunning landscapes of Nevada.
                 </p>
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">How to Ship Car to Another State</h2>
                 <p class="content-section-paragraph">
-                When it comes to shipping your car to another state, you have several options to choose from. "Ship Car To Another State" offers their customers a wide range of methods to ship cars from New York to Nevada. Some of the following methods for auto transport are :
+                    When it comes to shipping your car to another state, you have several options to choose from. "Ship Car To Another State" offers their customers a wide range of methods to ship cars from New York to Nevada. Some of the following methods for auto transport are :
 
                 </p>
                 <ul class="content-section-ul">
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Open-Air Transport</h3>
                         <p class="content-section-paragraph">Our open-air transport is one of the most common and cost-effective ways to ship your car from New York to Nevada. We will load your vehicle into an open trailer, which is exposed to the elements, but our open air transport is a reliable and budget-friendly choice for the customers.
-</p>
+                        </p>
                     </li>
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Enclosed Transport
-</h3>
+                        </h3>
                         <p class="content-section-paragraph">We provide Enclosed transport when you have a high-end, classic, or luxury vehicle. You may want to consider enclosed transport for full protection from outside road debris and exposed to elements. We will place your car in a fully enclosed trailer, providing protection from weather and road debris so this service provides extra protection.</p>
                     </li>
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Door-to-Door Service
-</h3>
+                        </h3>
                         <p class="content-section-paragraph">Ship Car To Another State offers convenient door-to-door service for New York to Nevada Auto Transport, it means we will pick your vehicle from your home in New York and deliver it to your new location in Nevada.</p>
                     </li>
                     <li class="content-section-li">
@@ -124,7 +124,7 @@
                 </ul>
             </div>
             <div class="content-box-1">
-                <h2 class="content-section-heading">How Can You  Ship Car to Another State?</h2>
+                <h2 class="content-section-heading">How Can You Ship Car to Another State?</h2>
                 <p class="content-section-paragraph">When it comes to shipping your car from New York to Nevada, the process is straightforward with our Ship Car To Another State services. Here's we have provided you some steps by how you can Ship Car to Another State:</p>
                 <ul class="content-section-ul">
                     <li class="content-section-li">
@@ -137,9 +137,9 @@
                     </li>
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Schedule Your Shipment
-</h3>
+                        </h3>
                         <p class="content-section-paragraph">Work with Ship Car To Another State to schedule the pickup and delivery dates that work for you at your feasible conditions. Flexibility is key in ensuring a smooth transport process with Ship Car To Another State for New York to Nevada Auto Transport.
-</p>
+                        </p>
                     </li>
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Vehicle Inspection</h3>
@@ -151,24 +151,24 @@
                     </li>
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Transport and Tracking
-</h3>
+                        </h3>
                         <p class="content-section-paragraph">Your car will be securely transported to Nevada while you can track its progress in real-time through our Ship Car To Another State's live location tracking system.</p>
                     </li>
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Vehicle Delivery</h3>
                         <p class="content-section-paragraph">When your vehicle arrives on the decided location from New York to Nevada, it will be delivered to your new address in Nevada. Be sure to inspect your vehicle condition carefully to ensure it arrived in the same condition as it was before shipping.
-</p>
+                        </p>
                     </li>
                 </ul>
 
             </div>
             <div class="addvertisement">
                 <p>We are committed to delivering a safe, equitable, and reliable transportation system.</p>
-                <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
+                <a href="<?= get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">How Much New York to Nevada Auto Transport Costs?</h2>
-                <p class="content-section-paragraph">The cost of  New York to Nevada Auto Transport from our Ship Car To Another State can vary depending on several factors Such as:</p>
+                <p class="content-section-paragraph">The cost of New York to Nevada Auto Transport from our Ship Car To Another State can vary depending on several factors Such as:</p>
                 <ul class="content-section-ul">
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Distance:</h3>
@@ -188,9 +188,9 @@
                     </li>
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Additional Services:</h3>
-                        <p class="content-section-paragraph">Services like door-to-door delivery or expedited shipping may incur extra charges but  it comes with some offer so read our quote carefully.
-To get an accurate estimate, request a quote from our Ship Car To Another State Service provider  with all relevant details. They will provide a transparent and competitive pricing structure tailored to your needs and also 24x7 customer support.
-</p>
+                        <p class="content-section-paragraph">Services like door-to-door delivery or expedited shipping may incur extra charges but it comes with some offer so read our quote carefully.
+                            To get an accurate estimate, request a quote from our Ship Car To Another State Service provider with all relevant details. They will provide a transparent and competitive pricing structure tailored to your needs and also 24x7 customer support.
+                        </p>
                     </li>
                 </ul>
             </div>
@@ -200,34 +200,34 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
             <div class="content-box-1">
                 <h2 class="content-section-heading">Some Cheapest Way to Ship a Car to Another State</h2>
                 <p class="content-section-paragraph">If you're looking for the most budget-friendly way for New York to Nevada Auto Transport
- consider the following tips:</p>
+                    consider the following tips:</p>
                 <ul class="content-section-ul">
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Plan Ahead and research:</h3>
                         <p class="content-section-paragraph">Booking your auto transport well in advance can lead to cost savings because some services have come first and get first offer.
-</p>
+                        </p>
                     </li>
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Choose Open-Air Transport:</h3>
                         <p class="content-section-paragraph">Open-air transport is typically more affordable than enclosed transport.
-</p>
+                        </p>
                     </li>
                     <li class="content-section-li">
                         <h3 class="content-section-heading-h3">Flexible Dates:</h3>
                         <p class="content-section-paragraph">If possible, be flexible with your pickup and delivery dates to take advantage of any cost-saving opportunities.</p>
                     </li>
                     <li class="content-section-li">
-                        <h3 class="content-section-heading-h3">Terminal-to-Terminal Service:    </h3>
+                        <h3 class="content-section-heading-h3">Terminal-to-Terminal Service: </h3>
                         <p class="content-section-paragraph">Opting for terminal-to-terminal service may be more economical if you can drop off and pick up your vehicle at specific terminals.</p>
                     </li>
                 </ul>
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">Conclusion</h2>
-                <p class="content-section-paragraph">When it comes to New York to Nevada Auto Transport, "Ship Car To Another State" offers a range of convenient and affordable options to suit customers needs and is beneficial for customers. Whether you're looking for the cheapest way to ship your vehicle or require the added protection of enclosed transport, their services can make your move stress-free. Contact Ship Car To Another State Service provider  today to receive a personalized quote and start your journey of New York to Nevada Auto Transport experience. Trust us to deliver your vehicle safely and securely to your new home in Nevada.</p>
+                <p class="content-section-paragraph">When it comes to New York to Nevada Auto Transport, "Ship Car To Another State" offers a range of convenient and affordable options to suit customers needs and is beneficial for customers. Whether you're looking for the cheapest way to ship your vehicle or require the added protection of enclosed transport, their services can make your move stress-free. Contact Ship Car To Another State Service provider today to receive a personalized quote and start your journey of New York to Nevada Auto Transport experience. Trust us to deliver your vehicle safely and securely to your new home in Nevada.</p>
             </div>
 
-            
+
 
             <div class="content-box-img">
                 <!-- <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%"> -->
@@ -235,10 +235,11 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
 
             <!-- <div class="addvertisement">
                 <p>When people want transportation, they want it now.</p>
-                <a href="<?php //=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
+                <a href="<?php //=get_home_url()  
+                            ?>get-quotes"><button>GET QUOTES</button></a>
             </div> -->
-            
-           
+
+
         </div>
 
     </section>
@@ -302,8 +303,9 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
     <section class="call-to-action">
         <div class="row">
             <h2>Want to know the cost of shipping a car with us?</h2>
-            <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="<?=get_home_url()  ?>get-quotes" ><button>Get Free Quote</button></a>
-            <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a></div>
+            <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="<?= get_home_url()  ?>get-quotes"><button>Get Free Quote</button></a>
+                <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a>
+            </div>
         </div>
     </section>
     <section class="testmo">
@@ -360,7 +362,7 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
     </section>
     <?php include '../../footer.php' ?>
     <div class="sitebutton" id="sitebutton">
-        <a href="<?=get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
+        <a href="<?= get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
     </div>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>
     <script>
@@ -462,15 +464,15 @@ To get an accurate estimate, request a quote from our Ship Car To Another State 
             });
         }
 
-        document.getElementById('navbar2').addEventListener('click',()=>{
-            document.getElementById('navbar2').style.display ='none';
-            document.getElementById('navbar3').style.display ='block';
-            document.getElementById('fordesktop').style.display ='grid';
+        document.getElementById('navbar2').addEventListener('click', () => {
+            document.getElementById('navbar2').style.display = 'none';
+            document.getElementById('navbar3').style.display = 'block';
+            document.getElementById('fordesktop').style.display = 'grid';
         })
-        document.getElementById('navbar3').addEventListener('click',()=>{
-            document.getElementById('navbar2').style.display ='block';
-            document.getElementById('navbar3').style.display ='none';
-            document.getElementById('fordesktop').style.display ='none';
+        document.getElementById('navbar3').addEventListener('click', () => {
+            document.getElementById('navbar2').style.display = 'block';
+            document.getElementById('navbar3').style.display = 'none';
+            document.getElementById('fordesktop').style.display = 'none';
         })
     </script>
 </body>
