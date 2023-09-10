@@ -1,5 +1,4 @@
 <?php include '../../routes.php';
-header('Cache-Control: max-age=3600');
 ?>
 <!DOCTYPE html>
 <html lang="en">
