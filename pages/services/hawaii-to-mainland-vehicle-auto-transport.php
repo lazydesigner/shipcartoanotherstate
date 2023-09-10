@@ -102,7 +102,7 @@
                 <ul class="content-section-ul">
                     <li class="content-section-li" style="list-style: disc;">
                         <p class="content-section-paragraph">Our RoRo shipping service drives your vehicle onto a specialized ship, where your vehicle is securely dispatched and transported to the mainland.</p></li>
-                        <li class="content-section-li">
+                        <li class="content-section-li" style="list-style: disc;">
                         <p class="content-section-paragraph">It's one of our most cost-effective options, but it may not be suitable for all types of vehicles or personal preferences. Furthermore it depends on the type of your vehicle.</p>
                     </li>
                 </ul>
@@ -110,20 +110,20 @@
                 <ul class="content-section-ul">
                     <li class="content-section-li">
 
-                        <p class="content-section-paragraph">If you select our Container shipping service then we place your car in a secure container to avoid any damage or harm to your vehicle.</p></li><li class="content-section-li">
+                        <p class="content-section-paragraph" style="list-style: disc;">If you select our Container shipping service then we place your car in a secure container to avoid any damage or harm to your vehicle.</p></li><li class="content-section-li" style="list-style: disc;">
                         <p class="content-section-paragraph">Our container shipping offers you some extra protection and security by making it the perfect choice for your luxurious and high-value vehicles.</p>
                     </li>
                 </ul>
                 <h3 class="content-section-heading-h3">Air Freight</h3>
                 <ul class="content-section-ul">
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph">Our air freight service will be beneficial for customers if you're looking for the quickest way to transport your vehicle.</p></li><li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
+                        <p class="content-section-paragraph">Our air freight service will be beneficial for customers if you're looking for the quickest way to transport your vehicle.</p></li><li class="content-section-li" style="list-style: disc;">
                         <p class="content-section-paragraph">Eventually Air Freight service is the most expensive service and may have limited availability for the customers.</p>
                     </li>
                 </ul>
                 <h3 class="content-section-heading-h3">Combination of Methods</h3>
                 <ul class="content-section-ul">
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <p class="content-section-paragraph">In some special cases, a combination of methods may be used, such as RoRo shipping from Hawaii to the mainland.</p>
                     </li>
                 </ul>
@@ -135,27 +135,27 @@
                 <h2 class="content-section-heading">Prepare Your Vehicle for Transport</h2>
                 <p class="content-section-paragraph">Preparing your vehicle before the transport is essential to ensure a smooth and trouble-free journey,So delivery time and expenses can be cut off. Follow these key steps before transport:</p>
                 <ul class="content-section-ul">
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">The Accessibility</h3> -->
                         <p class="content-section-paragraph">Clean your car thoroughly, inside and out, so its inspection is easy and fast.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Availability</h3> -->
                         <p class="content-section-paragraph">Remove all personal belongings from the vehicle because they do not come under the insurance policy.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Versatility</h3> -->
                         <p class="content-section-paragraph">Make sure to document any existing damage and click photographs for your records to avoid any problem.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Enhanced Visibility</h3> -->
                         <p class="content-section-paragraph">Make sure to ensure that your vehicle is in working condition so it will be easy for service providing drivers to ship it on time.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Enhanced Visibility</h3> -->
                         <p class="content-section-paragraph">Disable your car's alarm system to avoid any disturbance in delivery.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Enhanced Visibility</h3> -->
                         <p class="content-section-paragraph">Ensure to leave only a quarter tank of gas in the vehicle which reduces weight and fuel expense.</p>
                     </li>
@@ -188,23 +188,23 @@
                 <h2 class="content-section-heading">Cost Factors and Estimates Quotes</h2>
                 <p class="content-section-paragraph">The cost of shipping your car from Hawaii to the mainland varies widely on different factors such as: </p>
                 <ul class="content-section-ul">
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">The Accessibility</h3> -->
                         <p class="content-section-paragraph">The mode of shipping you choose</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Availability</h3> -->
                         <p class="content-section-paragraph">The model of your vehicle</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Versatility</h3> -->
                         <p class="content-section-paragraph">The distance from your mainland destination</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Enhanced Visibility</h3> -->
                         <p class="content-section-paragraph">Seasonal interface and fluctuations in shipping rates</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Enhanced Visibility</h3> -->
                         <p class="content-section-paragraph">Additional services, such as door-to-door delivery</p>
                     </li>
@@ -213,22 +213,22 @@
             </div>
 
             <div class="content-box-img">
-                <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%">
+                <!-- <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%"> -->
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">Preparing for Pickup and Delivery</h2>
                 <p class="content-section-paragraph">Prepare your pick up and delivery with Ship Car To Another State. Before your vehicle is picked up for transport, there are several steps every customer have to follow:</p>
                 <ul class="content-section-ul">
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Season of the year</h3> -->
                         <p class="content-section-paragraph">Confirm your pickup and delivery locations and times with the transport company to avoid every possible mistake and delay in delivery.
 </p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Distance</h3> -->
                         <p class="content-section-paragraph">Make Sure that someone should present at both ends of the transport to oversee the loading and unloading process of your vehicle.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">The extent</h3> -->
                         <p class="content-section-paragraph">Hand over all the necessary documents, including the vehicle's registration to the transport company.</p>
                     </li>
@@ -247,15 +247,15 @@
                 <h2 class="content-section-heading">Receiving Your Vehicle on the Mainland</h2>
                 <p class="content-section-paragraph">Once your vehicle arrives on the mainland, You have to follow some specific steps to for a smooth vehicle pickup:</p>
                 <ul class="content-section-ul">
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Rinse it</h3> -->
                         <p class="content-section-paragraph">Check for all inspect your car for any damage or discrepancies. Document any issues you found in the vehicle after delivery.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Deactivate all alarm systems</h3> -->
                         <p class="content-section-paragraph">Clear any remaining fees or charges to the transport company.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Examine for air leakage and pressure</h3> -->
                         <p class="content-section-paragraph">Collect all the necessary documentation, including the bill of loading and Unloading.</p>
                     </li>
