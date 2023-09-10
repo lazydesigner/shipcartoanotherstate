@@ -199,8 +199,8 @@
                 <span class="item4 items1">CALIFORNIA TO TEXAS</span>
             </div>
             <div class="item">
-                <img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland.webp" alt="">
-                <span class="item5 items1">HAWAII TO MAINLAND</span>
+                <a href="<?=get_home_url()  ?>hawaii-to-mainland-vehicle-auto-transport"><img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland.webp" alt="">
+                <span class="item5 items1">HAWAII TO MAINLAND</span></a>
             </div>
             <div class="item ">
                 <a href="<?=get_home_url()  ?>new-york-to-nevada-auto-transport"><img src="<?=get_home_url()  ?>assets/images/New-York-To-Nevada.webp" alt="">
