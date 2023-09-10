@@ -160,6 +160,7 @@
                             </div>
                         </div>
                         <div class="part2" id="part2">
+                            <div id="ip"></div>
                             <div class="form-group">
                                 <label for="">Email</label><br>
                                 <input type="email" name="user_email" placeholder="Enter Your Email" id="email">
