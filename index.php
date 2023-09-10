@@ -63,7 +63,7 @@
         <div class="herosection_">
             <div class="herosection_bg">
             </div>
-            <img src="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp"  fetchpriority="high" width="100%" height="100%" class="backgroundimg" alt="">
+            <img src="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp" id="desk_image"  fetchpriority="high" width="100%" height="100%" class="backgroundimg" alt="">
             <div class="row">
                 <div class="herosection_content">
                     <h1>Best Auto Shipping Company In Usa</h1>
@@ -599,7 +599,18 @@
                 document.getElementById('car-option').style.display='none'
             })
         }
+var image = document.getElementById('desk_image');
+        var originalSrc = '<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp';
+        var alternateSrc = '<?= get_home_url()  ?>assets/images/ship-car-to-another-state2.webp';
 
+        function handleResize() {
+            var windowWidth = window.innerWidth || document.documentElement.clientWidth;
+            if (windowWidth >= 550) {
+                image.src = originalSrc;
+            } else {
+                image.src = alternateSrc;
+            }
+        }
         
     </script>
 </body>
