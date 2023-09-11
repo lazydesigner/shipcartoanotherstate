@@ -188,8 +188,8 @@
         <div class="grid">
 
             <div class="item ">
-                <img src="<?= get_home_url()  ?>assets/images/California-to-Florida.webp" alt="">
-                <span class="item2 items1">CALIFORNIA TO FLORIDA</span>
+                <a href="<?= get_home_url()  ?>california-to-florida-vehicle-auto-transport"><img src="<?= get_home_url()  ?>assets/images/California-to-Florida.webp" alt="">
+                <span class="item2 items1">CALIFORNIA TO FLORIDA</span></a>
             </div>
             <div class="item">
                 <a href="<?= get_home_url()  ?>california-to-hawaii-vehicle-auto-transport"><img src="<?= get_home_url()  ?>assets/images/California-To-Hawaii.webp" alt="">

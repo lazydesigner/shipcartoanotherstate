@@ -269,30 +269,26 @@
             <p class="why-choose-us__title" style="margin: 0;">Why Choose Us?</p>
             <p style="text-align: center;color:white;margin-bottom:3.5%;padding:0">We Provide the Best Facilites For
                 Transport</p>
-            <div class="row">
+                <div class="row">
                 <div class="box">
                     <i class="ri-service-line"></i>
                     <p><strong>BEST SERVICES</strong></p>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum quae fugit praesentium at
-                        eligendi sequi!</p>
+                    <p>At high excellence, we offer our customers a wide range of services like open and enclosed car transport service with additional services including Door-to-Door car shipping, California to Hawaii car shipping and Military PCS shipping with competitive rates.</p>
                 </div>
                 <div class="box">
                     <i class="ri-shield-check-fill"></i>
                     <p><b>SAFE AND SECURE </b></p>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum impedit, molestias id culpa,
-                        incidunt quos sequi .</p>
+                    <p>We Promise! For your vehicle safety. We provide the ultimate protection to your car as it matters most for you. Our top-notch security solutions like enclosed carriers and experienced drivers ensure your vehicle safety. Trust Ship Car To Another State expertise, because your car safety is our priority.</p>
                 </div>
                 <div class="box">
                     <i class="ri-pin-distance-line"></i>
                     <p><b>EXPRESS SHIPPING</b></p>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab omnis vitae, laborum explicabo
-                        laudantium earum nulla?</p>
+                    <p>We excels in express shipping, guaranteeing swift and reliable deliveries, making them the top choice for urgent transportation needs.</p>
                 </div>
                 <div class="box">
                     <i class="ri-money-dollar-circle-line"></i>
                     <p><b>PRICE MATCH</b></p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam amet ipsam labore beatae eveniet
-                        eaque?</p>
+                    <p>You will have unbeatable savings with the Ship Car To Another State Price Match guarantee! We have beaten every competitor's price and we ensure you always get the best services at lowest market cost .</p>
                 </div>
             </div>
         </div>
@@ -302,18 +298,18 @@
         <p class="how-it-work-title">How It Work</p>
         <div class="how-work row">
             <div class="how-box a">
-                <p><b>Picking your Vehicle</b></p>
-                <span>Before the pickup, our team will contact you to understand your needs.</span>
+                <p><b>Vehicle pick up</b></p>
+                <span>Our staff professional will pick your vehicle from your desired location on your desired date.</span>
             </div>
             <div class="how-a"></div>
             <div class="how-box a">
-                <p><b>Shipping your Vehicle</b></p>
-                <span>Your vehicle will arrive securely thanks to our professional infrastructure.</span>
+                <p><b>Shipping Process</b></p>
+                <span>Our professionals clear all the documentation and other processes and ready your vehicle for shipping</span>
             </div>
             <div class="how-a"></div>
             <div class="how-box">
-                <p><b>Delivering your vehicle</b></p>
-                <span>Most car shipping carriers phone ahead of time to restrict the delivery window.</span>
+                <p><b>Vehicle delivery</b></p>
+                <span>We ensure our professionals deliver your vehicle on the decided date and we provide live shipment tracking with 24×7 live support.</span>
             </div>
         </div>
     </section>
