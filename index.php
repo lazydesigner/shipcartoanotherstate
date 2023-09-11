@@ -97,63 +97,63 @@
                                 <label for="">Vehicle Size</label><br>
                                 <input type="text" placeholder="Select an option" name="vehicle_size" id="ship_vehicle" readonly>
                                 <div class="car-option" id="car-option">
-                                    <div class="cars" id="cars"><img src="./assets/images/car/boat-trailer.png" alt="">
-                                        <p>boat-trailer</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/dually-pickup.png" alt="">
-                                        <p>dually-pickup</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/fullsize-van.png" alt="">
-                                        <p>fullsize-van</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/golf-cart.png" alt="">
-                                        <p>golf-cart</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/hypercar.png" alt="">
-                                        <p>hypercar</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/large-car.png" alt="">
-                                        <p>large-car</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/large-pickup.png" alt="">
-                                        <p>large-pickup</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/large-suv.png" alt="">
-                                        <p>large-suv</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/medium-pickup.png" alt="">
-                                        <p>medium-pickup</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/midsize-suv.png" alt="">
-                                        <p>midsize-suv</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/midsize-car.png" alt="">
-                                        <p>midsize-car</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/mini-van.png" alt="">
-                                        <p>mini-van</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/motorcycle.png" alt="">
-                                        <p>motorcycle</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/small-car.png" alt="">
-                                        <p>small-car</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/small-suv.png" alt="">
-                                        <p>small-suv</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/small_car.png" alt="">
-                                        <p>small-car</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/sports-car.png" alt="">
-                                        <p>sports-car</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/travel-trailer.png" alt="">
-                                        <p>travel-trailer</p>
-                                    </div>
-                                    <div class="cars" id="cars"><img src="./assets/images/car/others.png" alt="">
-                                        <p>others</p>
-                                    </div>
+                                <div class="cars" id="cars"><img src="./assets/images/car/small-car.png" alt="">
+                                <p>small-car</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/small_car.png" alt="">
+                                <p>small-car</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/large-car.png" alt="">
+                                <p>large-car</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/midsize-car.png" alt="">
+                                <p>midsize-car</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/sports-car.png" alt="">
+                                <p>sports-car</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/midsize-suv.png" alt="">
+                                <p>midsize-suv</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/small-suv.png" alt="">
+                                <p>small-suv</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/large-suv.png" alt="">
+                                <p>large-suv</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/hypercar.png" alt="">
+                                <p>hypercar</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/motorcycle.png" alt="">
+                                <p>motorcycle</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/mini-van.png" alt="">
+                                <p>mini-van</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/fullsize-van.png" alt="">
+                                <p>fullsize-van</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/dually-pickup.png" alt="">
+                                <p>dually-pickup</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/golf-cart.png" alt="">
+                                <p>golf-cart</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/large-pickup.png" alt="">
+                                <p>large-pickup</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/medium-pickup.png" alt="">
+                                <p>medium-pickup</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/travel-trailer.png" alt="">
+                                <p>travel-trailer</p>
+                            </div>
+                            <div class="cars" id="cars"><img src="./assets/images/car/boat-trailer.png" alt="">
+                                <p>boat-trailer</p>
+                            </div>      
+                            <div class="cars" id="cars"><img src="./assets/images/car/others.png" alt="">
+                                <p>others</p>
+                            </div>
                                 </div>
                             </div>
                             <div class="form-group" style="text-align: center;margin:10px auto;">
