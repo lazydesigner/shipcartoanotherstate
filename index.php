@@ -195,8 +195,8 @@
                 <span class="item3 items1">CALIFORNIA TO HAWAII</span></a>
             </div>
             <div class="item">
-                <img src="<?=get_home_url()  ?>assets/images/California-to-Texas.webp" alt="">
-                <span class="item4 items1">CALIFORNIA TO TEXAS</span>
+                <a href="<?= get_home_url()  ?>california-to-texas-vehicle-auto-transport"><img src="<?=get_home_url()  ?>assets/images/California-to-Texas.webp" alt="">
+                <span class="item4 items1">CALIFORNIA TO TEXAS</span></a>
             </div>
             <div class="item">
                 <a href="<?=get_home_url()  ?>hawaii-to-mainland-vehicle-auto-transport"><img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland.webp" alt="">
@@ -606,12 +606,14 @@ var image = document.getElementById('desk_image');
 
         function handleResize() {
             var windowWidth = window.innerWidth || document.documentElement.clientWidth;
-            if (windowWidth >= 550) {
+            if (windowWidth >= 500) {
                 image.src = originalSrc;
             } else {
                 image.src = alternateSrc;
             }
         }
+         window.addEventListener('resize', handleResize);
+        handleResize();
         
     </script>
 </body>
