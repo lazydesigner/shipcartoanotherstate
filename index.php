@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-    <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp" type="image/webp">
+    <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/ship-car-to-another-state2.webp" type="image/webp">
     <meta charset="UTF-8">
     <meta name="title" content="How To Ship A Car To Another State | Ship Car To Another State" />
     <meta name="description" content="Ship Car To Another State is the best choice for your car, whether it's a luxurious sedan or a Classic Car. We provide you the best affordable and reliable Auto Shipping services in the US. Call us now at +1-833-233-4447" />
