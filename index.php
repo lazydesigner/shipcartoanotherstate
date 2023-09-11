@@ -25,9 +25,10 @@
     <meta property="article:tag" content="cost to ship car to another state" />
     <meta property="article:tag" content="how to ship your car to another state" />
 <!-- change -->
+<meta name="google-site-verification" content="970kFHxDIhqBEORbOCCKDtfAS19KZPYrQdbsVWcSFCk" />
     <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link  rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css" async>
+    <link  rel="stylesheet" href="<?= get_home_url()  ?>deepak/assets/css/index.css" async>
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -50,7 +51,13 @@
             font-size: 1.2rem;
             z-index: 10;
         }
-
+        .guranteed {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: -10%;
+    top: -10%;
+}
         /*  */
     </style>
 </head>
@@ -60,7 +67,7 @@
     <div class="error" id="error">
         <p id="error-text">Directions request returned no results</p>
     </div>
-    <section class="herosection">
+    <section class="herosection" id="bod">
         <div class="herosection_">
             <div class="herosection_bg">
             </div>
@@ -68,13 +75,14 @@
             <div class="row">
                 <div class="herosection_content">
                     <h1>Best Auto Shipping Company In Usa</h1>
-                    <p class="hero-p">We provide our customers an array of solutions for our clientele, such as cross-state cargo transport, quick consignment dispatch, domestic relocations, automobile conveyance, real-time package monitoring, and a plethora of additional offerings.</p>
+                    <p class="hero-p">We are on top of the Auto transportation industry, as we provide fast and budget friendly shipping from one state to another. We have 4 million+ active user with positive customer rating on Trust pilot and 4.9 star rating on BBB</p>
                     <div class="rating">
                         <img src="./assets/images/b.svg" class="review-img" width="150px" height="100%" alt="">
                         <p><b>ShipCartoAnotherState</b> rating<br> Based on 13956 customer review</p>
                     </div>
                 </div>
-                <div class="form-div">
+                <div class="form-div" style="position: relative;">
+                    <div class="guranteed"><img src="./assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
                     <h1><strong>Get A Free Quote</strong></h1>
                     <form action="<?= get_home_url()  ?>save-to-form" id="form-" method="post">
 
@@ -181,8 +189,49 @@
             </div>
         </div>
     </section>
+    <div class="top-review-row">
+        <div class="top-review-col">
+            <div class="top-review-box">
+                <div class="top-review-detail">
+                    <span>GOOGLE</span><br>
+                    <span class="top-rating-star"><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-half-fill"></i></span><br>
+                    <span style="font-size: small;color:grey;">(14,534 reviews)</span>
+                </div>
+                <div class="top-review-ratings" style="text-align: center;">
+                    <span class="top-rating-font"><strong>4.8</strong></span>
+                    <div class="top-review-img"><img src="./assets/images/google.png" width="100%" height="100%" alt=""></div>
+                </div>
+            </div>
+        </div>
+        <div class="top-review-col">
+            <div class="top-review-box">
+                <div class="top-review-detail">
+                    <span>Transport Reviews</span><br>
+                    <span class="top-rating-star"><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-half-fill"></i></span><br>
+                    <span style="font-size: small;color:grey;">(3534 reviews)</span>
+                </div>
+                <div class="top-review-ratings" style="text-align: center;">
+                    <span class="top-rating-font"><strong>4.7</strong></span>
+                    <div class="top-review-img"><img src="./assets/images/transport-reviews.png" width="100%" height="100%" alt=""></div>
+                </div>
+            </div>
+        </div>
+        <div class="top-review-col">
+            <div class="top-review-box">
+                <div class="top-review-detail">
+                    <span>BBB</span><br>
+                    <span class="top-rating-star"><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i></span><br>
+                    <span style="font-size: small;color:grey;">(7534 reviews)</span>
+                </div>
+                <div class="top-review-ratings" style="text-align: center;">
+                    <span class="top-rating-font"><strong>4.9</strong></span>
+                    <div class="top-review-img"><img src="./assets/images/bbb.png" width="100%" height="100%" alt=""></div>
+                </div>
+            </div>
+        </div>
+    </div>
     <section class="service-section">
-        <h2 class="sercive-heading"><span>Our Services</span></h2>
+        <h2 class="sercive-heading"><span>Some Important Shipment Routes In USA</span></h2>
         <p class="our-ser">We offers a range of services to their customers, including Interstate Shipping, Freight Forwarding, Express Delivery, Residential Moving,Commercial Shipping,Vehicle Transport,Online Tracking and many more</p>
 
         <div class="grid">
@@ -601,7 +650,7 @@
                 document.getElementById('car-option').style.display='none'
             })
         }
-var image = document.getElementById('desk_image');
+        var image = document.getElementById('desk_image');
         var originalSrc = '<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp';
         var alternateSrc = '<?= get_home_url()  ?>assets/images/ship-car-to-another-state2.webp';
 
