@@ -208,8 +208,8 @@
                 <span class="item1 items1 ">NEW-YORK TO NEVADA</span></a>
             </div>
             <div class="item">
-                <img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland2.webp" alt="">
-                <span class="item6 items1">HAWAII TO CALIFORNIA</span>
+                <a href="<?=get_home_url()  ?>hawaii-to-california-auto-transport-services"><img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland2.webp" alt="">
+                <span class="item6 items1">HAWAII TO CALIFORNIA</span></a>
             </div>
         </div>
         <div class="more-service">
