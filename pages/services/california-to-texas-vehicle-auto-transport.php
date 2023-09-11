@@ -95,22 +95,22 @@
                 <h2 class="content-section-heading">How to Ship Car to Another State</h2>
                 <p class="content-section-paragraph">If you're new in process to ship car to another state, then here's we have provided an overview of the fundamental steps for our customers such:</p>
                 <ul class="content-section-ul">
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: circle;">
                         <p class="content-section-paragraph">Research for a reputable auto transport company if you don't want our Ship Car To Another State service.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: circle;">
                         <p class="content-section-paragraph">Get price quotes from multiple carriers.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: circle;">
                         <p class="content-section-paragraph">Prepare your vehicle for shipping.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: circle;">
                         <p class="content-section-paragraph">Book your shipment and choose your preferred transport method.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: circle;">
                         <p class="content-section-paragraph">Coordinate with pickup and delivery partners and dates.</p>
                     </li>
-                    <li class="content-section-li">
+                    <li class="content-section-li" style="list-style: circle;">
                         <p class="content-section-paragraph">Inspect your vehicle before and after transportation.</p>
                     </li>
                 </ul>
