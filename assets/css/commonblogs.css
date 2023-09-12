@@ -19,7 +19,7 @@ ul {
 
 header {
     width: 100%;
-    height: 140px;
+    height: 150px;
     background-color: rgb(247, 247, 247);
 }
 
@@ -243,7 +243,9 @@ footer ul a {
     width: 100%;
     height: 150px;
     background-color: rgba(23, 23, 157, 0.937);
-    display: grid;
+    display: flex;
+    justify-content: space-evenly;
+    
 
 }
 form{
@@ -455,6 +457,7 @@ input[type=submit]{
     }
 }
 @media screen and (max-width:550px) {
+    .basic-info a{color: white;font-size: large;}
     .call-to-action h2{text-align: center;}
     .call-to-action a{margin: 5px 0;}
     .row{    flex-wrap: wrap;}

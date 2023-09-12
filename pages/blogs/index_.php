@@ -14,7 +14,7 @@
             width: 220px;
             height: 80px;
             background-color: tomato;
-            /* padding: 2%; */
+            /* padding: 1%; border: 1px solid grey; */
             border-radius: 5px;
             display: none;
             place-items: center;
@@ -26,7 +26,11 @@
             font-size: 1.2rem;
             z-index: 10;
         }
-
+        .form-section{position: relative;align-items: center;}
+        .guranteed{
+            width: 150px;
+            display: block;
+        }
         /*  */
     </style>
 </head>
@@ -34,7 +38,7 @@
 <body>
 <div class="error" id="error">
         <p id="error-text">Directions request returned no results</p>
-    </div>
+    </div> 
     <?php include '../../navbar.php' ?>
     <section class="service-banner">
         <div class="service-banner-bg"></div>
@@ -46,6 +50,7 @@
         </div>
     </section>
     <section class="form-section">
+        <div class="guranteed"><img src="<?=get_home_url()  ?>deepak/assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
         <form action="form-submit" id="form-submit">
             <div class="form-group" id="distance"></div>
             <div class="form-group">
@@ -59,7 +64,52 @@
             </div>
         </form>
     </section>
+    <div class="blog-content-box-1" style="padding: 2%;">
+            <table style="width: 50%;height:auto;text-align:center;margin:auto;">
+                <thead>
+                    <tr>
+                        <th style="padding: 1%; border: 1px solid grey;">Routes</th>
+                        <th style="padding: 1%; border: 1px solid grey;">Miles</th>
+                        <th style="padding: 1%; border: 1px solid grey;">Time</th>
+                        <th style="padding: 1%; border: 1px solid grey;">Avg. Cost</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
+                    </tr>
+                    <tr>
+                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
+                    </tr>
+                    <tr>
+                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
+                    </tr>
+                    <tr>
+                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
+                    </tr>
+                    <tr>
+                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     <section class="blog-content">
+
         <div class="blog-content-box-1">
             <div class="blog-content-section">
                 <h2  class="content-section-heading">HOW TO SHIP YOUR VEHICLE AFFORDABLY</h2>

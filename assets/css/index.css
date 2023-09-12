@@ -11,7 +11,7 @@ html,body{
 ul{padding: 0;margin: 0;}
 header{
     width: 100%;
-    height: 140px;
+    height: 150px;
     background-color: rgb(247, 247, 247);
 }
 .basic-info{
@@ -194,8 +194,6 @@ header  a{text-decoration: none;color: black;}
     color: white;
     cursor: pointer;
     margin: auto;
-
-
 }
 .service-section p{
     text-align: center;
@@ -681,6 +679,7 @@ footer ul a{
     padding: 2.5%;
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 5%;
     background-color: rgba(20, 20, 120, 0.923);
@@ -776,6 +775,11 @@ footer ul a{
     }
 }
 @media screen and (max-width:550px) {
+    .basic-info a{color: white;font-size: large;}
+    .top-review-col{
+        margin: 5px  0;
+    }
+    .guranteed{display: none;}
     .row{    flex-wrap: wrap;}
     .review-section {
         display: none;

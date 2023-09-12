@@ -1,6 +1,6 @@
 <header>
         <div class="basic-info">
-            <span><strong>FREE TO CALL </strong><b class="blink"><a href="tel:+1 (833) 233-4447" class="bblink"><i class="ri-phone-fill"></i>+1 (833) 233-4447</a></b></span>
+            <span style="display: flex;flex-wrap:wrap;align-items:center;"><strong>FREE TO CALL </strong><b class="blink"><a href="tel:+1 (833) 233-4447" class="bblink"><i class="ri-phone-fill"></i>+1 (833) 233-4447</a></b></span>
             <ul>
                 <li><a href="facebook.com" style="font-size: larger;"><span style="opacity: 0;">.</span><i class="ri-facebook-fill"></i></a></li>
                 <li><a href="instagram.com" style="font-size: larger;"><span style="opacity: 0;">.</span><i class="ri-instagram-line"></i></a></li>
