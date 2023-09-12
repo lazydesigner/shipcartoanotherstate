@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+    <link rel="preload" href="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places" as="script">
     <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/ship-car-to-another-state2.webp" type="image/webp">
     <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp" type="image/webp">
     <meta charset="UTF-8">
