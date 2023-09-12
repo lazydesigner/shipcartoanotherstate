@@ -96,6 +96,50 @@
                 <p class="content-section-paragraph">Transporting your vehicle from Hawaii to the mainland involves crossing the Pacific Ocean and navigating to many other complex routes. Hawaii to mainland auto transport involves shipping your car over a longer distance with complex roads, and the journey may vary which affect delivery duration as it depends on various factors, including the shipping method and delivery location.</p>
 
             </div>
+            <div class="blog-content-box-1" style="padding: 2%;">
+            <table style="width: 100%;height:auto;text-align:center;margin:auto;">
+                <thead>
+                    <tr>
+                        <th style="padding: 1%; border: 1px solid grey;">Routes</th>
+                        <th style="padding: 1%; border: 1px solid grey;">Miles</th>
+                        <th style="padding: 1%; border: 1px solid grey;">Time</th>
+                        <th style="padding: 1%; border: 1px solid grey;">Avg. Cost</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
+                    </tr>
+                    <tr>
+                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
+                    </tr>
+                    <tr>
+                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
+                    </tr>
+                    <tr>
+                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
+                    </tr>
+                    <tr>
+                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
+                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
             <div class="addvertisement">
                 <p>We are committed to delivering a safe, equitable, and reliable transportation system.</p>
                 <a href="<?= get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>

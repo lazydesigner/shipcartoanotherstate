@@ -658,7 +658,7 @@ height: auto;position: relative;z-index: 1;}
                 .hidelogoforphone{display: none;}
                 .fordesktop{
                     position: absolute;
-                    z-index: 1;
+                    z-index: 99;
                     background-color: whitesmoke;
                     place-items: center;
                     height: 100%;
