@@ -10,7 +10,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Hawaii to California Auto Transport Services | Ship Car To Another State" />
     <meta property="og:description" content="Our Hawaii to California auto transport services provide you with peace of mind, convenience, and a stress-free moving experience." />
-    <meta property="og:url" content="http://shipcartoanotherstate.com/hawaii-to-california-auto-transport-services" />
+    <meta property="og:url" content="http://shipcartoanotherstate.com/hawaii-to-california-auto-transport-service" />
     <meta property="og:site_name" content="Hawaii to California Auto Transport Services | Ship Car To Another State" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Hawaii to California Vehicle Auto Transport, Hawaii to California Auto Transport, Hawaii to California Vehicle Auto Shipping, Hawaii to California Vehicle Auto Transportations, Hawaii to California Vehicle shipping, Hawaii to California Vehicle shipping service" />
@@ -24,7 +24,7 @@
     <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" type="image/webp">
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
-    <title>Hawaii to California Auto Transport Services | Ship Car To Another State</title>
+    <title>Hawaii to California Auto Transport Service | Ship Car To Another State</title>
     <style>
         .error {
             width: 220px;

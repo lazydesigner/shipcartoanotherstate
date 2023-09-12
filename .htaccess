@@ -19,7 +19,7 @@ RewriteRule ^new-york-to-nevada-auto-transport([/]?)$ pages/services/new-york-to
 RewriteRule ^california-to-hawaii-vehicle-auto-transport([/]?)$ pages/services/california-to-hawaii-vehicle-auto-transport.php [NC,L]
 RewriteRule ^hawaii-to-mainland-vehicle-auto-transport([/]?)$ pages/services/hawaii-to-mainland-vehicle-auto-transport.php [NC,L]
 RewriteRule ^california-to-texas-vehicle-auto-transport([/]?)$ pages/services/california-to-texas-vehicle-auto-transport.php [NC,L]
-RewriteRule ^hawaii-to-california-auto-transport-services([/]?)$ pages/services/hawaii-to-california-auto-transport-services.php [NC,L]
+RewriteRule ^hawaii-to-california-auto-transport-service([/]?)$ pages/services/hawaii-to-california-auto-transport-service.php [NC,L]
 RewriteRule ^california-to-florida-vehicle-auto-transport([/]?)$ pages/services/california-to-florida-vehicle-auto-transport.php [NC,L]
 
 

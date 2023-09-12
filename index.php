@@ -29,7 +29,7 @@
 <meta name="google-site-verification" content="970kFHxDIhqBEORbOCCKDtfAS19KZPYrQdbsVWcSFCk" />
     <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link  rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css" async>
+    <link  rel="stylesheet" href="<?= get_home_url()  ?>deepak/assets/css/index.css" async>
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -258,7 +258,7 @@
                 <span class="item1 items1 ">NEW-YORK TO NEVADA</span></a>
             </div>
             <div class="item">
-                <a href="<?=get_home_url()  ?>hawaii-to-california-auto-transport-services"><img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland2.webp" alt="">
+                <a href="<?=get_home_url()  ?>hawaii-to-california-auto-transport-service"><img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland2.webp" alt="">
                 <span class="item6 items1">HAWAII TO CALIFORNIA</span></a>
             </div>
         </div>
