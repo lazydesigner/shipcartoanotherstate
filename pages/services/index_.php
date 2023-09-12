@@ -27,6 +27,11 @@
             font-size: 1.2rem;
             z-index: 10;
         }
+        .form-section{position: relative;align-items: center;}
+        .guranteed{
+            width: 150px;
+            display: block;
+        }
 
         /*  */
     </style>
@@ -47,6 +52,7 @@
         </div>
     </section>
     <section class="form-section">
+    <div class="guranteed"><img src="<?=get_home_url()  ?>assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
         <form action="form-submit" id="form-submit">
         <div class="form-group" id="distance"></div>
             <div class="form-group">
