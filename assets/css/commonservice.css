@@ -135,7 +135,8 @@ header  a{text-decoration: none;color: black;}
     width: 100%;
     height: 150px;
     background-color: rgba(23, 23, 157, 0.937);
-    display: grid;
+    display: flex;
+    justify-content: space-evenly;
 
 }
 form{
