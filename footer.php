@@ -29,5 +29,5 @@
             </div>
         </div>
 
-        <p class="p">Copyright © 2018- 2023, shipcartoanotherstate- All Rights Reserved.</p>
+        <p class="p">Copyright © 2023- 2025, shipcartoanotherstate- All Rights Reserved.</p>
     </footer>
