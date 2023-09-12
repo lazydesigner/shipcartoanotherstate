@@ -36,8 +36,13 @@ header{
     width: 100px;
 }
 .basic-info ul{list-style: none;}
-.basic-info b a:hover{
+.basic-info .blink{animation: blibk 1s alternate infinite linear;}
+.basic-info .blink a:hover{
     color: rgb(246, 255, 0);
+}
+@keyframes blibk {
+    from{transform: scale(1);}
+    to{transform: scale(1.1);color: rgb(246, 255, 0);}
 }
 header nav{
     width: 100%;
