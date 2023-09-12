@@ -173,18 +173,18 @@
         <p class="how-it-work-title">How It Work</p>
         <div class="how-work row">
             <div class="how-box a">
-                <p><b>Picking your Vehicle</b></p>
-                <span>Before the pickup, our team will contact you to understand your needs.</span>
+                <p><b>Vehicle pick up</b></p>
+                <span>Our staff professional will pick your vehicle from your desired location on your desired date.</span>
             </div>
             <div class="how-a"></div>
             <div class="how-box a">
-                <p><b>Shipping your Vehicle</b></p>
-                <span>Your vehicle will arrive securely thanks to our professional infrastructure.</span>
+                <p><b>Shipping Process</b></p>
+                <span>Our professionals clear all the documentation and other processes and ready your vehicle for shipping</span>
             </div>
             <div class="how-a"></div>
             <div class="how-box">
-                <p><b>Delivering your vehicle</b></p>
-                <span>Most car shipping carriers phone ahead of time to restrict the delivery window.</span>
+                <p><b>Vehicle delivery</b></p>
+                <span>We ensure our professionals deliver your vehicle on the decided date and we provide live shipment tracking with 24×7 live support.</span>
             </div>
         </div>
     </section>
