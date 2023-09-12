@@ -25,8 +25,8 @@
     <meta property="article:tag" content="how to ship my car to another state" />
     <meta property="article:tag" content="cost to ship car to another state" />
     <meta property="article:tag" content="how to ship your car to another state" />
-<!-- change -->
-<meta name="google-site-verification" content="970kFHxDIhqBEORbOCCKDtfAS19KZPYrQdbsVWcSFCk" />
+ <!-- change -->
+    <meta name="google-site-verification" content="970kFHxDIhqBEORbOCCKDtfAS19KZPYrQdbsVWcSFCk" />
     <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link  rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css" async>
@@ -231,6 +231,25 @@
             </div>
         </div>
     </div>
+    <section class="how-it-work">
+        <p class="how-it-work-title">How It Work</p>
+        <div class="how-work row">
+            <div class="how-box a">
+                <p><b>Vehicle pick up</b></p>
+                <span>Our staff professional will pick your vehicle from your desired location on your desired date.</span>
+            </div>
+            <div class="how-a"></div>
+            <div class="how-box a">
+                <p><b>Shipping Process</b></p>
+                <span>Our professionals clear all the documentation and other processes and ready your vehicle for shipping </span>
+            </div>
+            <div class="how-a"></div>
+            <div class="how-box">
+                <p><b>Vehicle delivery</b></p>
+                <span>We ensure our professionals deliver your vehicle on the decided date and we provide live shipment tracking with 24×7 live support.</span>
+            </div>
+        </div>
+    </section>
     <section class="service-section">
         <h2 class="sercive-heading"><span>Some Important Shipment Routes In USA</span></h2>
         <p class="our-ser">We offers a range of services to their customers, including Interstate Shipping, Freight Forwarding, Express Delivery, Residential Moving,Commercial Shipping,Vehicle Transport,Online Tracking and many more</p>
@@ -299,25 +318,7 @@
         </div>
 
     </section>
-    <section class="how-it-work">
-        <p class="how-it-work-title">How It Work</p>
-        <div class="how-work row">
-            <div class="how-box a">
-                <p><b>Vehicle pick up</b></p>
-                <span>Our staff professional will pick your vehicle from your desired location on your desired date.</span>
-            </div>
-            <div class="how-a"></div>
-            <div class="how-box a">
-                <p><b>Shipping Process</b></p>
-                <span>Our professionals clear all the documentation and other processes and ready your vehicle for shipping </span>
-            </div>
-            <div class="how-a"></div>
-            <div class="how-box">
-                <p><b>Vehicle delivery</b></p>
-                <span>We ensure our professionals deliver your vehicle on the decided date and we provide live shipment tracking with 24×7 live support.</span>
-            </div>
-        </div>
-    </section>
+    
     <section class="blog-section">
         <p class="blog-section-para">SOME OF OUR NEWS FROM LATEST BLOG</p>
         <h2 class="blog-section-heading"> Get the latest news, advice & best practice from blog</h2>
