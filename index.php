@@ -75,7 +75,7 @@
             <img src="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp" id="desk_image"  fetchpriority="high" width="100%" height="100%" class="backgroundimg" alt="">
             <div class="row">
                 <div class="herosection_content">
-                    <h1>Best Auto Shipping Company In Usa</h1>
+                    <h1>Best Company To Ship A Car To Another State</h1>
                     <p class="hero-p">We are on top of the Auto transportation industry, as we provide fast and budget friendly shipping from one state to another. We have 4 million+ active user with positive customer rating on Trust pilot and 4.9 star rating on BBB</p>
                     <div class="rating">
                         <img src="./assets/images/b.svg" class="review-img" width="150px" height="100%" alt="">
