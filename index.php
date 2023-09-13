@@ -470,6 +470,9 @@
 
     </section>
     <?php include './footer.php' ?>
+    <div class="sitebutton" id="sitebutton">
+        <a href="<?= get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
+    </div>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>
     <script>
 

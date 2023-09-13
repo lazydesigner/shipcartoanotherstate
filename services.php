@@ -201,6 +201,9 @@
         </div>
     </section>
     <?php include './footer.php' ?>
+    <div class="sitebutton" id="sitebutton">
+        <a href="<?= get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
+    </div>
 
 <script>
      document.getElementById('navbar2').addEventListener('click',()=>{
