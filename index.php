@@ -233,7 +233,7 @@
         <div class="top-review-col">
             <div class="top-review-box">
                 <div class="top-review-detail">
-                    <span>TRUSTPIOLET</span><br>
+                    <span>TRUSTPILOT</span><br>
                     <span class="top-rating-star"><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i><i class="ri-star-fill"></i></span><br>
                     <span style="font-size: small;color:grey;">(6634 reviews)</span>
                 </div>
