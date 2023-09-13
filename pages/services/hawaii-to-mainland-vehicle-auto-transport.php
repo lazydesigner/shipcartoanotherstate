@@ -213,7 +213,7 @@
                         </tr>
                         <tr>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Kauai, Hawaii to  Seattle, Washington</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,448.4 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,742  miles </td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
                         </tr>
