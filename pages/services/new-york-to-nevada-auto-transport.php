@@ -168,8 +168,181 @@
                 </ul>
 
             </div>
+            <div class="blog-content-box-1" style="padding-bottom:4%;display:flex;gap:2%;">
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From New York To Nevada</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">New York city , NY to Las Vegas , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,521.3 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$909.00 - $1,425.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">New York city , NY to Henderson , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,536.9 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$950.00 - $1,450.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 7 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">New York city , NY to Reno , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,683.8  miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">New York city , NY to Enterprise , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,533.2 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$970.00 - $1,530.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">New York city , NY to Spring Valley , NV</td>
+                            <td style="padding:2% 1%;font-size: small;">2,528.5 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$970.00 - $1,480.00</td>
+                            <td style="padding:2% 1%;font-size: small;">5 - 7 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;border-spacing:0">
+                            <th style="padding:2% 1%;">From New York To Nevada</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Hempstead town , NY to Las Vegas , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,550.0 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$979.00 - $1,545.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Hempstead town , NY to Henderson , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,565.6 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,030.00 - $1,600.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Hempstead town , NY to Reno , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,712.5 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1023.00 - $1,557.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Hempstead town , NY to Enterprise , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,561.9 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,010.00 - $1,530.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Hempstead town , NY to Spring Valley , NV</td>
+                            <td style="padding:2% 1%;font-size: small;">2,557.2 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$1,040.00 - $1,560.00</td>
+                            <td style="padding:2% 1%;font-size: small;">6 - 8 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="blog-content-box-1" style="padding-bottom:2%;display:flex;gap:2%;">
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From New York To Nevada</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Brookhaven , NY to Las Vegas , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,586.5 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$900.00 - $1,415.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Brookhaven , NY to Henderson , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,602.0 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$980.00 - $1,500.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Brookhaven , NY to Reno , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,749.0 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Brookhaven , NY to Enterprise , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,598.3 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$930.00 - $1,430.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Brookhaven , NY to Spring Valley , NV</td>
+                            <td style="padding:2% 1%;font-size: small;">2,593.6 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$980.00 - $1,400.00</td>
+                            <td style="padding:2% 1%;font-size: small;">6 - 7 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From New York To Nevada</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Islip , NY to Las Vegas , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,572.4 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$990.00 - $1,500.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Islip , NY to Henderson , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,587.9 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,035.00 - $1,615.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Islip , NY to Reno , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,734.8 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1020.00 - $1,547.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Islip , NY to Enterprise , NV</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,584.2 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,020.00 - $1,547.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Islip , NY to Spring Valley , NV</td>
+                            <td style="padding:2% 1%;font-size: small;">2,579.5 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$1,030.00 - $1,557.00</td>
+                            <td style="padding:2% 1%;font-size: small;">7 - 8 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p style="font-size: small;">**It is important to note that the prices and times listed are only estimates and will vary depending on factors such as the season and the type of vehicle being shipped. Use our car shipping calculator to get an instant price quote for your exact type of shipment.</p>
             <div class="addvertisement">
-                <p>We are committed to delivering a safe, equitable, and reliable transportation system.</p>
+                <p style="font-size: larger;">We are committed to delivering a safe, equitable, and reliable transportation system.</p>
                 <a href="<?= get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">

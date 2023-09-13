@@ -5,26 +5,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="title" content="Hawaii to California Auto Transport Services | Ship Car To Another State" />
-    <meta name="description" content="Our Hawaii to California auto transport services provide you with peace of mind, convenience, and a stress-free moving experience." />
+    <meta name="title" content="Florida to California Auto Transport Services | Ship Car To Another State" />
+    <meta name="description" content="Ship Car To Another State is a fully licensed authorized and insured auto shipping service provider, arranging safe vehicle shipping from Florida to California." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Hawaii to California Auto Transport Services | Ship Car To Another State" />
-    <meta property="og:description" content="Our Hawaii to California auto transport services provide you with peace of mind, convenience, and a stress-free moving experience." />
-    <meta property="og:url" content="http://shipcartoanotherstate.com/hawaii-to-california-auto-transport-service" />
-    <meta property="og:site_name" content="Hawaii to California Auto Transport Services | Ship Car To Another State" />
+    <meta property="og:title" content="Florida to California Auto Transport Services | Ship Car To Another State" />
+    <meta property="og:description" content="Ship Car To Another State is a fully licensed authorized and insured auto shipping service provider, arranging safe vehicle shipping from Florida to California." />
+    <meta property="og:url" content="http://shipcartoanotherstate.com/florida-to-california-auto-transport-service" />
+    <meta property="og:site_name" content="Florida to California Auto Transport Services | Ship Car To Another State" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="Hawaii to California Vehicle Auto Transport, Hawaii to California Auto Transport, Hawaii to California Vehicle Auto Shipping, Hawaii to California Vehicle Auto Transportations, Hawaii to California Vehicle shipping, Hawaii to California Vehicle shipping service" />
-    <meta property="article:tag" content="Hawaii to California Vehicle Auto Transport" />
-    <meta property="article:tag" content="Hawaii to California Auto Transport" />
-    <meta property="article:tag" content="Hawaii to California Vehicle Auto Shipping" />
-    <meta property="article:tag" content="Hawaii to California Vehicle Auto Transportations" />
-    <meta property="article:tag" content="Hawaii to California Vehicle shipping" />
-    <meta property="article:tag" content="Hawaii to California Vehicle shipping service" />
-    <link rel="stylesheet" href="<?= get_home_url() ?>assets/css/commonservice.css" async>
+    <meta name="keywords" content="Florida to California Vehicle Auto Transport, Florida to California Auto Transport, Florida to California Vehicle Auto Shipping, Florida to California Vehicle Auto Transportations, Florida to California Vehicle shipping, Florida to California Vehicle shipping service" />
+    <meta property="article:tag" content="Florida to California Vehicle Auto Transport" />
+    <meta property="article:tag" content="Florida to California Auto Transport" />
+    <meta property="article:tag" content="Florida to California Vehicle Auto Shipping" />
+    <meta property="article:tag" content="Florida to California Vehicle Auto Transportations" />
+    <meta property="article:tag" content="Florida to California Vehicle shipping" />
+    <meta property="article:tag" content="Florida to California Vehicle shipping service" />
+    <link rel="stylesheet" href="<?=get_home_url() ?>assets/css/commonservice.css" async>
     <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" type="image/webp">
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
-    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
-    <title>Hawaii to California Auto Transport Service | Ship Car To Another State</title>
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer"   as="style" onload="this.onload=null;this.rel='stylesheet'" async/>
+    <title>Florida to California Auto Transport Service | Ship Car To Another State</title>
     <style>
         .error {
             width: 220px;
@@ -60,22 +60,22 @@
         <div class="service-banner-bg"></div>
         <div class="service-banner-heading">
             <div>
-                <h1>Hawaii to California Auto Transport Services</h1>
+                <h1>Florida to California Auto Transport Services</h1>
                 <!-- <p>Open Transport Car Shipping is the most popular and cost-effective of our services.Your vehicle will be transported from one location to another using an open-trailer car carrier. These carriers are commonly seen on highways and are used to deliver vehicles to dealerships nationwide.</p> -->
             </div>
         </div>
     </section>
     <section class="form-section">
-    <div class="guranteed"><img src="<?=get_home_url()  ?>assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
+        <div class="guranteed"><img src="<?=get_home_url()  ?>assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
         <form action="form-submit" id="form-submit">
-            <div class="form-group" id="distance"></div>
+        <div class="form-group" id="distance"></div>
             <div class="form-group">
                 <!--<b>FROM:</b>--> <input type="text" placeholder="State or City" name="from" id="origin-input">
             </div>
             <div class="form-group">
                 <!--<b>TO:</b>--> <input type="text" placeholder="State or City" name="to" id="destination-input">
             </div>
-
+            
             <div class="form-group form-group-b">
                 <input type="submit" id="send" value="Get Quote">
             </div>
@@ -86,39 +86,17 @@
 
         <div class="content-section">
             <div class="content-box-1">
-                <p class="content-section-paragraph">Planning a move from the enchanting islands of Hawaii to the bustling streets of California?
-                    We Ship Car To Another State are here to help you in shipping whether it's a permanent relocation, a seasonal escape, or even transporting your vehicle for a special occasion, our Hawaii to California auto transport services are your key to a hassle-free car shipping. At Ship Car To Another State, we specialize in providing seamless and reliable state-to-state auto transport solutions to ensure your vehicle arrives safely at desired State.
-                </p>
+                <p class="content-section-paragraph">Transporting your vehicle from Florida to California? you need a reliable and efficient service that ensures your vehicle safety and on time delivery. At Ship Car To Another State, we specialize in state-to-state auto transport, and we're proud to offer our customers the best solution for their needs.</p>
             </div>
             <div class="content-box-1">
-                <h2 class="content-section-heading">Why Ship Car To Another State for Hawaii to California Car shipping?</h2>
-                <ul class="content-section-ul">
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"> <strong>Expertise and Experience:</strong> Ship Car To Another State have years of experience in the auto transport industry, we understand the difficulties of transporting vehicles from Hawaii to California. Our team provides your vehicle the expertise and knowledge required to handle all aspects of the car transportation process.</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"> <strong>Trusted Network:</strong> We have built a strong network of trusted partners and expert carriers who specialize in Hawaii to California routes. We ensure that your vehicle arrives safely at your desired location.</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"> <strong>Vehicle Safety:</strong> Safety of your vehicle is our top priority. We use our best equipment and industry best practices to secure your vehicle during transport, minimizing the risk of any damage or accidents. We provide open carrier and enclosed carrier transport service as per your budget you can go through the required service.</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"> <strong> Competitive Pricing:</strong> We offer very less pricing tailored to your specific needs and budget. Our ensures that you get the best value for your money. We charge only essential charges and with no hidden charges. You can get the fee price quotes from our official website by clicking on free quotes.</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"> <strong>Timely Delivery:</strong> We understand the importance of your valuable time. We provide fast shipping to Hawaii to California and our services are designed to get your vehicle to its destination on schedule. We cut-off all the unwanted reasons which can delay your shipping.</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"> <strong>Comprehensive Services:</strong> We understand the importance of your valuable time. We provide fast shipping to Hawaii to California and our services are designed to get your vehicle to its destination on schedule. We cut-off all the unwanted reasons which can delay your shipping.Whether you're transporting a car, motorcycle, RV, or even a boat, we offer a range of transportation options like Open and enclosed carrier to meet your needs and budget.</p>
-                    </li>
-                </ul>
-
+                <h2 class="content-section-heading">Best California auto transport company</h2>
+                <p class="content-section-paragraph">You need to ship a car to your kid? Or want to purchase a car from a seller across the state? Or maybe you got a transfer? Ship Car To Another State is here with you for your Florida car shipping needs. Ship Car To Another State is a fully licensed authorized and insured auto shipping service provider, arranging safe vehicle shipping from Florida to California.</p>
             </div>
             <div class="blog-content-box-1" style="padding-bottom:4%;display:flex;gap:2%;">
                 <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
                     <thead>
                         <tr style="background-color: lightgray;">
-                            <th style="padding:2% 1%;">From Hawaii To California </th>
+                            <th style="padding:2% 1%;">From Florida To California</th>
                             <th style="padding:2% 1%;">Distance</th>
                             <th style="padding:2% 1%;">Cost</th>
                             <th style="padding:2% 1%;">Estimated Transit Time</th>
@@ -126,41 +104,41 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Urban Honolulu, HI to Los Angeles , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,558 miles</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1009.00 - $1,525.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Jacksonville, FL to Los Angeles, CA </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,416 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$909.00 - $1,425.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
                         </tr>
                         <tr style="background-color: rgb(236, 236, 236);">
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">East Honolulu, HI to Los Angeles , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,558 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Jacksonville, FL to San Francisco , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,725.6 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$950.00 - $1,450.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 7 days</td>
                         </tr>
                         <tr>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Hilo, HI to Los Angeles , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,458 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Jacksonville, FL to San Diego , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,338.1 miles </td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
                         </tr>
                         <tr style="background-color: rgb(236, 236, 236);">
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Pearl City, HI to Los Angeles , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,562 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Jacksonville, FL to Sacramento , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,721.6 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$970.00 - $1,530.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
                         </tr>
-                        <tr>
-                            <td style="padding:2% 1%;font-size: small;">Kailua CDP, HI to Los Angeles , CA</td>
-                            <td style="padding:2% 1%;font-size: small;">2,549 miles</td>
+                        <!-- <tr>
+                            <td style="padding:2% 1%;font-size: small;">St. Petersburg, FL to Los Angeles , CA</td>
+                            <td style="padding:2% 1%;font-size: small;">2,549.3 miles</td>
                             <td style="padding:2% 1%;font-size: small;">$970.00 - $1,480.00</td>
                             <td style="padding:2% 1%;font-size: small;">5 - 7 days</td>
-                        </tr>
+                        </tr> -->
                     </tbody>
                 </table>
                 <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
                     <thead>
                         <tr style="background-color: lightgray;border-spacing:0">
-                            <th style="padding:2% 1%;">From Hawaii To California</th>
+                            <th style="padding:2% 1%;">From Florida To California</th>
                             <th style="padding:2% 1%;">Distance</th>
                             <th style="padding:2% 1%;">Cost</th>
                             <th style="padding:2% 1%;">Estimated Transit Time</th>
@@ -168,35 +146,35 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Urban Honolulu, HI to San Francisco , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,393 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Tampa, FL to Los Angeles, CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,526.3 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$979.00 - $1,545.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
                         </tr>
                         <tr style="background-color: rgb(236, 236, 236);">
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">East Honolulu, HI to San Francisco , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,393 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Tampa, FL to San Francisco , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,835.9 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,030.00 - $1,600.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
                         </tr>
                         <tr>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Hilo, HI to San Francisco , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,319 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Tampa, FL to San Diego , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,448.4 miles </td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1023.00 - $1,557.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
                         </tr>
                         <tr style="background-color: rgb(236, 236, 236);">
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Pearl City, HI to San Francisco , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,396 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Tampa, FL to Sacramento , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,831.9 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,010.00 - $1,530.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
                         </tr>
-                        <tr>
-                            <td style="padding:2% 1%;font-size: small;">Kailua CDP, HI to San Francisco , CA</td>
-                            <td style="padding:2% 1%;font-size: small;">2,384 miles</td>
+                        <!-- <tr>
+                            <td style="padding:2% 1%;font-size: small;">San Francisco , CA to St. Petersburg, FL</td>
+                            <td style="padding:2% 1%;font-size: small;">2,858.9 miles</td>
                             <td style="padding:2% 1%;font-size: small;">$1,040.00 - $1,560.00</td>
                             <td style="padding:2% 1%;font-size: small;">6 - 8 days</td>
-                        </tr>
+                        </tr> -->
                     </tbody>
                 </table>
             </div>
@@ -204,7 +182,7 @@
                 <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
                     <thead>
                         <tr style="background-color: lightgray;">
-                            <th style="padding:2% 1%;">From Hawaii To California</th>
+                            <th style="padding:2% 1%;">From Florida To California</th>
                             <th style="padding:2% 1%;">Distance</th>
                             <th style="padding:2% 1%;">Cost</th>
                             <th style="padding:2% 1%;">Estimated Transit Time</th>
@@ -212,41 +190,41 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Urban Honolulu, HI to San Diego , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,607 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Orlando, FL to Los Angeles, CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,509 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$900.00 - $1,415.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
                         </tr>
                         <tr style="background-color: rgb(236, 236, 236);">
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">East Honolulu, HI to San Diego , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,607 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Orlando, FL to San Francisco , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,818.8 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$980.00 - $1,500.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
                         </tr>
                         <tr>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Hilo, HI to San Diego , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,498 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Orlando, FL to San Diego , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,431.3 miles </td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
                         </tr>
                         <tr style="background-color: rgb(236, 236, 236);">
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Pearl City, HI to San Diego , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,611 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Orlando, FL to Sacramento , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,814.7 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$930.00 - $1,430.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
                         </tr>
-                        <tr>
-                            <td style="padding:2% 1%;font-size: small;">Kailua CDP, HI to San Diego , CA</td>
-                            <td style="padding:2% 1%;font-size: small;">2,597 miles</td>
+                        <!-- <tr>
+                            <td style="padding:2% 1%;font-size: small;">San Diego , CA to St. Petersburg, FL</td>
+                            <td style="padding:2% 1%;font-size: small;">2,471.4 miles</td>
                             <td style="padding:2% 1%;font-size: small;">$980.00 - $1,400.00</td>
                             <td style="padding:2% 1%;font-size: small;">6 - 7 days</td>
-                        </tr>
+                        </tr> -->
                     </tbody>
                 </table>
                 <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
                     <thead>
                         <tr style="background-color: lightgray;">
-                            <th style="padding:2% 1%;">From Hawaii To California</th>
+                            <th style="padding:2% 1%;">From Florida To California</th>
                             <th style="padding:2% 1%;">Distance</th>
                             <th style="padding:2% 1%;">Cost</th>
                             <th style="padding:2% 1%;">Estimated Transit Time</th>
@@ -254,130 +232,155 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Urban Honolulu, HI to Sacramento , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,458 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Miami, FL to Los Angeles, CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,733.0 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$990.00 - $1,500.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
                         </tr>
                         <tr style="background-color: rgb(236, 236, 236);">
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">East Honolulu, HI to Sacramento , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,458 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Miami, FL to San Francisco , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">3,042.6 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,035.00 - $1,615.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
                         </tr>
                         <tr>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Hilo, HI to Sacramento , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,387 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Miami, FL to San Diego , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,655.2 miles </td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1020.00 - $1,547.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
                         </tr>
                         <tr style="background-color: rgb(236, 236, 236);">
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Pearl City, HI to Sacramento , CA</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,461 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Miami, FL to Sacramento , CA</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">3,038.6 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,020.00 - $1,547.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
                         </tr>
-                        <tr>
-                            <td style="padding:2% 1%;font-size: small;">Kailua CDP, HI to Sacramento , CA</td>
-                            <td style="padding:2% 1%;font-size: small;">2,449 miles</td>
+                        <!-- <tr>
+                            <td style="padding:2% 1%;font-size: small;">Sacramento , CA to St. Petersburg, FL</td>
+                            <td style="padding:2% 1%;font-size: small;">2,854.9 miles</td>
                             <td style="padding:2% 1%;font-size: small;">$1,030.00 - $1,557.00</td>
                             <td style="padding:2% 1%;font-size: small;">7 - 8 days</td>
-                        </tr>
+                        </tr> -->
                     </tbody>
                 </table>
             </div>
             <p style="font-size: small;">**It is important to note that the prices and times listed are only estimates and will vary depending on factors such as the season and the type of vehicle being shipped. Use our car shipping calculator to get an instant price quote for your exact type of shipment.</p>
             <div class="addvertisement">
                 <p style="font-size: larger;">We are committed to delivering a safe, equitable, and reliable transportation system.</p>
-                <a href="<?= get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
+                <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">
-                <h2 class="content-section-heading">How Our Hawaii to California Auto Transport Service Works:</h2>
-                <ul class="content-section-ul">
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Request a free Quote:</strong> Contact us for a free, no-obligation quote. We'll gather information about your vehicle, preferred transport options, and timeline. Visit on our website home page and go through the get free quotes option and you can compare it with other websites so you can know how less we charge for our precious service.</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Booking:</strong> Once you decide to move forward, we'll assist you with booking and scheduling the transport. Our Ship Car To Another State Service provider will contact you and schedule a meeting to confirm your service.</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Vehicle Preparation:</strong> We'll guide you through the necessary steps to prepare your vehicle for transport, ensuring it's in optimal condition.Below we have mentioned all the points to prepare your vehicle for transport such as cleaning, inspection and other turning off alarm systems to avoid any disturbance. </p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Pickup:</strong> Our experienced carriers drivers will pick your vehicle from your location in Hawaii at the scheduled time.We have mentioned some you should remember before handing over your vehicle.
-                        </p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Transport: </strong>Your vehicle will be carefully transported across the Pacific ocean of Hawaii
-                            to the desired location in California.</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Delivery:</strong> Upon arrival in California, your vehicle will be safely delivered to your specified destination. Make sure to inspect your vehicle condition and every aspect of damage and insurance if you find any. </p>
-                    </li>
-                </ul>
+                <h2 class="content-section-heading">Ship car To California</h2>
+                <p class="content-section-paragraph">Whether you’re moving your classic car collection, moving for work, or you’re in service membership, shipping your vehicle to California requires you some professional skills which Ship Car To Another State can provide at easy costing. Leave your California auto transport tension on the experts at Ship Car To Another State. </p>
+               
             </div>
             <div class="content-box-img">
                 <!-- <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%"> -->
             </div>
             <div class="content-box-1">
-                <h2 class="content-section-heading">How to prepare your car for shipping?</h2>
-              
+                <h2 class="content-section-heading">Why Ship Car To Another State for Your Florida to California Vehicle Transport?</h2>
                 <ul class="content-section-ul">
                     <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Verify Insurance Coverage:</strong> You have to ensure that the transport company has adequate insurance coverage to protect your vehicle during car shipping. Request proof of insurance and understand the coverage details so you can claim insurance easily.
-</p>
+                        <h3 class="content-section-heading-h3">Experience and Expertise</h3>
+                        <p class="content-section-paragraph">Ship Car To Another State have years of experience in the auto transport industry, we have perfected our methods and gained invaluable knowledge of the Florida to California route. Our expertise  provides many essential services like Open and close transport carriers service as per customers need and  ensures a smooth and trouble-free transportation process.</p>
                     </li>
                     <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Inspect Your Vehicle:</strong> Do a quick inspection of your vehicle's exterior and interior before shipping. Document any pre-existing damage, such as scratches, dents, or mechanical issues. Take photos for proof and to claim insurance.
-</p>
+                        <h3 class="content-section-heading-h3">Nationwide Network</h3>
+                        <p class="content-section-paragraph">We Ship Car To Another State has an extensive network of carriers and drivers that allows us to offer competitive market rates and flexible scheduling options. No matter where you are in Florida or California, we can pick up and deliver your vehicle on time with terminal to terminal and door to door transportation service.</p>
                     </li>
                     <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Remove Personal Items:</strong> Remove all your personal items from your vehicle. We do not cover personal belongings and clean and empty vehicles during transport make it easier for shippers to transport.</p>
+                        <h3 class="content-section-heading-h3">Customized Solutions</h3>
+                        <p class="content-section-paragraph">We understand that every vehicle is unique, and so are our customers' needs. Whether your vehicle is a family car, classic car,or a heavy duty vehicle, we offer customized services to meet your specific requirements such as open air and enclosed carrier transportation service.</p>
                     </li>
                     <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Secure Loose Items:</strong> If you have any removable accessories or loose items in your car, such as roof racks or antennas, secure or remove them to prevent damage during transit.</p>
+                        <h3 class="content-section-heading-h3">Safety First</h3>
+                        <p class="content-section-paragraph">The safety of your vehicle is our top priority. We use our best available equipment and employ skilled drivers to ensure your vehicle safety and should be handled with care throughout the shipping. We also provide insurance coverage for any damage if found after shipping.</p>
                     </li>
                     <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Check Fluid Levels:</strong> Ensure that your vehicle's fluids are at the appropriate levels. A properly maintained vehicle is less likely to encounter issues during transport.
-</p>
+                        <h3 class="content-section-heading-h3">Timely Delivery</h3>
+                        <p class="content-section-paragraph">We know the importance of having your vehicle when you need it. Our commitment for fasted delivery means you can count on us to deliver your vehicle on time, every time.We provide Live tracking and 24x7 live support so can go through the location of your vehicle at home</p>
                     </li>
                     <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Maintain Adequate Fuel Level:</strong> Keep your vehicle's fuel tank at around a quarter to an eighth full. This is sufficient for loading and unloading but reduces the overall weight during transport.</p>
+                        <h3 class="content-section-heading-h3">Transparent Pricing</h3>
+                        <p class="content-section-paragraph">Our pricing is competitive and transparent Among auto shipping industry. We provide free price quotes to our customers at our website with no hidden charges,you just have to visit our website to get a free quote so you can pay for what you want.</p>
                     </li>
                     <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Disable Alarms:</strong> Deactivate any car alarms or anti-theft systems to prevent them from accidentally going off during transit. Provide clear instructions to the transport company on how to handle alarms, if necessary.
-</p>
+                        <h3 class="content-section-heading-h3">Customer Support</h3>
+                        <p class="content-section-paragraph">We have expert service providers that will support the customers and always be available to assist them in the shipping process. </p>
                     </li>
                     <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Check for Leaks:</strong> Inspect your vehicle for any fluid leaks, such as oil or coolant. Repair any leaks before transport to prevent damage to other vehicles on the carrier.</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Provide Spare Keys:</strong> If you have a spare set of keys, provide them to the transport company. This ensures that they can move your vehicle as needed without needing your primary keys.
-</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Maintain Documentation:</strong> Keep copies of all documentation related to the transport, including the contract, insurance information, and any communication with the transport company.</p>
-                    </li>
-                    <li class="content-section-li">
-                        <p class="content-section-paragraph"><strong>Confirm Pickup and Delivery Details: </strong>Double-check the pickup and delivery locations, dates, and times with the transport company. Ensure they have accurate contact information to reach you during transit.</p>
+                        <h3 class="content-section-heading-h3">Customer Satisfaction</h3>
+                        <p class="content-section-paragraph">Our track record speaks for itself. We take pride in our high customer satisfaction and high star ratings and positive reviews on trust pilots, which reflect our dedication and excellence.</p>
                     </li>
                 </ul>
+                
             </div>
             <div class="content-box-1">
-                <h2 class="content-section-heading">Why Hawaii to California Auto Transport Matters:</h2>
-                <p class="content-section-paragraph">Driving from Hawaii to California is not an option for you due to the vast Pacific Ocean in between. Shipping your vehicle with our Ship Car To Another State Service is the most practical and efficient way to relocate or transport your vehicle for an extended stay in California. Our Hawaii to California auto transport services provide you with peace of mind, convenience, and a stress-free moving experience.We work on very less charges and provide customers our best services to your undeniable choice.
-</p>
-            </div>
-
-            <div class="content-box-1">
-                <h2 class="content-section-heading">Contact Us:</h2>
-                <p class="content-section-paragraph">Ready to transport your vehicle from Hawaii to California with The Ship Car To Another State ? Contact Ship Car To Another State service providers today for a customized free quote and to learn more about how we can make your move or vehicle transport a seamless experience. Our dedicated and expert team members are here to assist you every step of the way. Say tess to a smooth transition to California! You call contact us on info@shipcartoanotherstate.com and call our service provider on +1 (833) 233-4447</p>
+                <h2 class="content-section-heading">How Florida to California Auto Transport Service Operates</h2>
+                <ul class="content-section-ul">
+                    <li class="content-section-li">
+                        <h3 class="content-section-heading-h3">Request a Quote</h3>
+                        <p class="content-section-paragraph">Initiate the process by reaching out to us via phone or our user-friendly online form. We'll need basic information about your vehicle and transport preferences to provide an accurate estimate.</p>
+                    </li>
+                    <li class="content-section-li">
+                        <h3 class="content-section-heading-h3">Booking</h3>
+                        <p class="content-section-paragraph">Upon acceptance of our quote, we collaborate with you to arrange convenient pickup and delivery dates that align with your timeline.</p>
+                    </li>
+                    <li class="content-section-li">
+                        <h3 class="content-section-heading-h3">Vehicle Inspection</h3>
+                        <p class="content-section-paragraph">Before loading your vehicle onto our carrier, we conduct a meticulous inspection to document its condition, ensuring that any pre-existing damage is properly noted.</p>
+                    </li>
+                    <li class="content-section-li">
+                        <h3 class="content-section-heading-h3">Transport</h3>
+                        <p class="content-section-paragraph">Your vehicle will be securely loaded onto one of our carriers, chosen in accordance with your selected service. Our drivers, who adhere to the highest safety standards, will expertly handle the rest.</p>
+                    </li>
+                    <li class="content-section-li">
+                        <h3 class="content-section-heading-h3">Delivery</h3>
+                        <p class="content-section-paragraph">Your vehicle will be delivered to your chosen California destination within the agreed-upon timeframe. We conduct a thorough inspection upon arrival to confirm its condition.</p>
+                    </li>
+                    <li class="content-section-li">
+                        <h3 class="content-section-heading-h3">Payment</h3>
+                        <p class="content-section-paragraph">Settle your bill easily and securely.</p>
+                    </li>
+                </ul>
             </div>
 
             <div class="content-box-img">
                 <!-- <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%"> -->
             </div>
-           
+            
+            <div class="content-box-1">
+                <h2 class="content-section-heading">How much does California car shipping cost you?</h2>
+                <p class="content-section-paragraph">Some unavoidable factors go into calculating your California car shipment cost, including:</p>
+                <ul class="content-section-ul">
+                    <li class="content-section-li">
+                        <p class="content-section-paragraph">1. Total distance to travel</p>
+                    </li>
+                    <li class="content-section-li">
+                        <p class="content-section-paragraph">2. Pickup and delivery locations in Florida and California</p>
+                    </li>
+                    <li class="content-section-li">
+                        <p class="content-section-paragraph">3. Type of Trailer, open or enclosed</p>
+                    </li>
+                    <li class="content-section-li">
+                        <p class="content-section-paragraph">4. Vehicle documents and details</p>
+                    </li>
+                    <li class="content-section-li">
+                        <p class="content-section-paragraph">5. Seasonal debris</p>
+                    </li>
+                </ul>
+                <p class="content-section-paragraph">For accurate estimates, provide your vehicle type, origin and destination locations with all necessary documents so we can provide the first available shipping date and specific trailer type open or enclosed as per your needs.</p>
+            </div>
+            <div class="content-box-1">
+                <h2 class="content-section-heading">Popular routes Florida to California auto transport </h2>
+                <p class="content-section-paragraph">To understand what your Florida to California car shipping transport time and cost could be, we have a shortened route of 2650 miles, and few of the most common routes to and from Florida which can cost $1335 and 7-9 working days. Remember that these are general estimates based on annual data as rates can be affected by various unavoidable reasons. For the most accurate cost of  Florida to California car shipping near you, Ship Car To Another State will need your accurate details of vehicle type and location details to avoid any kind of delay.</p>
+            </div>
+            <div class="content-box-1">
+                <h2 class="content-section-heading">Conclusion </h2>
+                <p class="content-section-paragraph">When you choose Ship Car To Another State for your Florida to California auto transport, you're choosing a partner that cares about your vehicle as much as you do. Contact us today for a quote and experience the best in state-to-state auto transport. Your vehicle's journey from Florida to California will be in safe hands with us.</p>
+                <p class="content-section-paragraph">Say goodbye to the stress of driving cross-country or worrying about your car's safety during transport. Our Florida to California auto transport service is your ticket to a seamless, anxiety-free vehicle relocation experience.</p>
+                <p class="content-section-paragraph">Ready to ship your car to another state with us? Contact us today at +1 (833) 233-4447 or Ship Car To Another State and entrust us with your vehicle's safe journey from Florida to California. Let us handle the logistics while you embark on your exciting adventure on the picturesque West Coast.</p>
+            </div>
 
         </div>
 
@@ -391,7 +394,7 @@
             <p class="why-choose-us__title" style="margin: 0;">Why Choose Us?</p>
             <p style="text-align: center;color:white;margin-bottom:3.5%;padding:0">We Provide the Best Facilites For
                 Transport</p>
-                <div class="row">
+            <div class="row">
                 <div class="box">
                     <i class="ri-service-line"></i>
                     <p><strong>BEST SERVICES</strong></p>
@@ -438,9 +441,8 @@
     <section class="call-to-action">
         <div class="row">
             <h2>Want to know the cost of shipping a car with us?</h2>
-            <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="<?= get_home_url()  ?>get-quotes"><button>Get Free Quote</button></a>
-                <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a>
-            </div>
+            <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="<?=get_home_url()  ?>get-quotes" ><button>Get Free Quote</button></a>
+            <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a></div>
         </div>
     </section>
     <section class="testmo">
@@ -497,7 +499,7 @@
     </section>
     <?php include '../../footer.php' ?>
     <div class="sitebutton" id="sitebutton">
-        <a href="<?= get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
+        <a href="<?=get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
     </div>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>
     <script>
@@ -599,15 +601,15 @@
             });
         }
 
-        document.getElementById('navbar2').addEventListener('click', () => {
-            document.getElementById('navbar2').style.display = 'none';
-            document.getElementById('navbar3').style.display = 'block';
-            document.getElementById('fordesktop').style.display = 'grid';
+        document.getElementById('navbar2').addEventListener('click',()=>{
+            document.getElementById('navbar2').style.display ='none';
+            document.getElementById('navbar3').style.display ='block';
+            document.getElementById('fordesktop').style.display ='grid';
         })
-        document.getElementById('navbar3').addEventListener('click', () => {
-            document.getElementById('navbar2').style.display = 'block';
-            document.getElementById('navbar3').style.display = 'none';
-            document.getElementById('fordesktop').style.display = 'none';
+        document.getElementById('navbar3').addEventListener('click',()=>{
+            document.getElementById('navbar2').style.display ='block';
+            document.getElementById('navbar3').style.display ='none';
+            document.getElementById('fordesktop').style.display ='none';
         })
     </script>
 </body>

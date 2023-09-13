@@ -112,8 +112,181 @@
                 </ul>
 
             </div>
+            <div class="blog-content-box-1" style="padding-bottom:4%;display:flex;gap:2%;">
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From California To Hawaii</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles , CA to Urban Honolulu, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,558 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1009.00 - $1,525.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles , CA to East Honolulu, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,558 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$950.00 - $1,450.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 7 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles , CA to Hilo, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,458 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles , CA to Pearl City, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,562 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$970.00 - $1,530.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Los Angeles , CA to Kailua CDP, HI</td>
+                            <td style="padding:2% 1%;font-size: small;">2,549 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$970.00 - $1,480.00</td>
+                            <td style="padding:2% 1%;font-size: small;">5 - 7 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;border-spacing:0">
+                            <th style="padding:2% 1%;">From California To Hawaii</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Urban Honolulu, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,393 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$979.00 - $1,545.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to East Honolulu, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,393 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,030.00 - $1,600.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Hilo, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,319 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1023.00 - $1,557.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Pearl City, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,396 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,010.00 - $1,530.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">San Francisco , CA to Kailua CDP, HI</td>
+                            <td style="padding:2% 1%;font-size: small;">2,384 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$1,040.00 - $1,560.00</td>
+                            <td style="padding:2% 1%;font-size: small;">6 - 8 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="blog-content-box-1" style="padding-bottom:2%;display:flex;gap:2%;">
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From California To Hawaii</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to Urban Honolulu, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,607 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$900.00 - $1,415.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to East Honolulu, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,607 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$980.00 - $1,500.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to Hilo, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,498 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to Pearl City, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,611 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$930.00 - $1,430.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">San Diego , CA to Kailua CDP, HI</td>
+                            <td style="padding:2% 1%;font-size: small;">2,597 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$980.00 - $1,400.00</td>
+                            <td style="padding:2% 1%;font-size: small;">6 - 7 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From California To Hawaii</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to Urban Honolulu, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,458 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$990.00 - $1,500.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to East Honolulu, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,458 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,035.00 - $1,615.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to Hilo, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,387 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1020.00 - $1,547.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to Pearl City, HI</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,461 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,020.00 - $1,547.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Sacramento , CA to Kailua CDP, HI</td>
+                            <td style="padding:2% 1%;font-size: small;">2,449 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$1,030.00 - $1,557.00</td>
+                            <td style="padding:2% 1%;font-size: small;">7 - 8 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p style="font-size: small;">**It is important to note that the prices and times listed are only estimates and will vary depending on factors such as the season and the type of vehicle being shipped. Use our car shipping calculator to get an instant price quote for your exact type of shipment.</p>
             <div class="addvertisement">
-                <p>We are committed to delivering a safe, equitable, and reliable transportation system.</p>
+                <p style="font-size: larger;">We are committed to delivering a safe, equitable, and reliable transportation system.</p>
                 <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">
@@ -182,7 +355,7 @@
                 </ul>
             </div>
             <div class="addvertisement">
-                <p>When people want transportation, they want it now.</p>
+                <p style="font-size: larger;">When people want transportation, they want it now.</p>
                 <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">

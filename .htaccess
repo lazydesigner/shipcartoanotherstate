@@ -21,6 +21,9 @@ RewriteRule ^hawaii-to-mainland-vehicle-auto-transport([/]?)$ pages/services/haw
 RewriteRule ^california-to-texas-vehicle-auto-transport([/]?)$ pages/services/california-to-texas-vehicle-auto-transport.php [NC,L]
 RewriteRule ^hawaii-to-california-auto-transport-service([/]?)$ pages/services/hawaii-to-california-auto-transport-services.php [NC,L]
 RewriteRule ^california-to-florida-vehicle-auto-transport([/]?)$ pages/services/california-to-florida-vehicle-auto-transport.php [NC,L]
+RewriteRule ^florida-to-california-auto-transport-service([/]?)$ pages/services/florida-to-california-auto-transport-service.php [NC,L]
+RewriteRule ^california-to-alabama-car-shipping([/]?)$ pages/services/california-to-alabama-car-shipping.php [NC,L]
+RewriteRule ^ship-your-car-from-california-to-alaska([/]?)$ pages/services/ship-your-car-from-california-to-alaska.php [NC,L]
 
 
 

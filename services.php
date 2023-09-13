@@ -124,6 +124,30 @@
             <img src="<?=get_home_url()  ?>assets/images/California-To-Hawaii.webp" alt="state to state car shipping">
         </div>
     </div>
+    <div class="services-box left-iage">
+        <div class="image-box">
+            <img src="<?=get_home_url()  ?>assets/images/california-to-alabama.webp" alt="auto transport company">
+        </div>
+        <div class="content-box">
+            <div class="content-box-2">
+            <a href="https://shipcartoanotherstate.com/california-to-alabama-car-shipping"><h2>California to Alabama Car Shipping</h2></a>
+            <p class="multiline-ellipsis">When you need to ship a car from California to Alabama, you need car shipping experts whom you can trust. Through our advanced network of over 25,000 open and enclosed auto transporters nationwide, Ship Car To Another State provides you with a safe and reliable way to ship a car from California to Alabama.</p>
+            <a href="https://shipcartoanotherstate.com/california-to-alabama-car-shipping"><button>View Services</button></a>
+            </div>
+        </div>
+    </div>
+    <div class="services-box right-image">
+        <div class="content-box">
+            <div class="content-box-2">
+            <a href="https://shipcartoanotherstate.com/florida-to-california-auto-transport-service"><h2>Florida to California Auto Transport Services</h2></a>
+            <p class="multiline-ellipsis">Transporting your vehicle from Florida to California? you need a reliable and efficient service that ensures your vehicle safety and on time delivery. At Ship Car To Another State, we specialize in state-to-state auto transport, and we're proud to offer our customers the best solution for their needs.</p>
+            <a href="https://shipcartoanotherstate.com/florida-to-california-auto-transport-service"><button>View Services</button></a>
+            </div>
+        </div>        
+        <div class="image-box">
+            <img src="<?=get_home_url()  ?>assets/images/California-to-Florida.webp" alt="state to state car shipping">
+        </div>
+    </div>
 
     </section>
     <section class="why-choose-us">

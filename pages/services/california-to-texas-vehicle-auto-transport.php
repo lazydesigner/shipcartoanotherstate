@@ -92,8 +92,181 @@
                 <h2 class="content-section-heading">Need to Ship Your Car from California to Texas?</h2>
                 <p class="content-section-paragraph">It's essential to understand why someone might need to ship their car from California to Texas. Some common situations such as relocation, long-distance moves, or purchasing a vehicle from out of state.</p>
             </div>
+            <div class="blog-content-box-1" style="padding-bottom:4%;display:flex;gap:2%;">
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From California To Texas</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles , CA to Houston, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,547.5 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1009.00 - $1,525.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles , CA to San Antonio, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,352.1 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$950.00 - $1,450.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 7 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles , CA to Dallas, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,436.0 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles , CA to Austin, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,377.2 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$970.00 - $1,530.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Los Angeles , CA to Fort Worth, TX</td>
+                            <td style="padding:2% 1%;font-size: small;">1,404.5 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$970.00 - $1,480.00</td>
+                            <td style="padding:2% 1%;font-size: small;">5 - 7 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;border-spacing:0">
+                            <th style="padding:2% 1%;">From California To Texas</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Houston, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,928.4 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$979.00 - $1,545.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to San Antonio, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,733.0 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,030.00 - $1,600.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Dallas, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,732.9 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1023.00 - $1,557.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Austin, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,758.0 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,010.00 - $1,530.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">San Francisco , CA to Fort Worth, TX</td>
+                            <td style="padding:2% 1%;font-size: small;">1,706.1 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$1,040.00 - $1,560.00</td>
+                            <td style="padding:2% 1%;font-size: small;">6 - 8 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="blog-content-box-1" style="padding-bottom:2%;display:flex;gap:2%;">
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From California To Texas</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to Houston, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,469.7 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$900.00 - $1,415.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to San Antonio, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,274.2 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$980.00 - $1,500.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to Dallas, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,358.1 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to Austin, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,299.3 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$930.00 - $1,430.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">San Diego , CA to Fort Worth, TX</td>
+                            <td style="padding:2% 1%;font-size: small;">1,326.7 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$980.00 - $1,400.00</td>
+                            <td style="padding:2% 1%;font-size: small;">6 - 7 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From California To Texas</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to Houston, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,930.9 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$990.00 - $1,500.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to San Antonio, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,735.5 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,035.00 - $1,615.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to Dallas, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,728.8 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1020.00 - $1,547.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to Austin, TX</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">1,760.6 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,020.00 - $1,547.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Sacramento , CA to Fort Worth, TX</td>
+                            <td style="padding:2% 1%;font-size: small;">1,702.1 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$1,030.00 - $1,557.00</td>
+                            <td style="padding:2% 1%;font-size: small;">7 - 8 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p style="font-size: small;">**It is important to note that the prices and times listed are only estimates and will vary depending on factors such as the season and the type of vehicle being shipped. Use our car shipping calculator to get an instant price quote for your exact type of shipment.</p>
             <div class="addvertisement">
-                <p>We are committed to delivering a safe, equitable, and reliable transportation system.</p>
+                <p style="font-size: larger;">We are committed to delivering a safe, equitable, and reliable transportation system.</p>
                 <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">
@@ -159,7 +332,7 @@
                 </ul>
             </div>
             <div class="addvertisement">
-                <p>When people want transportation, they want it now.</p>
+                <p style="font-size: larger;">When people want transportation, they want it now.</p>
                 <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">

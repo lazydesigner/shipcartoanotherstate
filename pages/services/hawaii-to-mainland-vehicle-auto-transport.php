@@ -42,11 +42,17 @@
             font-size: 1.2rem;
             z-index: 10;
         }
-        .form-section{position: relative;align-items: center;}
-        .guranteed{
+
+        .form-section {
+            position: relative;
+            align-items: center;
+        }
+
+        .guranteed {
             width: 150px;
             display: block;
         }
+
         /*  */
     </style>
 </head>
@@ -66,7 +72,7 @@
         </div>
     </section>
     <section class="form-section">
-    <div class="guranteed"><img src="<?=get_home_url()  ?>assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
+        <div class="guranteed"><img src="<?= get_home_url()  ?>assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
         <form action="form-submit" id="form-submit">
             <div class="form-group" id="distance"></div>
             <div class="form-group">
@@ -96,52 +102,181 @@
                 <p class="content-section-paragraph">Transporting your vehicle from Hawaii to the mainland involves crossing the Pacific Ocean and navigating to many other complex routes. Hawaii to mainland auto transport involves shipping your car over a longer distance with complex roads, and the journey may vary which affect delivery duration as it depends on various factors, including the shipping method and delivery location.</p>
 
             </div>
-            <div class="blog-content-box-1" style="padding: 2%;">
-            <table style="width: 100%;height:auto;text-align:center;margin:auto;">
-                <thead>
-                    <tr>
-                        <th style="padding: 1%; border: 1px solid grey;">Routes</th>
-                        <th style="padding: 1%; border: 1px solid grey;">Miles</th>
-                        <th style="padding: 1%; border: 1px solid grey;">Time</th>
-                        <th style="padding: 1%; border: 1px solid grey;">Avg. Cost</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
-                    </tr>
-                    <tr>
-                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
-                    </tr>
-                    <tr>
-                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
-                    </tr>
-                    <tr>
-                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
-                    </tr>
-                    <tr>
-                        <td  style="padding: 1%; border: 1px solid grey;">CALIFORNIA TO FLORIDA</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">2,706.0 mi</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">40 hr</td>
-                        <td  style="padding: 1%; border: 1px solid grey;">$2099</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+            <div class="blog-content-box-1" style="padding-bottom:4%;display:flex;gap:2%;">
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From Hawaii To Mainland</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Honolulu, Hawaii  to Los Angeles, California</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;"> 2,556 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$909.00 - $1,425.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Honolulu, Hawaii to San Francisco, California</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,398 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$950.00 - $1,450.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 7 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Honolulu, Hawaii to Seattle, Washington</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;"> 2,678 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Honolulu, Hawaii to Oakland, California </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,733.0 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$970.00 - $1,530.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Honolulu, Hawaii  to Portland, Oregon</td>
+                            <td style="padding:2% 1%;font-size: small;">2,525  miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$970.00 - $1,480.00</td>
+                            <td style="padding:2% 1%;font-size: small;">5 - 7 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;border-spacing:0">
+                            <th style="padding:2% 1%;">From Hawaii To Mainland</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Honolulu, Hawaii  to  New York City, New York</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">4,982  miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$979.00 - $1,545.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Honolulu, Hawaii to  Chicago, Illinois</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">4,431  miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,030.00 - $1,600.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Honolulu, Hawaii to Las Vegas, Nevada </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,762  miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1023.00 - $1,557.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Maui, Hawaii  to San Francisco, California    </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,386  miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,010.00 - $1,530.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Kauai, Hawaii  to Los Angeles, California</td>
+                            <td style="padding:2% 1%;font-size: small;">2,538  miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$1,040.00 - $1,560.00</td>
+                            <td style="padding:2% 1%;font-size: small;">6 - 8 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="blog-content-box-1" style="padding-bottom:2%;display:flex;gap:2%;">
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From Hawaii To Mainland</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Kona, Hawaii to San Francisco, California</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,438 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$900.00 - $1,415.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Maui, Hawaii  to Seattle, Washington</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,684  miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$980.00 - $1,500.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Kauai, Hawaii to  Seattle, Washington</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,448.4 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Maui, Hawaii to  Los Angeles, California</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,492  miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$930.00 - $1,430.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Kona, Hawaii to Los Angeles, California</td>
+                            <td style="padding:2% 1%;font-size: small;">2,501 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$980.00 - $1,400.00</td>
+                            <td style="padding:2% 1%;font-size: small;">6 - 7 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From Hawaii To Mainland</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Maui, Hawaii to Denver, Colorado</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">3,565  miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$990.00 - $1,500.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Kona, Hawaii to Seattle, Washington</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,798  miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,035.00 - $1,615.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Kauai, Hawaii to San Diego, California</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,592 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1020.00 - $1,547.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Maui, Hawaii to Houston, Texas</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">3,733  miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,020.00 - $1,547.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Kona, Hawaii to  San Diego, California</td>
+                            <td style="padding:2% 1%;font-size: small;">2,630 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$1,030.00 - $1,557.00</td>
+                            <td style="padding:2% 1%;font-size: small;">7 - 8 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p style="font-size: small;">**It is important to note that the prices and times listed are only estimates and will vary depending on factors such as the season and the type of vehicle being shipped. Use our car shipping calculator to get an instant price quote for your exact type of shipment.</p>
             <div class="addvertisement">
-                <p>We are committed to delivering a safe, equitable, and reliable transportation system.</p>
+                <p style="font-size: larger;">We are committed to delivering a safe, equitable, and reliable transportation system.</p>
                 <a href="<?= get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">
@@ -150,8 +285,9 @@
                 <h3 class="content-section-heading-h3">Roll-On/Roll-Off (RoRo) Shipping</h3>
                 <ul class="content-section-ul">
                     <li class="content-section-li" style="list-style: disc;">
-                        <p class="content-section-paragraph">Our RoRo shipping service drives your vehicle onto a specialized ship, where your vehicle is securely dispatched and transported to the mainland.</p></li>
-                        <li class="content-section-li" style="list-style: disc;">
+                        <p class="content-section-paragraph">Our RoRo shipping service drives your vehicle onto a specialized ship, where your vehicle is securely dispatched and transported to the mainland.</p>
+                    </li>
+                    <li class="content-section-li" style="list-style: disc;">
                         <p class="content-section-paragraph">It's one of our most cost-effective options, but it may not be suitable for all types of vehicles or personal preferences. Furthermore it depends on the type of your vehicle.</p>
                     </li>
                 </ul>
@@ -159,14 +295,18 @@
                 <ul class="content-section-ul">
                     <li class="content-section-li">
 
-                        <p class="content-section-paragraph" style="list-style: disc;">If you select our Container shipping service then we place your car in a secure container to avoid any damage or harm to your vehicle.</p></li><li class="content-section-li" style="list-style: disc;">
+                        <p class="content-section-paragraph" style="list-style: disc;">If you select our Container shipping service then we place your car in a secure container to avoid any damage or harm to your vehicle.</p>
+                    </li>
+                    <li class="content-section-li" style="list-style: disc;">
                         <p class="content-section-paragraph">Our container shipping offers you some extra protection and security by making it the perfect choice for your luxurious and high-value vehicles.</p>
                     </li>
                 </ul>
                 <h3 class="content-section-heading-h3">Air Freight</h3>
                 <ul class="content-section-ul">
                     <li class="content-section-li" style="list-style: disc;">
-                        <p class="content-section-paragraph">Our air freight service will be beneficial for customers if you're looking for the quickest way to transport your vehicle.</p></li><li class="content-section-li" style="list-style: disc;">
+                        <p class="content-section-paragraph">Our air freight service will be beneficial for customers if you're looking for the quickest way to transport your vehicle.</p>
+                    </li>
+                    <li class="content-section-li" style="list-style: disc;">
                         <p class="content-section-paragraph">Eventually Air Freight service is the most expensive service and may have limited availability for the customers.</p>
                     </li>
                 </ul>
@@ -258,7 +398,7 @@
                         <p class="content-section-paragraph">Additional services, such as door-to-door delivery</p>
                     </li>
                 </ul>
-                <p class="content-section-paragraph">Our advice is to obtain quotes from multiple auto transport companies to compare prices and services and you can check Rapid Auto Shipping for some reliable and  trustworthy services. To get accurate estimates, be prepared to provide detailed information about your vehicle and your transport preferences to avoid any problem and delay in delivery.</p>
+                <p class="content-section-paragraph">Our advice is to obtain quotes from multiple auto transport companies to compare prices and services and you can check Rapid Auto Shipping for some reliable and trustworthy services. To get accurate estimates, be prepared to provide detailed information about your vehicle and your transport preferences to avoid any problem and delay in delivery.</p>
             </div>
 
             <div class="content-box-img">
@@ -271,7 +411,7 @@
                     <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Season of the year</h3> -->
                         <p class="content-section-paragraph">Confirm your pickup and delivery locations and times with the transport company to avoid every possible mistake and delay in delivery.
-</p>
+                        </p>
                     </li>
                     <li class="content-section-li" style="list-style: disc;">
                         <!-- <h3 class="content-section-heading-h3">Distance</h3> -->
@@ -284,13 +424,13 @@
                 </ul>
             </div>
             <div class="addvertisement">
-                <p>When people want transportation, they want it now.</p>
+                <p style="font-size: larger;">When people want transportation, they want it now.</p>
                 <a href="<?= get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">Tracking Your Vehicle During Transport</h2>
                 <p class="content-section-paragraph">Most of the auto transport companies provide tracking services that allow customers to monitor the progress of your vehicle during its shipping and the same service you will have with Ship Car To Another State when you transport your vehicle from Hawaii to the mainland. Take advantage of our services to stay informed about your car's status.</p>
-               
+
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">Receiving Your Vehicle on the Mainland</h2>
@@ -327,7 +467,7 @@
             <p class="why-choose-us__title" style="margin: 0;">Why Choose Us?</p>
             <p style="text-align: center;color:white;margin-bottom:3.5%;padding:0">We Provide the Best Facilites For
                 Transport</p>
-                <div class="row">
+            <div class="row">
                 <div class="box">
                     <i class="ri-service-line"></i>
                     <p><strong>BEST SERVICES</strong></p>
@@ -374,7 +514,7 @@
     <section class="call-to-action">
         <div class="row">
             <h2>Want to know the cost of shipping a car with us?</h2>
-            <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="<?= get_home_url()  ?>get-quotes"><button>Get Free Quote</button></a>
+            <div style="width: 100%; display: flex;justify-content: center;gap2%:1%;flex-wrap:wrap;"><a href="<?= get_home_url()  ?>get-quotes"><button>Get Free Quote</button></a>
                 <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a>
             </div>
         </div>

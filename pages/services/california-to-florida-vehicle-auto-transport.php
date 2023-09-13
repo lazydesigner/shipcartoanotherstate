@@ -5,11 +5,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="California to Florida Vehicle Auto Transport | Ship Car To Another State" />
+    <meta name="description" content="When it's about the methods to ship your vehicle from California to Florida, you have several options available at Ship Car To Another State." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="California to Florida Vehicle Auto Transport | Ship Car To Another State" />
+    <meta property="og:description" content="When it's about the methods to ship your vehicle from California to Florida, you have several options available at Ship Car To Another State." />
+    <meta property="og:url" content="http://shipcartoanotherstate.com/california-to-florida-vehicle-auto-transport" />
+    <meta property="og:site_name" content="California to Florida Vehicle Auto Transport | Ship Car To Another State" />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="California to Florida Vehicle Auto Transport, California to Florida Auto Transport, California to Florida Vehicle Auto Shipping, California to Florida Vehicle Auto Transportations, California to Florida Vehicle shipping, California to Florida Vehicle shipping service" />
+    <meta property="article:tag" content="California to Florida Vehicle Auto Transport" />
+    <meta property="article:tag" content="California to Florida Auto Transport" />
+    <meta property="article:tag" content="California to Florida Vehicle Auto Shipping" />
+    <meta property="article:tag" content="California to Florida Vehicle Auto Transportations" />
+    <meta property="article:tag" content="California to Florida Vehicle shipping" />
+    <meta property="article:tag" content="California to Florida Vehicle shipping service" />
     <link rel="stylesheet" href="<?=get_home_url() ?>assets/css/commonservice.css" async>
     <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" type="image/webp">
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer"   as="style" onload="this.onload=null;this.rel='stylesheet'" async/>
-    <title>Document</title>
+    <title>California to Florida Vehicle Auto Transport | Ship Car To Another State</title>
     <style>
         .error {
             width: 220px;
@@ -96,8 +111,181 @@
                 </ul>
 
             </div>
+            <div class="blog-content-box-1" style="padding-bottom:4%;display:flex;gap:2%;">
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From California To Florida</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles, CA to Jacksonville, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,416 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$909.00 - $1,425.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles, CA to Tampa, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,526.3 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$950.00 - $1,450.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 7 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles, CA to Orlando, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,509 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Los Angeles, CA to Miami, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,733.0 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$970.00 - $1,530.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Los Angeles , CA to St. Petersburg, FL</td>
+                            <td style="padding:2% 1%;font-size: small;">2,549.3 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$970.00 - $1,480.00</td>
+                            <td style="padding:2% 1%;font-size: small;">5 - 7 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;border-spacing:0">
+                            <th style="padding:2% 1%;">From California To Florida</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Jacksonville, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,725.6 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$979.00 - $1,545.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Miami, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">3,042.6 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,030.00 - $1,600.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Tampa, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,835.9 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1023.00 - $1,557.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Orlando, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,818.8 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,010.00 - $1,530.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">San Francisco , CA to St. Petersburg, FL</td>
+                            <td style="padding:2% 1%;font-size: small;">2,858.9 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$1,040.00 - $1,560.00</td>
+                            <td style="padding:2% 1%;font-size: small;">6 - 8 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="blog-content-box-1" style="padding-bottom:2%;display:flex;gap:2%;">
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;font-style:smalle;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From California To Florida</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to Jacksonville, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,338.1 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$900.00 - $1,415.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to Miami, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,655.2 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$980.00 - $1,500.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to Tampa, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,448.4 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$933.00 - $1,437.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Diego , CA to Orlando, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,431.3 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$930.00 - $1,430.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">San Diego , CA to St. Petersburg, FL</td>
+                            <td style="padding:2% 1%;font-size: small;">2,471.4 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$980.00 - $1,400.00</td>
+                            <td style="padding:2% 1%;font-size: small;">6 - 7 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="width: 50%;height:auto;text-align:center;margin:auto;border:1px solid grey;border-spacing:0">
+                    <thead>
+                        <tr style="background-color: lightgray;">
+                            <th style="padding:2% 1%;">From California To Florida</th>
+                            <th style="padding:2% 1%;">Distance</th>
+                            <th style="padding:2% 1%;">Cost</th>
+                            <th style="padding:2% 1%;">Estimated Transit Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to Jacksonville, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,721.6 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$990.00 - $1,500.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">5 - 6 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to Miami, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">3,038.6 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,035.00 - $1,615.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to Tampa, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,831.9 miles </td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1020.00 - $1,547.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr style="background-color: rgb(236, 236, 236);">
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">Sacramento , CA to Orlando, FL</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,814.7 miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$1,020.00 - $1,547.00</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">7 - 8 days</td>
+                        </tr>
+                        <tr>
+                            <td style="padding:2% 1%;font-size: small;">Sacramento , CA to St. Petersburg, FL</td>
+                            <td style="padding:2% 1%;font-size: small;">2,854.9 miles</td>
+                            <td style="padding:2% 1%;font-size: small;">$1,030.00 - $1,557.00</td>
+                            <td style="padding:2% 1%;font-size: small;">7 - 8 days</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p  style="font-size: small;">**It is important to note that the prices and times listed are only estimates and will vary depending on factors such as the season and the type of vehicle being shipped. Use our car shipping calculator to get an instant price quote for your exact type of shipment.</p>
             <div class="addvertisement">
-                <p>We are committed to delivering a safe, equitable, and reliable transportation system.</p>
+                <p style="font-size: larger;">We are committed to delivering a safe, equitable, and reliable transportation system.</p>
                 <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">
