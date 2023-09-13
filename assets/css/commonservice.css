@@ -525,6 +525,28 @@ height: auto;position: relative;z-index: 1;}
     display: flex;
 }
 
+.zipcodes{
+    width: 100%;
+    height: auto;
+    background-color: #dcdcdc;
+    padding: 1%;
+}
+.zipcode-heading{
+    /* text-align: center; */
+    font-size: 1.8rem;
+    color: #242222;
+}
+.zip{padding-left: 3%;}
+.zip h3{font-size: 1.5rem;}
+.zip ul{
+    padding: .1% 2%;
+}
+.zip ul li{margin: 7px 0;font-size: 1.1rem;}
+
+
+
+
+
 
 @media screen and (max-width:1100px) {
    

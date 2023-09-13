@@ -331,6 +331,31 @@
                 <p class="content-section-paragraph">It's crucial to obtain pricing quotes from reputable auto transport companies and to get an accurate and up-to-date estimate for your vehicle transport. Transportation prices may have changed since my last update, so we recommend reaching out to auto transport companies or using online quote comparison tools to get the most accurate and current pricing information. Additionally, you should consider factors like insurance, delivery timelines, and the company's reputation when making your decision.</p>
                 
             </div>
+            <section class="zipcodes">
+                <div class="zipcode-heading">
+                    <!-- <h2>Popular Zipcodes We Ship To</h2> -->
+                    <h2>Popular Shipping Destinations: Zip Codes We Serve</h2>
+                </div>
+                <div class="zip">
+                    <h3>California</h3>
+                    <ul>
+                        <li><strong>Los Angeles : </strong>90001, 90026, 90046, 90210, 90291, 90292, 91316, 91436, 91604, 90071</li>
+                        <li><strong>San Francisco : </strong>94102, 94110, 94114, 94117, 94123, 94133, 94109, 94115, 94121, 94118</li>
+                        <li><strong>San Diego : </strong>92101, 92109, 92111, 92122, 92130, 92126, 92104, 92107, 92037, 92127</li>
+                        <li><strong>Sacramento : </strong>95814, 95811, 95816, 95818, 95820, 95822, 95825, 95833, 95834, 95838</li>
+                    </ul>
+                </div>
+                <div class="zip">
+                    <h3>Florida</h3>
+                    <ul>
+                        <li><strong>Jacksonville : </strong>32207, 32210, 32224, 32256, 32204, 32246, 32205, 32258, 32225, 32202</li>
+                        <li><strong>Tampa : </strong>33602, 33606, 33609, 33611, 33629, 33612, 33613, 33614, 33617, 33647</li>
+                        <li><strong>Orlando : </strong>32801, 32803, 32806, 32812, 32822, 32828, 32835, 32837, 32839, 32832</li>
+                        <li><strong>Miami : </strong>33132, 33139, 33140, 33156, 33186, 33165, 33173, 33175, 33178, 33189</li>
+                        <li><strong>St. Petersburg : </strong>33701, 33704, 33705, 33707, 33710, 33713, 33716, 33771, 33777, 33781</li>
+                    </ul>
+                </div>
+            </section>
             <div class="content-box-1">
                 <h2 class="content-section-heading">Factors which affect delivery costing and duration</h2>
                 <p class="content-section-paragraph">The cost and duration of shipping from California to Florida can vary widely depending on these factors:</p>

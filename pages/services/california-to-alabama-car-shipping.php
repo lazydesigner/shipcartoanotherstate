@@ -20,10 +20,10 @@
     <meta property="article:tag" content="California to Alabama Vehicle Auto Transportations" />
     <meta property="article:tag" content="California to Alabama Vehicle shipping" />
     <meta property="article:tag" content="California to Alabama Vehicle shipping service" />
-    <link rel="stylesheet" href="<?=get_home_url() ?>assets/css/commonservice.css" async>
+    <link rel="stylesheet" href="<?= get_home_url() ?>deepak/assets/css/commonservice.css" async>
     <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" type="image/webp">
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
-    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer"   as="style" onload="this.onload=null;this.rel='stylesheet'" async/>
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <title>California to Alabama Car Shipping | Ship Car To Another State</title>
     <style>
         .error {
@@ -42,11 +42,17 @@
             font-size: 1.2rem;
             z-index: 10;
         }
-        .form-section{position: relative;align-items: center;}
-        .guranteed{
+
+        .form-section {
+            position: relative;
+            align-items: center;
+        }
+
+        .guranteed {
             width: 150px;
             display: block;
         }
+
         /*  */
     </style>
 </head>
@@ -66,16 +72,16 @@
         </div>
     </section>
     <section class="form-section">
-        <div class="guranteed"><img src="<?=get_home_url()  ?>assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
+        <div class="guranteed"><img src="<?= get_home_url()  ?>assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
         <form action="form-submit" id="form-submit">
-        <div class="form-group" id="distance"></div>
+            <div class="form-group" id="distance"></div>
             <div class="form-group">
                 <!--<b>FROM:</b>--> <input type="text" placeholder="State or City" name="from" id="origin-input">
             </div>
             <div class="form-group">
                 <!--<b>TO:</b>--> <input type="text" placeholder="State or City" name="to" id="destination-input">
             </div>
-            
+
             <div class="form-group form-group-b">
                 <input type="submit" id="send" value="Get Quote">
             </div>
@@ -151,7 +157,7 @@
                     <tbody>
                         <tr>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">San Francisco , CA to Huntsville, AL</td>
-                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,306.3  miles</td>
+                            <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">2,306.3 miles</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">$979.00 - $1,545.00</td>
                             <td style="padding:2% 1%;font-size: small;border-bottom: 1px solid grey;">6 - 8 days</td>
                         </tr>
@@ -268,43 +274,68 @@
                     </tbody>
                 </table>
             </div>
-            <p  style="font-size: small;">**It is important to note that the prices and times listed are only estimates and will vary depending on factors such as the season and the type of vehicle being shipped. Use our car shipping calculator to get an instant price quote for your exact type of shipment.</p>
+            <p style="font-size: small;">**It is important to note that the prices and times listed are only estimates and will vary depending on factors such as the season and the type of vehicle being shipped. Use our car shipping calculator to get an instant price quote for your exact type of shipment.</p>
             <div class="addvertisement">
                 <p style="font-size: larger;">We are committed to delivering a safe, equitable, and reliable transportation system.</p>
-                <a href="<?=get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
+                <a href="<?= get_home_url()  ?>get-quotes"><button>GET QUOTES</button></a>
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">Car Shipping Cost from California to Alabama</h2>
                 <p class="content-section-paragraph">The cost to ship a car from California to Alabama is based on the distance, number of cars, size, and many other factors. The overall average distance between California and Alabama is about 2166 miles. You can get a free shipping estimate; you can always request a shipping quote from our website or talk to one of our Ship Car To Another State Service providers.</p>
-               <p class="content-section-paragraph">Ship Car To Another State offers affordable shipping services from California to Alabama. We Ship Car To Another State; we are the best car shipping company from California to Alabama. To ship a car from California to Alabama, Contact us today at +1 (833) 233-4447.</p>
+                <p class="content-section-paragraph">Ship Car To Another State offers affordable shipping services from California to Alabama. We Ship Car To Another State; we are the best car shipping company from California to Alabama. To ship a car from California to Alabama, Contact us today at +1 (833) 233-4447.</p>
             </div>
             <div class="content-box-img">
                 <!-- <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%"> -->
             </div>
+            
             <div class="content-box-1">
                 <h2 class="content-section-heading">How much does it cost to ship a car from California to Alabama</h2>
                 <h3>Estimate cost to ship a car from California to Alabama</h3>
                 <p class="content-section-paragraph">When you need California to Alabama auto shipping services for your car, truck, or other vehicle, Ship Car To Another State can handle the job. With three decades of experience, Ship Car To Another State expert staff can handle any type of long-distance car transport. We offer fair prices, accurate quotes, and communication throughout the transport process with 24x7 live tracking support. By using our secure online system, call our professional shipping coordinators today to lock your California to Alabama Vehicle Auto Shipping.</p>
-                
+
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">Top Rated California to Alabama Auto Transport</h2>
                 <p class="content-section-paragraph">People ask themselves and think about Whom to trust and who is a reliable car shipping company to ship a car. Well, you don't have to worry about that; Ship Car To Another State is the company that provides you with the services you can't deny. We have a long experience of California to Alabama Auto Transport. Our Ship Car To Another State staff is ready to provide you with top-rated California to Alabama Vehicle shipping, which will be your perfect choice. Ship Car To Another State is one of the best California to Alabama car transporters in the USA. Get your free California to Alabama Vehicle shipping service quote today at our official Ship Car To Another State website!</p>
-              
-            </div>
 
+            </div>
+            <section class="zipcodes">
+                <div class="zipcode-heading">
+                    <!-- <h2>Popular Zipcodes We Ship To</h2> -->
+                    <h2>Popular Shipping Destinations: Zip Codes We Serve</h2>
+                </div>
+                <div class="zip">
+                    <h3>California</h3>
+                    <ul>
+                        <li><strong>Los Angeles : </strong>90001, 90026, 90046, 90210, 90291, 90292, 91316, 91436, 91604, 90071</li>
+                        <li><strong>San Francisco : </strong>94102, 94110, 94114, 94117, 94123, 94133, 94109, 94115, 94121, 94118</li>
+                        <li><strong>San Diego : </strong>92101, 92109, 92111, 92122, 92130, 92126, 92104, 92107, 92037, 92127</li>
+                        <li><strong>Sacramento : </strong>95814, 95811, 95816, 95818, 95820, 95822, 95825, 95833, 95834, 95838</li>
+                    </ul>
+                </div>
+                <div class="zip">
+                    <h3>Alabama</h3>
+                    <ul>
+                        <li><strong>Huntsville : </strong>35801, 35802, 35803, 35805, 35806, 35810, 35811, 35816, 35824, 35898</li>
+                        <li><strong>Montgomery : </strong>36104, 36106, 36107, 36111, 36117, 36109, 36105, 36110, 36116, 36108</li>
+                        <li><strong>Birmingham : </strong>35203, 35205, 35211, 35212, 35222, 35223, 35233, 35208, 35234, 35218</li>
+                        <li><strong>Mobile : </strong>36602, 36604, 36605, 36606, 36607, 36608, 36609, 36610, 36617, 36618</li>
+                        <li><strong>Tuscaloosa : </strong>35401, 35404, 35405, 35406, 35473, 35476, 35453, 35446, 35457, 35452</li>
+                    </ul>
+                </div>
+            </section>
             <div class="content-box-img">
                 <!-- <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%"> -->
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">About car shipping from California</h2>
                 <p class="content-section-paragraph">Our USA's Golden State, California, is situated along the Pacific Bank, as we all know, right? Ship Car To Another State has completed hundreds of car shipping through different routes of all cities located in California. We are ranked by Oregon toward the north, by Nevada and Arizona toward the west, and by Mexico toward the south. Sacramento is the capital of California, and its biggest city is Los Angeles. California is the most crowded state in the USA, with an expected population of more than 38 million people. California is the third biggest state by area in the nation, with an area of 163,696 square miles. Our California is separated into 58 areas and 481 fused urban communities and towns. In California, there are five noteworthy metropolitan territories around which the majority of the state's population. These metropolitan regions are Los Angeles, Riverside-San Bernardino, the San Francisco Bay Area, San Diego, and Sacramento.</p>
-              
+
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">About car shipping to Alabama</h2>
                 <p class="content-section-paragraph">Our Alabama, the 22nd condition of the USA, Alabama is arranged in the southeastern piece of the nation. Alabama covers a zone of 52,419 sq. miles. Ship Car To Another State has completed hundreds of car shipping through different routes of all cities located in Alabama. The capital of Alabama is Montgomery, and Alabama's greatest city is Birmingham.</p>
-              
+
             </div>
             <div class="content-box-1">
                 <h2 class="content-section-heading">What Makes Ship Car To Another State the Right Auto Transport Choice?</h2>
@@ -321,11 +352,11 @@
                     <li class="content-section-li">
                         <h4 class="content-section-heading-h3">Cost Effective</h4>
                         <p class="content-section-paragraph">One of the many reasons that we know that Ship Car To Another State is the auto shipping company for California to Alabama is that our Ship Car To Another State rates are lower than our competitor's car shipping service providing companies. </p>
-                  
+
                         <p class="content-section-paragraph">For these reasons and more, you know that Ship Car To Another State is the right team to get your car shipping done. Our Ship Car To Another State team of industry professionals have the experience and skills to pick up and deliver your car on time and anywhere.</p>
                     </li>
                 </ul>
-              
+
             </div>
 
 
@@ -388,8 +419,9 @@
     <section class="call-to-action">
         <div class="row">
             <h2>Want to know the cost of shipping a car with us?</h2>
-            <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="<?=get_home_url()  ?>get-quotes" ><button>Get Free Quote</button></a>
-            <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a></div>
+            <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="<?= get_home_url()  ?>get-quotes"><button>Get Free Quote</button></a>
+                <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a>
+            </div>
         </div>
     </section>
     <section class="testmo">
@@ -446,7 +478,7 @@
     </section>
     <?php include '../../footer.php' ?>
     <div class="sitebutton" id="sitebutton">
-        <a href="<?=get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
+        <a href="<?= get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
     </div>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>
     <script>
@@ -548,15 +580,15 @@
             });
         }
 
-        document.getElementById('navbar2').addEventListener('click',()=>{
-            document.getElementById('navbar2').style.display ='none';
-            document.getElementById('navbar3').style.display ='block';
-            document.getElementById('fordesktop').style.display ='grid';
+        document.getElementById('navbar2').addEventListener('click', () => {
+            document.getElementById('navbar2').style.display = 'none';
+            document.getElementById('navbar3').style.display = 'block';
+            document.getElementById('fordesktop').style.display = 'grid';
         })
-        document.getElementById('navbar3').addEventListener('click',()=>{
-            document.getElementById('navbar2').style.display ='block';
-            document.getElementById('navbar3').style.display ='none';
-            document.getElementById('fordesktop').style.display ='none';
+        document.getElementById('navbar3').addEventListener('click', () => {
+            document.getElementById('navbar2').style.display = 'block';
+            document.getElementById('navbar3').style.display = 'none';
+            document.getElementById('fordesktop').style.display = 'none';
         })
     </script>
 </body>

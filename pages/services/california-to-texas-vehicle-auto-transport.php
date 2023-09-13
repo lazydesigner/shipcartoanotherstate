@@ -314,7 +314,31 @@
                 <h2 class="content-section-heading">Reading Reviews and Checking References</h2>
                 <p class="content-section-paragraph">Reading reviews and checking ratings with references from previous customers can provide valuable insights with reliability and professionalism in auto transport companies. Look for feedback and customer comments related to California to Texas routes specifically.</p>
             </div>
-
+            <section class="zipcodes">
+                <div class="zipcode-heading">
+                    <!-- <h2>Popular Zipcodes We Ship To</h2> -->
+                    <h2>Popular Shipping Destinations: Zip Codes We Serve</h2>
+                </div>
+                <div class="zip">
+                    <h3>California</h3>
+                    <ul>
+                        <li><strong>Los Angeles : </strong>90001, 90026, 90046, 90210, 90291, 90292, 91316, 91436, 91604, 90071</li>
+                        <li><strong>San Francisco : </strong>94102, 94110, 94114, 94117, 94123, 94133, 94109, 94115, 94121, 94118</li>
+                        <li><strong>San Diego : </strong>92101, 92109, 92111, 92122, 92130, 92126, 92104, 92107, 92037, 92127</li>
+                        <li><strong>Sacramento : </strong>95814, 95811, 95816, 95818, 95820, 95822, 95825, 95833, 95834, 95838</li>
+                    </ul>
+                </div>
+                <div class="zip">
+                    <h3>Texas</h3>
+                    <ul>
+                        <li><strong>Houston : </strong>77002, 77007, 77019, 77024, 77027, 77036, 77042, 77056, 77063, 77077</li>
+                        <li><strong>San Antonio : </strong>78201, 78201, 78210, 78212, 78217, 78218, 78229, 78230, 78232, 78249</li>
+                        <li><strong>Dallas : </strong>75201 , 75204, 75206, 75209, 75214, 75219, 75225, 75230, 75231, 75238</li>
+                        <li><strong>Austin : </strong>78701 , 78702, 78703,  78704, 78723, 78731, 78746, 78749, 78753, 78758</li>
+                        <li><strong>Fort Worth : </strong>76102 , 76107,  76109, 76112, 76116, 76132, 76133, 76137, 76179, 76244</li>
+                    </ul>
+                </div>
+            </section>
             <div class="content-box-img">
                 <!-- <img src="https://dashboard.rapidautoshipping.com/assets/images/img_gallery/1036363089.webp" alt="content-box-img" width="100%" height="100%"> -->
             </div>
