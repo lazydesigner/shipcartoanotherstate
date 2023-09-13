@@ -670,6 +670,16 @@
          window.addEventListener('resize', handleResize);
         handleResize();
         
+
+        window.addEventListener('scroll', function() {
+            a = window.pageYOffset
+            if (a >= 500) {
+                document.getElementById('sitebutton').style.display = 'block'
+            } else {
+                document.getElementById('sitebutton').style.display = 'none'
+            }
+        });
+
     </script>
 </body>
 

@@ -257,7 +257,7 @@ footer ul a {
     position: fixed;
     bottom: 5%;
     right: 1%;
-    display: none;
+    display: block;
     z-index: 99;
 }
 .sitebutton button{
