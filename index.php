@@ -29,7 +29,7 @@
     <meta name="google-site-verification" content="970kFHxDIhqBEORbOCCKDtfAS19KZPYrQdbsVWcSFCk" />
     <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link  rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=1" async>
+    <link  rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=2" async>
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
