@@ -12,6 +12,7 @@ RewriteRule ^get-quotes([/]?)$ form.php [NC,L]
 RewriteRule ^contact([/]?)$ contact.php [NC,L]
 RewriteRule ^privacy-policy([/]?)$ privacy-and-policy.php [NC,L]
 RewriteRule ^terms-and-condition([/]?)$ terms-and-condition.php [NC,L]
+RewriteRule ^query([/]?)$ query.php [NC,L]
 
 
 RewriteRule ^commonservice([/]?)$ pages/services/index_.php [NC,L]

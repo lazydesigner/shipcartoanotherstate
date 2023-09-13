@@ -29,7 +29,7 @@
     <meta name="google-site-verification" content="970kFHxDIhqBEORbOCCKDtfAS19KZPYrQdbsVWcSFCk" />
     <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link  rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=2" async>
+    <link  rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=3" async>
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -486,6 +486,21 @@
     <div class="sitebutton" id="sitebutton">
         <a href="<?= get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
     </div>
+
+
+    <div class="query-form-body" id="query-form-body">
+        <div class="query-form-bg"></div>
+        <div class="query-form">
+            <div class="query-details">
+                <p><strong>Does your destination is oversea</strong></p>
+            </div>
+            <div class="query-btn">
+                <button style="border:1px solid green" onclick="redirectform()">Yes</button>
+                <button style="background-color: red;" onclick="closerdiv()">No</button>
+            </div>
+        </div>
+    </div>
+
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>
     <script>
 
@@ -553,7 +568,8 @@
                     document.getElementById('error-text').innerText = "Directions request returned no results ";
                     setTimeout(() => {
                         document.getElementById('error').style.display = 'none'
-                    }, 2000)
+                        opnerdiv()
+                    }, 1500)
                 }
             });
         }
@@ -692,6 +708,17 @@
                 document.getElementById('sitebutton').style.display = 'none'
             }
         });
+
+        function closerdiv(){
+            document.getElementById('query-form-body').style.display = 'none';
+            document.getElementById('destination-input').value = '';
+        }
+        function opnerdiv(){
+            document.getElementById('query-form-body').style.display = 'grid';
+        }
+        function redirectform(){
+            window.location = 'query'
+        }
 
     </script>
 </body>
