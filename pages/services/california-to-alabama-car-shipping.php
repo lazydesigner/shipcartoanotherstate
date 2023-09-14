@@ -20,7 +20,7 @@
     <meta property="article:tag" content="California to Alabama Vehicle Auto Transportations" />
     <meta property="article:tag" content="California to Alabama Vehicle shipping" />
     <meta property="article:tag" content="California to Alabama Vehicle shipping service" />
-    <link rel="stylesheet" href="<?= get_home_url() ?>deepak/assets/css/commonservice.css" async>
+    <link rel="stylesheet" href="<?= get_home_url() ?>assets/css/commonservice.css" async>
     <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" type="image/webp">
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
@@ -87,7 +87,23 @@
             </div>
         </form>
     </section>
-
+    <section class="estimated-cost">
+        <div class="dist-box">
+        <i class="ri-pin-distance-fill"></i><br>
+        <p>Approximate Distance</p>
+            <span>2,165.1 miles</span>
+        </div>
+        <div class="dist-box">
+        <i class="ri-time-fill"></i><br>
+        <p>Estimated Transit Time</p>
+            <span>5 - 6 Days</span>
+        </div>
+        <div class="dist-box">
+            <i class="ri-money-dollar-circle-fill"></i><br>
+            <p>Estimated Price</p>
+            <span>$1451 - $1918</span>
+        </div>
+    </section>
     <section class="service-content-section">
 
         <div class="content-section">

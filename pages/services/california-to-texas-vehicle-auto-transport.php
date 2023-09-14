@@ -81,7 +81,23 @@
             </div>
         </form>
     </section>
-
+    <section class="estimated-cost">
+        <div class="dist-box">
+        <i class="ri-pin-distance-fill"></i><br>
+        <p>Approximate Distance</p>
+            <span>1,409.3 miles</span>
+        </div>
+        <div class="dist-box">
+        <i class="ri-time-fill"></i><br>
+        <p>Estimated Transit Time</p>
+            <span>5 - 6 Days</span>
+        </div>
+        <div class="dist-box">
+            <i class="ri-money-dollar-circle-fill"></i><br>
+            <p>Estimated Price</p>
+            <span>$956 - $1548</span>
+        </div>
+    </section>
     <section class="service-content-section">
 
         <div class="content-section">

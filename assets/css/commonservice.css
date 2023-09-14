@@ -136,7 +136,8 @@ header  a{text-decoration: none;color: black;}
     height: 150px;
     background-color: rgba(23, 23, 157, 0.937);
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 2%;
 
 }
 form{
@@ -245,7 +246,38 @@ padding: 3%;
 }
 .hidelogoforphone{display: block;}
 #navbar3{display: none;}
-
+.estimated-cost{
+    width: 100%;
+    height: auto;
+    padding: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-bottom: 1px solid rgb(159, 195, 232);
+}
+.dist-box{
+    width: 300px;
+    height: auto;
+    padding: 2%;
+    text-align: center;
+    border: 1px solid rgb(230, 230, 230);
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+.dist-box span{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.dist-box p{
+    width:80%;
+    margin:1% auto;
+    /* margin-top: 0; */
+    padding: 0;
+    border-bottom: 4px solid rgb(14, 14, 115);
+    font-weight: bold;
+    
+}
+.dist-box i{font-size: xx-large;}
 
 
 

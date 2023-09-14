@@ -32,7 +32,7 @@
         font-family: "Open Sans";
         font-display: "swap";
         src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2");
-    }
+        }
 
         .error {
             width: 220px;
@@ -74,7 +74,7 @@
         </div>
     </section>
     <section class="form-section">
-    <div class="guranteed"><img src="<?=get_home_url()  ?>assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>
+        <div class="guranteed"><img src="https://shipcartoanotherstate.com/assets/images/qual%C4%B1ty-guarantee.svg" width="100%" height="100%" alt=""></div>
         <form action="form-submit" id="form-submit">
             <div class="form-group" id="distance"></div>
             <div class="form-group">
@@ -89,7 +89,23 @@
             </div>
         </form>
     </section>
-
+    <section class="estimated-cost">
+        <div class="dist-box">
+        <i class="ri-pin-distance-fill"></i><br>
+        <p>Approximate Distance</p>
+            <span>2,550.6 miles</span>
+        </div>
+        <div class="dist-box">
+        <i class="ri-time-fill"></i><br>
+        <p>Estimated Transit Time</p>
+            <span>6 - 8 Days</span>
+        </div>
+        <div class="dist-box">
+            <i class="ri-money-dollar-circle-fill"></i><br>
+            <p>Estimated Price</p>
+            <span>$1750 - $2065</span>
+        </div>
+    </section>
     <section class="service-content-section">
 
         <div class="content-section">
