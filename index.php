@@ -492,7 +492,7 @@
         <div class="query-form-bg"></div>
         <div class="query-form">
             <div class="query-details">
-                <p><strong>Does your destination is oversea</strong></p>
+                <p><strong>Does your Shipment Include Sea Routes</strong></p>
             </div>
             <div class="query-btn">
                 <button style="border:1px solid green" onclick="redirectform()">Yes</button>

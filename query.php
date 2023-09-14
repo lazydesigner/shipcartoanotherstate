@@ -56,6 +56,7 @@
     <?php include './navbar.php' ?>
 
     <div>
+        <h2 style="text-align: center;">All Overseas Vehicle Shipment  (Including Hawaii & Alaska). Please fill the form and next available Auto Transport Expert will be in touch with you right away or Calls us at our Toll Free Number +1 (833) 233 -4447</h2>
         <div class="query-form2">
             <div class="contact-div">
                 <form action="">

@@ -28,14 +28,11 @@
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <title>New York to Nevada Auto Transport | Ship Car To Another State</title>
     <style>
-        @font-face {
-
-            font-family: "Open Sans";
-
-            font-display: “swap”;
-
-            src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2")
-        }
+      @font-face {
+        font-family: "Open Sans";
+        font-display: "swap";
+        src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2");
+    }
 
         .error {
             width: 220px;
