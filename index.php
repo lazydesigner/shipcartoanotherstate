@@ -324,7 +324,7 @@
             </div>
         </div>
         <div class="more-service">
-            <a href="<?= get_home_url()  ?>services"><button>More Services</button></a>
+            <a href="<?= get_home_url()  ?>"><button>Other Shipping Routes</button></a>
         </div>
 
     </section>
