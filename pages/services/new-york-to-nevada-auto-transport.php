@@ -22,7 +22,7 @@
     <meta property="article:tag" content="New York to Nevada Vehicle Auto Transportations" />
     <meta property="article:tag" content="New York to Nevada Vehicle shipping" />
     <meta property="article:tag" content="New York to Nevada Vehicle shipping service" />
-    <link rel="stylesheet" href="<?= get_home_url() ?>assets/css/commonservice.css?v=2" async>
+    <link rel="stylesheet" href="<?= get_home_url() ?>assets/css/commonservice.css?v=3" async>
 
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
@@ -73,6 +73,17 @@
             </div>
         </div>
     </section>
+    <div class="services-we-provide">
+                    <div class="services-one">
+                        <strong><i class="ri-check-double-fill"></i><span>OPEN CAR SERVICES</span></strong>
+                    </div>
+                    <div class="services-one">
+                        <strong><i class="ri-check-double-fill"></i><span>ENCLOSED CAR SERVICES</span></strong>
+                    </div>
+                    <div class="services-one">
+                        <strong><i class="ri-check-double-fill"></i><span>DOOR TO DOOR CAR SERVICES</span></strong>
+                    </div>
+                </div>
     <section class="form-section">
         <div class="guranteed"><img src="https://shipcartoanotherstate.com/assets/images/qual%C4%B1ty-guarantee.svg" width="100%" height="100%" alt=""></div>
         <form action="form-submit" id="form-submit">

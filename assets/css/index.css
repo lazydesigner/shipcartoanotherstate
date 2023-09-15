@@ -622,7 +622,7 @@ footer ul a{
     display: block;
 }
 .our-ser{
-    width: 80%;
+    width: 83%;
     margin: 10px auto;
     line-height: 25px;
     font-size: 1.1rem;
@@ -769,7 +769,17 @@ footer ul a{
     cursor: pointer;
     border: 3px;
 }
-.how-it-work-v{padding: 3%;display: none;}
+.how-it-work-v{padding: 3%;color: whitesmoke;}
+.how-it-work-v .how-it-work-title{
+    width: 75%;
+    position: relative;
+    font-size: 2.7rem;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    color:rgba(14, 31, 213);
+    border-bottom:2px solid rgb(35, 19, 216);
+}
 .how-it-work-steps-v{
     display: flex;
     flex-wrap: wrap;
@@ -780,19 +790,48 @@ footer ul a{
     margin-top: 3%;
 }
 .how-it-work-box{
-    width: 250px;
+    width: 280px;
     /* text-align: center; */
     border-radius: 5px;
     border: 1px solid lightgray;
-    padding: 1%;
-    clip-path: polygon(85% 0, 100% 50%, 85% 100%, 0 100%, 0 0);
+    padding: 2%;
+    clip-path: polygon(100% 0, 100% 90%, 50% 100%, 0 90%, 0 0);
+    
     background-color: dodgerblue;
+}
+.how-it-work-box{
+    font-size: 1.2rem;
 }
 .av{
     /* margin-top: 5%;
     align-self: end; */
 }
-
+.index-pricing-table h2{
+    font-size: 2rem;
+    color:rgb(35, 19, 216);
+    text-align:center;
+    width:55%;margin:auto
+}
+.div-index-table{
+    padding: 3%;
+}
+.index-pricing-table table{
+    width: 100%;
+    height:auto;
+    text-align: center;
+}
+.index-pricing-table table thead tr{
+    background-color: lightgray;    
+}
+.index-pricing-table table thead tr th{
+    padding: 2%;    
+}
+.index-pricing-table table tr td{
+    padding: 2%;
+}
+.index-pricing-table table tr:nth-child(even){
+   background-color: #f2f2f2;
+}
 
 
 
@@ -858,6 +897,7 @@ footer ul a{
 .sitebutton{right:3%}
 .blog-section-heading{width: 75%;}
 .how-it-work-box{margin: .5% 0;}
+.index-pricing-table h2 {    width: 80%;}
 }
 @media screen and (max-width:650px) {
     .grid {
@@ -982,12 +1022,20 @@ footer ul a{
     }
     .fordesktop2 li{margin: 5% 0;}
 
-.sercive-heading{width: 250px;}
+.sercive-heading{width: 280px;}
+.our-ser {width: 100%;}
 .sitebutton{right:3%}
 .how-it-work-box{
     clip-path: polygon(100% 0, 100% 85%, 50% 100%, 0 85%, 0 0);
     padding: 3%;
 }
+.index-pricing-table table thead tr th {
+    padding: 2%;
+    font-size: small;
+}
+.index-pricing-table h2 {font-size: 1.3rem;width: 100%;}
+.how-it-work-box p{padding-bottom: 15%;}
+.how-it-work-v .how-it-work-title{width: 90%;}
 
 }
 

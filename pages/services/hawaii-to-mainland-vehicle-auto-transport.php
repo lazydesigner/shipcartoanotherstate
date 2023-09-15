@@ -20,7 +20,7 @@
     <meta property="article:tag" content="Hawaii to Mainland Vehicle Auto Transportations" />
     <meta property="article:tag" content="Hawaii to Mainland Vehicle shipping" />
     <meta property="article:tag" content="Hawaii to Mainland Vehicle shipping service" />
-    <link rel="stylesheet" href="<?= get_home_url() ?>assets/css/commonservice.css?v=2" async>
+    <link rel="stylesheet" href="<?= get_home_url() ?>assets/css/commonservice.css?v=3" async>
     <link rel="preload" fetchpriority="high" as="image" href="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" type="image/webp">
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
@@ -70,6 +70,17 @@
                 <p>Ship Car To Another State is the best choice for your Wheel buddy for Hawaii To Mainland transport with fast delivery, affordable service with full reliability.</p>
             </div>
         </div>
+        <div class="services-we-provide">
+                    <div class="services-one">
+                        <strong><i class="ri-check-double-fill"></i><span>OPEN CAR SERVICES</span></strong>
+                    </div>
+                    <div class="services-one">
+                        <strong><i class="ri-check-double-fill"></i><span>ENCLOSED CAR SERVICES</span></strong>
+                    </div>
+                    <div class="services-one">
+                        <strong><i class="ri-check-double-fill"></i><span>DOOR TO DOOR CAR SERVICES</span></strong>
+                    </div>
+                </div>
     </section>
     <section class="form-section">
         <div class="guranteed"><img src="<?= get_home_url()  ?>assets/images/qualıty-guarantee.svg" width="100%" height="100%" alt=""></div>

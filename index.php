@@ -29,7 +29,7 @@
     <meta name="google-site-verification" content="970kFHxDIhqBEORbOCCKDtfAS19KZPYrQdbsVWcSFCk" />
     <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=5" async>
+    <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=6" async>
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -266,31 +266,76 @@
         </div>
     </section>
     <div class="how-it-work-v">
-        <p class="how-it-work-title">How It Work</p>
+        <p class="how-it-work-title">How we Ship Your Car from Point A to Point B</p>
         <div class="how-it-work-steps-v">
             <div class="how-it-work-box">
                 <strong>STEP 1</strong> <br>
                 <b>Get Quotes</b>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum minima beatae consequuntur laudantium consequatur tempore dicta suscipit ipsam omnis voluptate?</p>
+                <p cl>It is never easy to get car shipping quotes with other Vehicle Transportation companies but we here make the process simple as out Auto Transport Experts are just a call away. Our Vehicle Shipping Quotes are based on cost on which we can deliver your vehicle safely to your Desired location on a given time</p>
             </div>
             
             <div class="how-it-work-box" style="background-color: tomato;">
                 <strong>STEP 2</strong> <br>
                 <b>Vehicle Pickup</b>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum minima beatae consequuntur laudantium consequatur tempore dicta suscipit ipsam omnis voluptate?</p>
+                <p>On Provided Date our Specialise Auto Transport Carrier will contact you and inform you about the Car Pickup Time and Location as Provided earlier. The Driver will pickup the Car with all required tools to ensure the it gets safely loaded on the truck. Driver will take pictures and Videos of the Vehicle and will confirm the same to the Auto Transport Agent</p>
             </div>
             <div class="how-it-work-box av" style="background-color: green;">
                 <strong>STEP 3</strong> <br>
                 <b>Shipping Process</b>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum minima beatae consequuntur laudantium consequatur tempore dicta suscipit ipsam omnis voluptate?</p>
+                <p>As soon as we receive your car the care and safety of your vehicle is our Responsibility. We understand that you are not only shipping your car but also trusting us. We provide you the GPS tracking system most of the time to track the current location of the Auto Carrier so you can have peace of mind. As you are shipping with the best Auto Transportation company so your CAr Shipment is Fully insured.</p>
             </div>
-            <div class="how-it-work-box" style="background-color: yellow;">
+            <div class="how-it-work-box" style="background-color: #fc038c;">
                 <strong>STEP 4</strong> <br>
                 <b>Vehicle Delivery</b>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum minima beatae consequuntur laudantium consequatur tempore dicta suscipit ipsam omnis voluptate?</p>
+                <p>Like Pickup, Our Auto Carrier Driver will call you and confirm you about the Delivery Time on the mentioned date by the Transport Agent. Our Driver will come to your desired location as close as possible . At the time of Vehicle Delivery we charge you the Final Payment as mentioned during the booking and Drivers take Pictures and videos of the Car to ensure transportation agent about the successful delivery of the Vehicle.</p>
             </div>
         </div>
     </div>
+
+    <section class="index-pricing-table">
+        <h2>Based On Our Recent Car Shipping Experience Average Costs To Ship A Car Per Miles</h2>
+       <div class="div-index-table">
+       <table >
+            <thead>
+                <tr>
+                    <th>Distance</th>
+                    <th>Estimated Time</th>
+                    <th>Estimated Open Transport Cost</th>
+                    <th>Estimated Closed Transport Cost</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>0 - 500 Miles</td>
+                    <td>1 - 3 Days</td>
+                    <td>$550</td>
+                    <td>$850</td>
+                </tr>
+                <tr>
+                    <td>500 - 1500 Miles</td>
+                    <td>3 - 5 Days</td>
+                    <td>$970</td>
+                    <td>$1370</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>1500 - 2500 Miles</td>
+                    <td>5 - 7 Days</td>
+                    <td>$1270</td>
+                    <td>$1650</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>2500 Miles And Above</td>
+                    <td>7 - 9 Days</td>
+                    <td>$1580</td>
+                    <td>$2150</td>
+                </tr>
+            </tbody>
+        </table>
+       </div>
+    </section>
+
     <section class="service-section">
         <h2 class="sercive-heading"><span>Some Major Auto Shipping Routes In USA</span></h2>
         
@@ -419,6 +464,7 @@
                     <h2>Mark de cole</h2>
                     <p>They did a great job delivering my two-wheeler in their trailer. Auto Shippers did a great job of
                         delivering it. This is my third time with them, and I am always happy with their services.</p>
+                        <!-- <div class="top-review-img"><img src="./assets/images/google.png" width="100%" height="100%" alt="" style="mix-blend-mode:screen;"></div> -->
                 </div>
             </div>
 

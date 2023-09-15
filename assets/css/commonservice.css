@@ -586,6 +586,30 @@ height: auto;position: relative;z-index: 1;}
     border:1px solid grey;
     border-spacing:0
 }
+.services-we-provide{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 5%;
+    position: absolute;
+    bottom:5%;
+    z-index: 1;
+    /* margin-top: 10%; */
+}
+.services-one strong{display: flex;
+    align-items: center;gap: 5px;}
+.services-one i{
+    font-size: xx-large;
+    /* color: rgb(12, 12, 121); */
+    color: dodgerblue;
+}
+.services-one span{color: white;font-size:large;}
+
+
+
 
 
 
