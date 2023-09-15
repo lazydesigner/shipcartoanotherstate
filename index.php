@@ -294,7 +294,7 @@
     <section class="service-section">
         <h2 class="sercive-heading"><span>Some Major Auto Shipping Routes In USA</span></h2>
         
-        <p class="our-ser">We offers a range of services to their customers, including Interstate Shipping, Freight Forwarding, Express Delivery, Residential Moving,Commercial Shipping,Vehicle Transport,Online Tracking and many more</p>
+        <p class="our-ser">We are specialise in shipping Vehicles all across the States. Some of our Most Popular Shipping Routes are mentioned here where we have our Auto Transportation Experts and group of Auto Transport Carriers to make the Shipping Experience at its best.</p>
 
         <div class="grid">
 
