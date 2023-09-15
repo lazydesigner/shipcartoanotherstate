@@ -173,10 +173,10 @@ header  a{text-decoration: none;color: black;}
     padding: 5%;
 }
 .sercive-heading{
-    width: 500px;
+    width: 700px;
     text-align: center;
     border-bottom:2px solid rgb(35, 19, 216);
-    
+    font-size: 3rem;
     color: rgb(35, 19, 216);
     margin: auto;
     padding: 1%;
