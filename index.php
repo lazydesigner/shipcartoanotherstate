@@ -292,7 +292,7 @@
         </div>
     </div>
     <section class="service-section">
-        <h2 class="sercive-heading"><span>Some Important Shipment Routes In USA</span></h2>
+        <h2 class="sercive-heading"><span>Some Major Auto Shipping Routes In USA</span></h2>
         <p class="our-ser">We offers a range of services to their customers, including Interstate Shipping, Freight Forwarding, Express Delivery, Residential Moving,Commercial Shipping,Vehicle Transport,Online Tracking and many more</p>
 
         <div class="grid">
