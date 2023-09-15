@@ -25,15 +25,15 @@
     <meta property="article:tag" content="how to ship my car to another state" />
     <meta property="article:tag" content="cost to ship car to another state" />
     <meta property="article:tag" content="how to ship your car to another state" />
- <!-- change -->
+    <!-- change -->
     <meta name="google-site-verification" content="970kFHxDIhqBEORbOCCKDtfAS19KZPYrQdbsVWcSFCk" />
     <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link  rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=3" async>
+    <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=4" async>
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer"  as="style" onload="this.onload=null;this.rel='stylesheet'" async/>
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css" integrity="sha512-/VYneElp5u4puMaIp/4ibGxlTd2MV3kuUIroR3NSQjS2h9XKQNebRQiyyoQKeiGE9mRdjSCIZf9pb7AVJ8DhCg==" crossorigin="anonymous" referrerpolicy="no-referrer" as="style" onload="this.onload=null;this.rel='stylesheet'" async />
     <title>How To Ship A Car To Another State | Ship Car To Another State</title>
     <style>
         .error {
@@ -52,13 +52,15 @@
             font-size: 1.2rem;
             z-index: 10;
         }
+
         .guranteed {
-    width: 150px;
-    height: 150px;
-    position: absolute;
-    left: -10%;
-    top: -10%;
-}
+            width: 150px;
+            height: 150px;
+            position: absolute;
+            left: -10%;
+            top: -10%;
+        }
+
         /*  */
     </style>
 </head>
@@ -72,7 +74,7 @@
         <div class="herosection_">
             <div class="herosection_bg">
             </div>
-            <img src="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp" id="desk_image"  fetchpriority="high" width="100%" height="100%" class="backgroundimg" alt="">
+            <img src="<?= get_home_url()  ?>assets/images/ship-car-to-another-state.webp" id="desk_image" fetchpriority="high" width="100%" height="100%" class="backgroundimg" alt="">
             <div class="row">
                 <div class="herosection_content">
                     <h1>Best Company To Ship A Car To Another State</h1>
@@ -95,78 +97,78 @@
                             </div>
                             <div class="form-group">
                                 <label for="">To</label><br>
-                                <input type="text" placeholder="Address or City" id="destination-input" name="ship_to" >
+                                <input type="text" placeholder="Address or City" id="destination-input" name="ship_to">
                             </div>
                             <div class="form-group">
                                 <label for="">Date OF Pickup</label><br>
-                                <input type="date"  name='pick_up_date' min="<?php echo date('Y-m-d'); ?>" max="2030-12-31" placeholder="Pickup Date" id="ship_date">
+                                <input type="date" name='pick_up_date' min="<?php echo date('Y-m-d'); ?>" max="2030-12-31" placeholder="Pickup Date" id="ship_date">
                             </div>
                             <div class="form-group" id="distance"> </div>
                             <div class="form-group">
                                 <label for="">Vehicle Size</label><br>
                                 <input type="text" placeholder="Select an option" name="vehicle_size" id="ship_vehicle" readonly>
                                 <div class="car-option" id="car-option">
-                                <div class="cars" id="cars"><img src="./assets/images/car/small-car.png" alt="">
-                                <p>small-car</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/small_car.png" alt="">
-                                <p>small-car</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/large-car.png" alt="">
-                                <p>large-car</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/midsize-car.png" alt="">
-                                <p>midsize-car</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/sports-car.png" alt="">
-                                <p>sports-car</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/midsize-suv.png" alt="">
-                                <p>midsize-suv</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/small-suv.png" alt="">
-                                <p>small-suv</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/large-suv.png" alt="">
-                                <p>large-suv</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/hypercar.png" alt="">
-                                <p>hypercar</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/motorcycle.png" alt="">
-                                <p>motorcycle</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/mini-van.png" alt="">
-                                <p>mini-van</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/fullsize-van.png" alt="">
-                                <p>fullsize-van</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/dually-pickup.png" alt="">
-                                <p>dually-pickup</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/golf-cart.png" alt="">
-                                <p>golf-cart</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/large-pickup.png" alt="">
-                                <p>large-pickup</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/medium-pickup.png" alt="">
-                                <p>medium-pickup</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/travel-trailer.png" alt="">
-                                <p>travel-trailer</p>
-                            </div>
-                            <div class="cars" id="cars"><img src="./assets/images/car/boat-trailer.png" alt="">
-                                <p>boat-trailer</p>
-                            </div>      
-                            <div class="cars" id="cars"><img src="./assets/images/car/others.png" alt="">
-                                <p>others</p>
-                            </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/small-car.png" alt="">
+                                        <p>small-car</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/small_car.png" alt="">
+                                        <p>small-car</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/large-car.png" alt="">
+                                        <p>large-car</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/midsize-car.png" alt="">
+                                        <p>midsize-car</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/sports-car.png" alt="">
+                                        <p>sports-car</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/midsize-suv.png" alt="">
+                                        <p>midsize-suv</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/small-suv.png" alt="">
+                                        <p>small-suv</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/large-suv.png" alt="">
+                                        <p>large-suv</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/hypercar.png" alt="">
+                                        <p>hypercar</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/motorcycle.png" alt="">
+                                        <p>motorcycle</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/mini-van.png" alt="">
+                                        <p>mini-van</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/fullsize-van.png" alt="">
+                                        <p>fullsize-van</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/dually-pickup.png" alt="">
+                                        <p>dually-pickup</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/golf-cart.png" alt="">
+                                        <p>golf-cart</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/large-pickup.png" alt="">
+                                        <p>large-pickup</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/medium-pickup.png" alt="">
+                                        <p>medium-pickup</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/travel-trailer.png" alt="">
+                                        <p>travel-trailer</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/boat-trailer.png" alt="">
+                                        <p>boat-trailer</p>
+                                    </div>
+                                    <div class="cars" id="cars"><img src="./assets/images/car/others.png" alt="">
+                                        <p>others</p>
+                                    </div>
                                 </div>
                             </div>
                             <div class="form-group" style="text-align: center;margin:10px auto;">
-                            <div class="nex" id="quote">Get A Quote</div>
+                                <div class="nex" id="quote">Get A Quote</div>
                             </div>
                         </div>
                         <div class="part2" id="part2">
@@ -263,6 +265,32 @@
             </div>
         </div>
     </section>
+    <div class="how-it-work-v">
+        <p class="how-it-work-title">How It Work</p>
+        <div class="how-it-work-steps-v">
+            <div class="how-it-work-box">
+                <strong>STEP 1</strong> <br>
+                <b>Get Quotes</b>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum minima beatae consequuntur laudantium consequatur tempore dicta suscipit ipsam omnis voluptate?</p>
+            </div>
+            
+            <div class="how-it-work-box" style="background-color: tomato;">
+                <strong>STEP 2</strong> <br>
+                <b>Vehicle Pickup</b>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum minima beatae consequuntur laudantium consequatur tempore dicta suscipit ipsam omnis voluptate?</p>
+            </div>
+            <div class="how-it-work-box av" style="background-color: green;">
+                <strong>STEP 3</strong> <br>
+                <b>Shipping Process</b>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum minima beatae consequuntur laudantium consequatur tempore dicta suscipit ipsam omnis voluptate?</p>
+            </div>
+            <div class="how-it-work-box" style="background-color: yellow;">
+                <strong>STEP 4</strong> <br>
+                <b>Vehicle Delivery</b>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum minima beatae consequuntur laudantium consequatur tempore dicta suscipit ipsam omnis voluptate?</p>
+            </div>
+        </div>
+    </div>
     <section class="service-section">
         <h2 class="sercive-heading"><span>Some Important Shipment Routes In USA</span></h2>
         <p class="our-ser">We offers a range of services to their customers, including Interstate Shipping, Freight Forwarding, Express Delivery, Residential Moving,Commercial Shipping,Vehicle Transport,Online Tracking and many more</p>
@@ -271,31 +299,31 @@
 
             <div class="item ">
                 <a href="<?= get_home_url()  ?>california-to-florida-vehicle-auto-transport"><img src="<?= get_home_url()  ?>assets/images/California-to-Florida.webp" alt="">
-                <span class="item2 items1">CALIFORNIA TO FLORIDA</span></a>
+                    <span class="item2 items1">CALIFORNIA TO FLORIDA</span></a>
             </div>
             <div class="item">
                 <a href="<?= get_home_url()  ?>california-to-hawaii-vehicle-auto-transport"><img src="<?= get_home_url()  ?>assets/images/California-To-Hawaii.webp" alt="">
-                <span class="item3 items1">CALIFORNIA TO HAWAII</span></a>
+                    <span class="item3 items1">CALIFORNIA TO HAWAII</span></a>
             </div>
             <div class="item">
-                <a href="<?= get_home_url()  ?>california-to-texas-vehicle-auto-transport"><img src="<?=get_home_url()  ?>assets/images/California-to-Texas.webp" alt="">
-                <span class="item4 items1">CALIFORNIA TO TEXAS</span></a>
+                <a href="<?= get_home_url()  ?>california-to-texas-vehicle-auto-transport"><img src="<?= get_home_url()  ?>assets/images/California-to-Texas.webp" alt="">
+                    <span class="item4 items1">CALIFORNIA TO TEXAS</span></a>
             </div>
             <div class="item">
-                <a href="<?=get_home_url()  ?>hawaii-to-mainland-vehicle-auto-transport"><img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland.webp" alt="">
-                <span class="item5 items1">HAWAII TO MAINLAND</span></a>
+                <a href="<?= get_home_url()  ?>hawaii-to-mainland-vehicle-auto-transport"><img src="<?= get_home_url()  ?>assets/images/Hawaii-To-Mainland.webp" alt="">
+                    <span class="item5 items1">HAWAII TO MAINLAND</span></a>
             </div>
             <div class="item ">
-                <a href="<?=get_home_url()  ?>new-york-to-nevada-auto-transport"><img src="<?=get_home_url()  ?>assets/images/New-York-To-Nevada.webp" alt="">
-                <span class="item1 items1 ">NEW-YORK TO NEVADA</span></a>
+                <a href="<?= get_home_url()  ?>new-york-to-nevada-auto-transport"><img src="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" alt="">
+                    <span class="item1 items1 ">NEW-YORK TO NEVADA</span></a>
             </div>
             <div class="item">
-                <a href="<?=get_home_url()  ?>hawaii-to-california-auto-transport-service"><img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland2.webp" alt="">
-                <span class="item6 items1">HAWAII TO CALIFORNIA</span></a>
+                <a href="<?= get_home_url()  ?>hawaii-to-california-auto-transport-service"><img src="<?= get_home_url()  ?>assets/images/Hawaii-To-Mainland2.webp" alt="">
+                    <span class="item6 items1">HAWAII TO CALIFORNIA</span></a>
             </div>
         </div>
         <div class="more-service">
-            <a href="<?=get_home_url()  ?>services"><button>More Services</button></a>
+            <a href="<?= get_home_url()  ?>services"><button>More Services</button></a>
         </div>
 
     </section>
@@ -331,42 +359,42 @@
         </div>
 
     </section>
-    
+
     <section class="blog-section">
         <p class="blog-section-para">SOME OF OUR NEWS FROM LATEST BLOG</p>
         <h2 class="blog-section-heading"> Get the latest news, advice & best practice from blog</h2>
         <div class="blog-body row">
             <div class="blog-item">
-                <img src="<?=get_home_url()  ?>assets/images/California-to-Texas.webp" width="100%" height="100%" alt="">
+                <img src="<?= get_home_url()  ?>assets/images/California-to-Texas.webp" width="100%" height="100%" alt="">
                 <div class="blog-detail">
                     <div class="blog-admin-detail">
                         <div class="blog-date"><i class="ri-calendar-2-line"></i>September 5 2023</div>
                         <div class="blog-admin"><i class="ri-user-star-line"></i>Admin</div>
                     </div>
                     <p>Enclosed Auto Transport Chicago(RAS)</p>
-                    <a href="<?=get_home_url()  ?>"><button>Read More</button></a>
+                    <a href="<?= get_home_url()  ?>"><button>Read More</button></a>
                 </div>
             </div>
             <div class="blog-item">
-            <img src="<?=get_home_url()  ?>assets/images/Hawaii-To-Mainland.webp" width="100%" height="100%" alt="">
+                <img src="<?= get_home_url()  ?>assets/images/Hawaii-To-Mainland.webp" width="100%" height="100%" alt="">
                 <div class="blog-detail">
                     <div class="blog-admin-detail">
                         <div class="blog-date"><i class="ri-calendar-2-line"></i>September 10 2023</div>
                         <div class="blog-admin"><i class="ri-user-star-line"></i>Admin</div>
                     </div>
                     <p>Best Auto Shipping Company USA</p>
-                    <a href="<?=get_home_url()  ?>"><button>Read More</button></a>
+                    <a href="<?= get_home_url()  ?>"><button>Read More</button></a>
                 </div>
             </div>
             <div class="blog-item">
-            <img src="<?=get_home_url()  ?>assets/images/New-York-To-Nevada.webp" alt="" width="100%" height="100%">
+                <img src="<?= get_home_url()  ?>assets/images/New-York-To-Nevada.webp" alt="" width="100%" height="100%">
                 <div class="blog-detail">
                     <div class="blog-admin-detail">
                         <div class="blog-date"><i class="ri-calendar-2-line"></i>September 15 2023</div>
                         <div class="blog-admin"><i class="ri-user-star-line"></i>Admin</div>
                     </div>
                     <p>Some important tips for international shipping</p>
-                    <a href="<?=get_home_url()  ?>"><button>Read More</button></a>
+                    <a href="<?= get_home_url()  ?>"><button>Read More</button></a>
                 </div>
             </div>
         </div>
@@ -503,8 +531,6 @@
 
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDS2z-zMeHNf4laZiAbzjDBowLLm_wnjwo&v=3.exp&callback=Function.prototype&libraries=places"></script>
     <script>
-
-
         document.getElementById('quote').addEventListener('click', function(e) {
 
             let from = document.getElementById('origin-input').value
@@ -672,16 +698,16 @@
             .catch(error => {
                 console.log(error);
             });
-             document.getElementById('ship_vehicle').addEventListener('click',()=>{
-                document.getElementById('car-option').style.display='grid'
-            })
+        document.getElementById('ship_vehicle').addEventListener('click', () => {
+            document.getElementById('car-option').style.display = 'grid'
+        })
 
         var sel = document.querySelectorAll('#cars')
         for (i = 0; i < sel.length; i++) {
             sel[i].addEventListener('click', function(e) {
                 e.preventDefault();
-                document.getElementById('ship_vehicle').value = ""+ this.children[1].innerText +""
-                document.getElementById('car-option').style.display='none'
+                document.getElementById('ship_vehicle').value = "" + this.children[1].innerText + ""
+                document.getElementById('car-option').style.display = 'none'
             })
         }
         var image = document.getElementById('desk_image');
@@ -696,9 +722,9 @@
                 image.src = alternateSrc;
             }
         }
-         window.addEventListener('resize', handleResize);
+        window.addEventListener('resize', handleResize);
         handleResize();
-        
+
 
         window.addEventListener('scroll', function() {
             a = window.pageYOffset
@@ -709,17 +735,18 @@
             }
         });
 
-        function closerdiv(){
+        function closerdiv() {
             document.getElementById('query-form-body').style.display = 'none';
             document.getElementById('destination-input').value = '';
         }
-        function opnerdiv(){
+
+        function opnerdiv() {
             document.getElementById('query-form-body').style.display = 'grid';
         }
-        function redirectform(){
+
+        function redirectform() {
             window.location = 'query'
         }
-
     </script>
 </body>
 

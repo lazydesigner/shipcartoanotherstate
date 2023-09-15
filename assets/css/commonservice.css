@@ -136,6 +136,7 @@ header  a{text-decoration: none;color: black;}
     height: 150px;
     background-color: rgba(23, 23, 157, 0.937);
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 2%;
 
@@ -251,34 +252,36 @@ padding: 3%;
     height: auto;
     padding: 1%;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
     border-bottom: 1px solid rgb(159, 195, 232);
 }
 .dist-box{
-    width: 300px;
-    height: auto;
+    height: auto;    
     padding: 2%;
     text-align: center;
     border: 1px solid rgb(230, 230, 230);
     background-color: whitesmoke;
     border-radius: 5px;
+    box-shadow: 2px 2px 10px 5px dodgerblue;width: 330px;
 }
 .dist-box span{
-    font-size: x-large;
+    font-size: 1.3rem;
     font-weight: bolder;
 }
 .dist-box p{
-    width:80%;
     margin:1% auto;
     /* margin-top: 0; */
     padding: 0;
     border-bottom: 4px solid rgb(14, 14, 115);
-    font-weight: bold;
+    font-size: 1.5rem;width:100%;
     
 }
 .dist-box i{font-size: xx-large;}
-
+.blog-content-box-1-table{
+    padding-bottom:4%;display:flex;gap:2%;
+}
 
 
 
@@ -574,7 +577,15 @@ height: auto;position: relative;z-index: 1;}
     padding: .1% 2%;
 }
 .zip ul li{margin: 7px 0;font-size: 1.1rem;}
-
+.blog-content-box-1-table table{
+    width: 50%;
+    height:auto;
+    text-align:center;
+    margin:2% auto;
+    font-style:smalle;
+    border:1px solid grey;
+    border-spacing:0
+}
 
 
 
@@ -589,7 +600,7 @@ height: auto;position: relative;z-index: 1;}
         top: -15%;
     }.row{    flex-wrap: nowrap;}
     .container{background-size: auto;}
-    .service-banner{background-size: auto;}
+    .service-banner{background-size: auto 100%}
 }
 @media screen and (max-width:770px) {
     .review-section {
@@ -600,13 +611,18 @@ height: auto;position: relative;z-index: 1;}
     .form-div {width: 60%;}
     .form-div input {width: 100%;}
     .blog-content {flex-wrap: wrap;justify-content: center;}
-    .service-banner{background-size: auto;}
+    .service-banner{background-size: auto 100%;background-position: center;}
     .sitebutton{right:3%}
     input {width: 100%;}
     form {
         justify-content: space-evenly;
-        gap: 0;
+        gap: 1%;
     }
+    .blog-content-box-1-table{flex-wrap: wrap;}
+    .blog-content-box-1-table table{
+        width: 100%;
+    }
+    .dist-box {margin: 2.5% 0;}
 }
 @media screen and (max-width:550px) {
     .basic-info a{color: white;font-size: large;}
@@ -725,5 +741,6 @@ height: auto;position: relative;z-index: 1;}
                 width: 100%;
                 }
                 .fordesktop2 li{margin: 5% 0;}
+                .dist-box {margin: 5% 0;}
 
 }
