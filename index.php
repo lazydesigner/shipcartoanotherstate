@@ -29,7 +29,7 @@
     <meta name="google-site-verification" content="970kFHxDIhqBEORbOCCKDtfAS19KZPYrQdbsVWcSFCk" />
     <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=7" async>
+    <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=9" async>
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -268,26 +268,26 @@
     <div class="how-it-work-v">
         <p class="how-it-work-title">How we Ship Your Car from Point A to Point B</p>
         <div class="how-it-work-steps-v">
-            <div class="how-it-work-box">
+            <div class="how-it-work-box" style="text-align: center;">
                 <strong>STEP 1</strong> <br>
                 <b>Get Quotes</b>
-                <p cl>It is never easy to get car shipping quotes with other Vehicle Transportation companies but we here make the process simple as out Auto Transport Experts are just a call away. Our Vehicle Shipping Quotes are based on cost on which we can deliver your vehicle safely to your Desired location on a given time</p>
+                <p style="text-align: start;">It is never easy to get car shipping quotes with other Vehicle Transportation companies, but we here make the process simple as our Auto Transport Experts are just a call away ( +1 (833) 233-4447. ) Our Vehicle Shipping Quotes are based on cost on which we can safely deliver your vehicle to your Desired location on a given time including full Car insurance coverage and taxes in it.</p>
             </div>
             
-            <div class="how-it-work-box" style="background-color: tomato;">
+            <div class="how-it-work-box" style="background-color: tomato;text-align: center;">
                 <strong>STEP 2</strong> <br>
                 <b>Vehicle Pickup</b>
-                <p>On Provided Date our Specialise Auto Transport Carrier will contact you and inform you about the Car Pickup Time and Location as Provided earlier. The Driver will pickup the Car with all required tools to ensure the it gets safely loaded on the truck. Driver will take pictures and Videos of the Vehicle and will confirm the same to the Auto Transport Agent</p>
+                <p style="text-align: start;">On Provided Date our Specialise Auto Transport Carrier will contact you and inform you about the Car Pickup Time and Location as Provided earlier. The Driver will pickup the Car with all required tools to ensure the it gets safely loaded on the truck. Driver will take pictures and Videos of the Vehicle and will confirm the same to the Auto Transport Agent</p>
             </div>
-            <div class="how-it-work-box av" style="background-color: green;">
+            <div class="how-it-work-box av" style="background-color: green;text-align: center;">
                 <strong>STEP 3</strong> <br>
                 <b>Shipping Process</b>
-                <p>As soon as we receive your car the care and safety of your vehicle is our Responsibility. We understand that you are not only shipping your car but also trusting us. We provide you the GPS tracking system most of the time to track the current location of the Auto Carrier so you can have peace of mind. As you are shipping with the best Auto Transportation company so your CAr Shipment is Fully insured.</p>
+                <p style="text-align: start;">As soon as we receive your car the care and safety of your vehicle is our Responsibility. We understand that you are not only shipping your car but also trusting us. We provide you the GPS tracking system most of the time to track the current location of the Auto Carrier so you can have peace of mind. As you are shipping with the best Auto Transportation company so your CAr Shipment is Fully insured.</p>
             </div>
-            <div class="how-it-work-box" style="background-color: #fc038c;">
+            <div class="how-it-work-box" style="background-color: #fc038c;text-align: center;">
                 <strong>STEP 4</strong> <br>
                 <b>Vehicle Delivery</b>
-                <p>Like Pickup, Our Auto Carrier Driver will call you and confirm you about the Delivery Time on the mentioned date by the Transport Agent. Our Driver will come to your desired location as close as possible . At the time of Vehicle Delivery we charge you the Final Payment as mentioned during the booking and Drivers take Pictures and videos of the Car to ensure transportation agent about the successful delivery of the Vehicle.</p>
+                <p style="text-align: start;">Like Pickup, Our Auto Carrier Driver will call you and confirm you about the Delivery Time on the mentioned date by the Transport Agent. Our Driver will come to your desired location as close as possible . At the time of Vehicle Delivery we charge you the Final Payment as mentioned during the booking and Drivers take Pictures and videos of the Car to ensure transportation agent about the successful delivery of the Vehicle.</p>
             </div>
         </div>
     </div>
@@ -334,6 +334,33 @@
             </tbody>
         </table>
        </div>
+    </section>
+
+    <section class="Calculator-page">
+        <h2>How Car Shipment Cost is Calculated</h2>
+        <p>Based on several factors that occurs during the auto transportation journey help us in evaluating the total cost to ship your vehicle. There are other factors excluding the below give factors like, modification of Vehicle, time of the year, express shipment and many more.</p>
+            <div class="calculator-row">
+                <div class="colculator-col">
+                    <h3>Weight & Size of Vehicle</h3>
+                    <p> Small car are light weighted and long cars are heavy thus affect the number of Cars accommodate in a trailer ultimately affects the cost.</p>
+                </div>
+                <div class="colculator-col">
+                    <h3>Type of Trailer</h3>
+                    <p>Open Carrier are usually cheaper and can carry more number of vehicles whereas enclosed carriers are expensive in nature.</p>
+                </div>
+                <div class="colculator-col">
+                    <h3>Transport Distance</h3>
+                    <p>Shorter the Shipping distance is lower the price and as number of miles increase the days, fuel, and other factors affects the cost.</p>
+                </div>
+                <div class="colculator-col2">
+                    <h3>Condition of Vehicle</h3>
+                    <p>If the Vehicle is in running condition than it would be easy to transport but if car is in non running state there are other tools needed thus cost increses</p>
+                </div>
+                <div class="colculator-col3">
+                    <h3>Exact Shipping Cost</h3>
+                    <p>Your Shipping cost is ready including Insurance & Taxes. Let us Book your Shipment now</p>
+                </div>
+            </div>
     </section>
 
     <section class="service-section">
@@ -405,7 +432,13 @@
         </div>
 
     </section>
-
+    <section class="call-to-action">
+        <div class="row" style="align-items: center;">
+            <div style="width:50%;"><h2>Ready to Ship Your Car with Best Auto Transporter in the Vehicle Transportation Industry ?</h2></div>
+            <div style="display: flex;gap:1%;"><a href="get-quotes" style="margin-right: 5px;"><button>Get Free Quote</button></a>
+            <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a></div>
+        </div>
+    </section>
     <section class="blog-section">
         <p class="blog-section-para">SOME OF OUR NEWS FROM LATEST BLOG</p>
         <h2 class="blog-section-heading"> Get the latest news, advice & best practice from blog</h2>
@@ -445,13 +478,7 @@
             </div>
         </div>
     </section>
-    <section class="call-to-action">
-        <div class="row">
-            <h2>Want to know the cost of shipping a car with us?</h2>
-            <a href="get-quotes" style="margin-right: 5px;"><button>Get Free Quote</button></a>
-            <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a>
-        </div>
-    </section>
+    
     <section class="testmo">
         <!-- <img src="https://cdn.pixabay.com/photo/2021/12/02/06/08/car-carrier-trailer-6839728_640.jpg"
             class="testo-bgimg" alt=""> -->
@@ -460,51 +487,131 @@
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/29/06/46/adult-1867889_640.jpg" alt="cost to ship car to another state">
+                    <i class="ri-double-quotes-l" style="font-size: 4rem;"></i>
                     <h2>Mark de cole</h2>
-                    <p>They did a great job delivering my two-wheeler in their trailer. Auto Shippers did a great job of
+                    <p style="font-size: 2rem;">They did a great job delivering my two-wheeler in their trailer. Auto Shippers did a great job of
                         delivering it. This is my third time with them, and I am always happy with their services.</p>
-                        <!-- <div class="top-review-img"><img src="./assets/images/google.png" width="100%" height="100%" alt="" style="mix-blend-mode:screen;"></div> -->
+                        <div class="top-review-img2"><img src="./assets/images/google2.png" width="100%" height="100%" alt="" ></div>
                 </div>
             </div>
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2017/02/16/23/10/smile-2072907_640.jpg" alt="ship a car to another state">
+                    <i class="ri-double-quotes-l" style="font-size: 4rem;"></i>
                     <h2>Steven Faith</h2>
-                    <p>I asked them for car shipping in a trailer to Vegas. I have been using their services for many
+                    <p style="font-size: 2rem;">I asked them for car shipping in a trailer to Vegas. I have been using their services for many
                         years and I am never disappointed. The vehicles arrived quickly and safely.</p>
+                        <div class="top-review-img2"><img src="./assets/images/transpoorts.png" width="100%" height="100%" alt="" ></div>
 
                 </div>
             </div>
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/18/19/07/happy-1836445_640.jpg" alt="ship your car to another state">
+                    <i class="ri-double-quotes-l" style="font-size: 4rem;"></i> 
                     <h2>Estep Meade</h2>
-                    <p>Very accurate and in-time services. Their home pickup was excellent, and auto shippers took care
+                    <p style="font-size: 2rem;">Very accurate and in-time services. Their home pickup was excellent, and auto shippers took care
                         of the vehicle very well. If I had known they were so good, I would have also asked them for car
                         shipping.</p>
+                        <div class="top-review-img2"><img src="./assets/images/trustpilot2.png" width="100%" height="100%" alt="" ></div>
                 </div>
             </div>
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2018/02/16/14/38/portrait-3157821_640.jpg" alt="how to ship your car to another state">
+                    <i class="ri-double-quotes-l" style="font-size: 4rem;"></i>
                     <h2>Mark Hill</h2>
-                    <p>Their auto shipping services are accurate whether it is home pickup or taking care of my
+                    <p style="font-size: 2rem;">Their auto shipping services are accurate whether it is home pickup or taking care of my
                         vehicles. I was happy with all their services and their shipping and transport services were
                         better than anyone else.</p>
+                        <div class="top-review-img2"><img src="./assets/images/google2.png" width="100%" height="100%" alt="" ></div>
                 </div>
             </div>
-
+            <div style="text-align:center">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
         </div>
-        <div style="text-align:center">
-            <span class="dot"></span>
-            <span class="dot"></span>
-            <span class="dot"></span>
-            <span class="dot"></span>
         </div>
     </section>
+    <section class="state-list">
+        <div class="state-list-bg">
+            <h2>Vehicle Shipping States</h2>
+        <div class="state-list-row">
+            <div class="state-list-col">
+                <ul>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Alabama.jpeg" width="100%" height="100%" alt=""></div>Alabama Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Alaska.svg" width="100%" height="100%" alt=""></div>Alaska Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Arizona.svg" width="100%" height="100%" alt=""></div>Arizona Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Arkansas.svg" width="100%" height="100%" alt=""></div>Arkansas Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/california.png" width="100%" height="100%" alt=""></div>California Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/connecticut.webp" width="100%" height="100%" alt=""></div>Connecticut Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/delaware.webp" width="100%" height="100%" alt=""></div>Delaware Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/florida.webp" width="100%" height="100%" alt=""></div>Florida Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/georgia.png" width="100%" height="100%" alt=""></div>Georgia Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Hawaii.png" width="100%" height="100%" alt=""></div>Hawaii Car Transport</a></li>
+                </ul>
+            </div>
+            <div class="state-list-col">
+                <ul>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Illinois.png" width="100%" height="100%" alt=""></div>Illinois Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Indiana.png" width="100%" height="100%" alt=""></div>Indiana Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Iowa.png" width="100%" height="100%" alt=""></div>Iowa Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Kansas.png" width="100%" height="100%" alt=""></div>Kansas Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Kentucky.png" width="100%" height="100%" alt=""></div>Kentucky Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Louisiana.png" width="100%" height="100%" alt=""></div>Louisiana Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Maine.png" width="100%" height="100%" alt=""></div>Maine Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Maryland.png" width="100%" height="100%" alt=""></div>Maryland Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Massachusetts.png" width="100%" height="100%" alt=""></div>Massachusetts Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Michigan.png" width="100%" height="100%" alt=""></div>Michigan Auto Transport</a></li>
+                </ul>
+            </div>
+            <div class="state-list-col">
+                <ul>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Minnesota.png" width="100%" height="100%" alt=""></div>Minnesota Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Mississippi.png" width="100%" height="100%" alt=""></div>Mississippi Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Missouri.png" width="100%" height="100%" alt=""></div>Missouri Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Montana.png" width="100%" height="100%" alt=""></div>Montana Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Nebraska.png" width="100%" height="100%" alt=""></div>Nebraska Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Nevada.png" width="100%" height="100%" alt=""></div>Nevada Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/New-Hampshire.png" width="100%" height="100%" alt=""></div>New Hampshire Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/New-Jersey.png" width="100%" height="100%" alt=""></div>New Jersey Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/New-Mexico.png" width="100%" height="100%" alt=""></div>New Mexico Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/New-York.png" width="100%" height="100%" alt=""></div>New York Auto Transport</a></li>
+                </ul>
+            </div>
+            <div class="state-list-col">
+                <ul>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/North-Carolina.png" width="100%" height="100%" alt=""></div>North Carolina Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/North-Dakota.png" width="100%" height="100%" alt=""></div>North Dakota Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Ohio.png" width="100%" height="100%" alt=""></div>Ohio Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Oklahoma.png" width="100%" height="100%" alt=""></div>Oklahoma Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Oregon.png" width="100%" height="100%" alt=""></div>Oregon Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Pennsylvania.png" width="100%" height="100%" alt=""></div>Pennsylvania Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Rhode-Island.png" width="100%" height="100%" alt=""></div>Rhode Island Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/South-Carolina.png" width="100%" height="100%" alt=""></div>South Carolina Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/South-Dakota.png" width="100%" height="100%" alt=""></div>South Dakota Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Tennessee.png" width="100%" height="100%" alt=""></div>Tennessee Auto Transport</a></li>
+                </ul>
+            </div>
+            <div class="state-list-col">
+                <ul>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Texas.png" width="100%" height="100%" alt=""></div>Texas Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Utah.png" width="100%" height="100%" alt=""></div>Utah Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Vermont.png" width="100%" height="100%" alt=""></div>Vermont Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Virginia.png" width="100%" height="100%" alt=""></div>Virginia Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Washington.png" width="100%" height="100%" alt=""></div>Washington Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/West-Virginia.png" width="100%" height="100%" alt=""></div>West Virginia Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Wisconsin.png" width="100%" height="100%" alt=""></div>Wisconsin Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Wyoming.png" width="100%" height="100%" alt=""></div>Wyoming Car Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Colorado.png" width="100%" height="100%" alt=""></div>Colorado Auto Transport</a></li>
+                    <li><a href=""><div class="img-box"><img src="./assets/images/flags/Idaho.png" width="100%" height="100%" alt=""></div>Idaho Auto Transport</a></li>
+                </ul>
+            </div>
+        </div>
+        </div>
+    </section>
+
     <section class="section5">
         <h2>Frequently asked questions</h2>
 

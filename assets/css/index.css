@@ -492,6 +492,11 @@ height: auto;position: relative;z-index: 1;}
     object-fit: cover;
     background-color: rgba(25, 25, 175, 0.687);
 }
+.top-review-img2{
+    width: 150px;
+    margin-left: 95%;
+
+}
 .call-to-action{
     background-color: rgba(27, 27, 27, 0.953);
     padding: 3%;
@@ -508,7 +513,40 @@ height: auto;position: relative;z-index: 1;}
     font-size: large;
 
 }
+.state-list{padding:3% 5%;}
+.state-list h2{
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(13, 13, 115);
+    padding: 1% 0 0 0;
+    margin: 1% 0 1% 0;
+}
+.state-list-bg{
+    background-color: rgb(227, 239, 243);}
+.state-list-row{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    border-radius: 5px;
 
+}
+.img-box{
+    width: 20px;
+    height: auto;
+    
+}
+.img-box img{
+    width:100%;
+    height: 100%;
+}
+.state-list-col ul li{
+    list-style: none;
+    margin: 10% 0;
+    font-size: 1.1rem;
+}
+.state-list-col ul li a{display: flex;gap:5px;text-decoration: none;color: #585858;font-size: small;}
 /* Testimonial */
 
 /* FAQ START*/
@@ -833,6 +871,104 @@ footer ul a{
 .index-pricing-table table tr:nth-child(even){
    background-color: #f2f2f2;
 }
+.Calculator-page{
+    padding:3%;
+}
+.Calculator-page h2{font-size: 2rem;
+    color:rgb(35, 19, 216);
+    text-align:center;
+    padding-bottom: 1%;
+    width:55%;margin:auto}
+    .Calculator-page p{
+        padding-bottom: 5%;
+        width: 80%;
+        text-align: center;
+        margin: auto;
+    }
+.calculator-row{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 1%;
+    /* justify-content: space-evenly; */
+}
+
+.colculator-col3, .colculator-col2, .colculator-col{
+    width: 250px;
+    padding: 1%;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    position: relative;
+    box-shadow: 1px 1px 10px .5px dodgerblue;
+}
+.colculator-col::after{
+    content: '+';
+    border-radius: 50%;
+    border: 1px solid lightgrey;
+    position: absolute;
+    right: -14%;
+    top: 35%;
+    font-size: x-large;
+    display: grid;
+    place-items: center;
+    font-weight: 900;
+    width: 50px;
+    z-index: 1;
+    height: 50px;
+    background-color: white;
+    box-shadow: 1px 1px 10px .5px tomato;
+}
+.colculator-col2::after{
+    content: '=';
+    border-radius: 50%;
+    border: 1px solid lightgrey;
+    position: absolute;
+    right: -14%;
+    top: 35%;
+    font-size: x-large;
+    display: grid;
+    place-items: center;
+    font-weight: 900;
+    box-shadow: 1px 1px 10px .5px tomato;
+    width: 50px;
+    z-index: 1;
+    height: 50px;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
