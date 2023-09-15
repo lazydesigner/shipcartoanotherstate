@@ -408,6 +408,7 @@ height: auto;position: relative;z-index: 1;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
+  height: auto;
   position: relative;
   margin: auto;
 }
@@ -463,6 +464,7 @@ height: auto;position: relative;z-index: 1;}
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: fixed;
+    height: auto;
 }
 
 .testo-img{
@@ -527,6 +529,7 @@ height: auto;position: relative;z-index: 1;}
     width: 100%;
     height: auto;
     display: flex;
+    flex-wrap: wrap;
     align-items: start;
     justify-content: space-evenly;
     border-radius: 5px;
@@ -936,7 +939,7 @@ footer ul a{
     height: 50px;
     background-color: white;
 }
-
+.call-to-action-first-div{width: 50%;}
 
 
 
@@ -1035,6 +1038,7 @@ footer ul a{
 .blog-section-heading{width: 75%;}
 .how-it-work-box{margin: .5% 0;}
 .index-pricing-table h2 {    width: 80%;}
+.calculator-row{flex-wrap: wrap;}
 }
 @media screen and (max-width:650px) {
     .grid {
@@ -1111,7 +1115,10 @@ footer ul a{
         bottom: -60%;
     }
     .how-box {margin: 25px 10px;}
-    .testmo{    background-size: auto; background-position: center;    background-attachment: inherit;}
+    .call-to-action-first-div{width: 100%;}
+    .testmo{    background-size: auto; background-position: center;    background-attachment: inherit;
+        height: 100%;}
+        .top-review-img2{display: none;}
     .herosection {height: auto;}
     .herosection_content {
         width: 100%;
@@ -1173,6 +1180,20 @@ footer ul a{
 .index-pricing-table h2 {font-size: 1.3rem;width: 100%;}
 .how-it-work-box p{padding-bottom: 15%;}
 .how-it-work-v .how-it-work-title{width: 90%;}
+.colculator-col,.colculator-col2{width: 280px;
+    margin-bottom: 5%;}
+.colculator-col2::after {
+    right: 42%;
+    bottom: -20%;
+    top: auto;
+
+}
+.call-to-btn-wrap{flex-wrap:wrap;}
+.colculator-col::after {
+    right: 42%;
+    bottom: -20%;
+    top: auto;
+}
 
 }
 
