@@ -78,7 +78,13 @@
             <div class="row">
                 <div class="herosection_content">
                     <h1>Best Company To Ship A Car To Another State</h1>
-                    <p class="hero-p">We are on top of the Auto transportation industry, as we provide fast and budget friendly shipping from one state to another. We have 4 million+ active user with positive customer rating on Trust pilot and 4.9 star rating on BBB</p>
+                    <ul style="list-style: none; font-size:1.3rem;color:white;">
+                        <li style="margin: 1% 0;"><i class="ri-check-double-fill" style="color:rgba(20, 20, 120, 0.923);margin-right:1%"></i>Best Auto Transporter isince 2012</li>
+                        <li style="margin: 1% 0;"><i class="ri-check-double-fill" style="color:rgba(20, 20, 120, 0.923);margin-right:1%"></i>100,000 + Successful Cars Delivered</li>
+                        <li style="margin: 1% 0;"><i class="ri-check-double-fill" style="color:rgba(20, 20, 120, 0.923);margin-right:1%"></i>24x7 Auto Transport Experts</li>
+                        <li style="margin: 1% 0;font-size:1.5rem;"><b><i class="ri-phone-fill" style="color:rgba(20, 20, 120, 0.923);margin-right:1%"></i>+1 (833) 233-4447</b></li>
+                    </ul>
+                    <!-- <p class="hero-p">We are on top of the Auto transportation industry, as we provide fast and budget friendly shipping from one state to another. We have 4 million+ active user with positive customer rating on Trust pilot and 4.9 star rating on BBB</p> -->
                     <div class="rating">
                         <img src="./assets/images/b.svg" class="review-img" width="150px" height="100%" alt="">
                         <p><b>ShipCartoAnotherState</b> rating<br> Based on 13956 customer review</p>
@@ -449,7 +455,7 @@
     <section class="call-to-action">
         <div class="row" style="align-items: center;">
             <div class="call-to-action-first-div"><h2>Ready to Ship Your Car with Best Auto Transporter in the Vehicle Transportation Industry ?</h2></div>
-            <div style="display: flex;gap:1%;" class="call-to-btn-wrap"><a href="get-quotes" style="margin-right: 5px;"><button>Get Free Quote</button></a>
+            <div style="display: flex;gap:1%;" class="call-to-btn-wrap"><a href="get-quotes" style="margin-right: 5px;"><button>Get Free Instant Quote</button></a>
             <a href="tel:+1 (833) 233-4447"><button>+1 (833) 233-4447</button></a></div>
         </div>
     </section>
@@ -547,6 +553,65 @@
             <span class="dot"></span>
         </div>
         </div>
+    </section>
+    <section class="services-we-provide">
+        <div class="services-we-provide-row">
+            <div class="services-we-provide-col">
+                <div class="services-we-provide-img">
+                    <img src="./assets/images/california-to-alabama.webp" width="100%" height="100%" alt="">
+                </div>
+            </div>
+            <div class="services-we-provide-col services-we-provide-content" >
+                <h2>Complete Auto Transportation Solution Under One Roof</h2>
+                <div class="provided-services">
+                    <h3>Open Transport Carrier</h3>
+                    <p>Open Air Carrier are affordable shipping options to move your car as it can carry more vehicles and being most convenient options there are wide number of open air carriers available in the Auto Transportation Industry</p>
+                </div>
+                <div class="provided-services">
+                    <h3>Enclosed Carrier</h3>
+                    <p>Enclosed Carriers are most secured mode of transporting your vehicle from one state to another. It is a hard iron box from outside and soft from inside inbuilt with car protective features thus gives the car owners a peace of mind.</p>
+                </div>
+                <div class="provided-services">
+                    <h3>Door to Door Transport</h3>
+                    <p>At Shipcartoanotherstate.com we ensure about Car Pick up and Delivery point as close as possible to your Desired location making it convenient and hassle free for our Customers.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="list-of-car">
+        <div class="list-of-car-1">
+            <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        </div>
+        <div class="list-of-car-1">
+        <img src="./assets/images/crown-luxury-suv.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        </div>
+        <div class="list-of-car-1">
+        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        </div>
+        <div class="list-of-car-1">
+        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        </div>
+        <div class="list-of-car-1">
+        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        </div>
+        <div class="list-of-car-1">
+        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        </div>
+        <div class="list-of-car-1">
+        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        </div>
+        <div class="list-of-car-1">
+        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        </div>
+        
     </section>
     <section class="state-list">
         <div class="state-list-bg">
@@ -680,7 +745,7 @@
     </section>
     <?php include './footer.php' ?>
     <div class="sitebutton sitebutton-call" id="sitebutton">
-        <a href="tel:+1 (833) 233-4447"><button><i class="ri-phone-fill"></i> +1 (833) 233-4447</button></a>
+        <a href="tel:+1 (833) 233-4447" ><button style="font-size: 1.2rem;"><i class="ri-phone-fill"></i> +1 (833) 233-4447</button></a>
     </div>
     <div class="sitebutton" id="sitebutton">
         <a href="<?= get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
