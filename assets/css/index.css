@@ -271,7 +271,7 @@ header  a{text-decoration: none;color: black;}
 height: auto;position: relative;z-index: 1;}
 .why-choose-us__title{
     width: 60%;
-    margin: auto;
+    margin:auto auto 3% auto;
     font-size: 2.7rem;
     font-weight: 900;
     padding-top: 3%;
