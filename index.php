@@ -78,11 +78,11 @@
             <div class="row">
                 <div class="herosection_content">
                     <h1>Best Company To Ship A Car To Another State</h1>
-                    <ul style="list-style: none; font-size:1.3rem;color:white;">
-                        <li style="margin: 1% 0;"><i class="ri-check-double-fill" style="color:rgba(20, 20, 120, 0.923);margin-right:1%"></i>Best Auto Transporter isince 2012</li>
-                        <li style="margin: 1% 0;"><i class="ri-check-double-fill" style="color:rgba(20, 20, 120, 0.923);margin-right:1%"></i>100,000 + Successful Cars Delivered</li>
-                        <li style="margin: 1% 0;"><i class="ri-check-double-fill" style="color:rgba(20, 20, 120, 0.923);margin-right:1%"></i>24x7 Auto Transport Experts</li>
-                        <li style="margin: 1% 0;font-size:1.5rem;"><b><i class="ri-phone-fill" style="color:rgba(20, 20, 120, 0.923);margin-right:1%"></i>+1 (833) 233-4447</b></li>
+                    <ul style="list-style: none; font-size:1.4rem;color:white;">
+                        <li style="margin: 2% 0;"><i class="ri-check-double-fill" style="margin-right:1%"></i>Best Auto Transporter isince 2012</li>
+                        <li style="margin: 2% 0;"><i class="ri-check-double-fill" style="margin-right:1%"></i>100,000 + Successful Cars Delivered</li>
+                        <li style="margin: 2% 0;"><i class="ri-check-double-fill" style="margin-right:1%"></i>24x7 Auto Transport Experts</li>
+                        <li style="margin: 2% 0;font-size:2rem;"><b><i class="ri-phone-fill" style="margin-right:1%"></i>+1 (833) 233-4447</b></li>
                     </ul>
                     <!-- <p class="hero-p">We are on top of the Auto transportation industry, as we provide fast and budget friendly shipping from one state to another. We have 4 million+ active user with positive customer rating on Trust pilot and 4.9 star rating on BBB</p> -->
                     <div class="rating">
@@ -584,32 +584,28 @@
             <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
         </div>
         <div class="list-of-car-1">
-        <img src="./assets/images/crown-luxury-suv.png" width="100%" height="100%" alt="">
-            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        <img src="./assets/images/mclaren-car-Sport.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Sports Car Shipping</p>
         </div>
         <div class="list-of-car-1">
-        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
-            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        <img src="./assets/images/Black-Lexus.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Long Car Shipping</p>
         </div>
         <div class="list-of-car-1">
-        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
-            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        <img src="./assets/images/mini-truck.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Mini Truck Shipping</p>
         </div>
         <div class="list-of-car-1">
-        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
-            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        <img src="./assets/images/classic-car.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Classic Car Shipping</p>
         </div>
         <div class="list-of-car-1">
-        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
-            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        <img src="./assets/images/mini-car.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Small Car Shipping</p>
         </div>
         <div class="list-of-car-1">
-        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
-            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
-        </div>
-        <div class="list-of-car-1">
-        <img src="./assets/images/Luxury.png" width="100%" height="100%" alt="">
-            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Luxury Car Shipping</p>
+        <img src="./assets/images/Ninja-H2.png" width="100%" height="100%" alt="">
+            <p style="font-size:medium;color:rgb(13, 13, 115);font-weight: bold;">Motercycle Shipping</p>
         </div>
         
     </section>
