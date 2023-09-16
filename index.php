@@ -346,7 +346,7 @@
                 </div>
                 <div class="colculator-col">
                     <h3>Type of Trailer</h3>
-                    <p>Open Carrier are usually cheaper and can carry more number of vehicles whereas enclosed carriers are expensive in nature.</p>
+                    <p >Open Carrier are usually cheaper and can carry more number of vehicles whereas enclosed carriers are expensive in nature.</p>
                 </div>
                 <div class="colculator-col">
                     <h3>Transport Distance</h3>
@@ -403,30 +403,44 @@
     <section class="why-choose-us">
         <div class="why-choose-us-bg"></div>
         <div class="why-us">
-            <p class="why-choose-us__title" style="margin: 0;">Why Choose Us?</p>
-            <p style="text-align: center;color:white;margin-bottom:3.5%;padding:0">We Provide the Best Facilites For
-                Transport</p>
-            <div class="row">
-                <div class="box">
-                    <i class="ri-service-line"></i>
-                    <p><strong>BEST SERVICES</strong></p>
-                    <p>At high excellence, we offer our customers a wide range of services like open and enclosed car transport service with additional services including Door-to-Door car shipping, California to Hawaii car shipping and Military PCS shipping with competitive rates.</p>
+            <p class="why-choose-us__title">Reasons to Choose us for your Upcoming Auto Shipment Needs</p>
+            <!-- <p style="text-align: center;color:white;margin-bottom:3.5%;padding:0">We Provide the Best Facilites For
+                Transport</p> -->
+          
+
+            <div class="why-us-row">
+                <div class="why-us-col">
+                    <div class="why-us-icon"><img src="./assets/images/ach.svg" width="100%" height="100%" alt=""></div>
+                    <h3>11 Years of Auto Transportation</h3>
+                    <p>Being an experience auto transporter in the industry, we understand most of the shipping routes and challenges during the vehicle transportation making your car shipping process easy and reliable.</p>
                 </div>
-                <div class="box">
-                    <i class="ri-shield-check-fill"></i>
-                    <p><b>SAFE AND SECURE </b></p>
-                    <p>We Promise! For your vehicle safety. We provide the ultimate protection to your car as it matters most for you. Our top-notch security solutions like enclosed carriers and experienced drivers ensure your vehicle safety. Trust Ship Car To Another State expertise, because your car safety is our priority.
-                    </p>
+                <div class="why-us-col">
+                <div class="why-us-icon"><img src="./assets/images/exp.svg" width="100%" height="100%" alt=""></div>
+                    <h3>Auto Transport Experts</h3>
+                    <p>In the process of Car Shipment it is very necessary to have excellent customer support agents to answer and assist the shipment process Our Auto Professionals goes an extra mile to make your complex car shipping process an easy one.</p>
                 </div>
-                <div class="box">
-                    <i class="ri-pin-distance-line"></i>
-                    <p><b>EXPRESS SHIPPING</b></p>
-                    <p>We excels in express shipping, guaranteeing swift and reliable deliveries, making them the top choice for urgent transportation needs.</p>
+                <div class="why-us-col">
+                <div class="why-us-icon"><img src="./assets/images/zero.svg" width="100%" height="100%" alt=""></div>
+                    <h3>$ Zero Down Payment</h3>
+                    <p>We never take any upfront payment to schedule your Auto Transportation.We charge you  money at the time of assigning of the driver. Once Driver is appointed we get in touch to confirm the date and time of the Auto Carrier.</p>
                 </div>
-                <div class="box">
-                    <i class="ri-money-dollar-circle-line"></i>
-                    <p><b>PRICE MATCH</b></p>
-                    <p>You will have unbeatable savings with the Ship Car To Another State Price Match guarantee! We have beaten every competitor's price and we ensure you always get the best services at lowest market cost . </p>
+            </div>
+            <div class="why-us-row">
+            
+                <div class="why-us-col">
+                <div class="why-us-icon"><img src="./assets/images/price.svg" width="100%" height="100%" alt=""></div>
+                    <h3> Price Match</h3>
+                    <p>You will have unbeatable savings with the Ship Car To Another State Price Match guarantee! We have beaten every competitor's price and we ensure you always get the best services at lowest market cost .</p>
+                </div>
+                <div class="why-us-col">
+                <div class="why-us-icon"><img src="./assets/images/insure.svg" width="100%" height="100%" alt=""></div>
+                    <h3>Fully Insured</h3>
+                    <p>Our Auto insurance are from the top notch insurance agency making your car shipment 100% insured covering all kind of damages if occured during the car shipment process. Insurance coverage are always included in the price that we offer.</p>
+                </div>
+                <div class="why-us-col">
+                <div class="why-us-icon"><img src="./assets/images/peace.svg" width="100%" height="100%" alt=""></div>
+                    <h3>Peace of Mind</h3>
+                    <p>Our Responsibility begins once you finalize the order with us. We answer all your questions at the time of booking, work as per your desired Car shipping requirement with the driver and provide you GPS tracking system to track Carrier during transportation.</p>
                 </div>
             </div>
         </div>
@@ -436,7 +450,7 @@
         <div class="row" style="align-items: center;">
             <div class="call-to-action-first-div"><h2>Ready to Ship Your Car with Best Auto Transporter in the Vehicle Transportation Industry ?</h2></div>
             <div style="display: flex;gap:1%;" class="call-to-btn-wrap"><a href="get-quotes" style="margin-right: 5px;"><button>Get Free Quote</button></a>
-            <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a></div>
+            <a href="tel:+1 (833) 233-4447"><button>+1 (833) 233-4447</button></a></div>
         </div>
     </section>
     <section class="blog-section">
@@ -665,6 +679,9 @@
 
     </section>
     <?php include './footer.php' ?>
+    <div class="sitebutton sitebutton-call" id="sitebutton">
+        <a href="tel:+1 (833) 233-4447"><button><i class="ri-phone-fill"></i> +1 (833) 233-4447</button></a>
+    </div>
     <div class="sitebutton" id="sitebutton">
         <a href="<?= get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
     </div>
@@ -883,9 +900,17 @@
         window.addEventListener('scroll', function() {
             a = window.pageYOffset
             if (a >= 500) {
-                document.getElementById('sitebutton').style.display = 'block'
+                ac = document.querySelectorAll('#sitebutton')
+                for(i=0;i<ac.length;i++){
+                    ac[i].style.display = 'block'
+                }
+                // document.getElementById('sitebutton').style.display = 'block'
             } else {
-                document.getElementById('sitebutton').style.display = 'none'
+                // document.getElementById('sitebutton').style.display = 'none'
+                ac = document.querySelectorAll('#sitebutton')
+                for(i=0;i<ac.length;i++){
+                    ac[i].style.display = 'none'
+                }
             }
         });
 

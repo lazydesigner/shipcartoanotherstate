@@ -261,14 +261,18 @@ header  a{text-decoration: none;color: black;}
     width: 100%;
     height: 100%;
     position: absolute;
-    background-color: rgba(14, 31, 213, 0.779);
+    /* background-color: rgba(14, 31, 213, 0.779); */
+    background-color: rgba(42, 57, 218, 0.49);
     top: 0;
     left: 0;
 }
 .why-us{width: 100%;
+    padding: 1%;
 height: auto;position: relative;z-index: 1;}
 .why-choose-us__title{
-    font-size: 3rem;
+    width: 60%;
+    margin: auto;
+    font-size: 2.7rem;
     font-weight: 900;
     padding-top: 3%;
     text-align: center;
@@ -755,13 +759,23 @@ footer ul a{
 .top-review-box:hover{
     box-shadow: 1px 1px 10px 1px dodgerblue;
 }
-.sitebutton{
+.sitebutton{   
     position: fixed;
     bottom: 5%;
     right: 1%;
     display: none;
     z-index: 99;
 }
+.sitebutton-call{ 
+    position: fixed;
+    bottom: 15%;
+    right: 1%;}
+    .sitebutton-call button{
+        border: 1px solid rgba(20, 20, 157, 0.918)!important;
+        background-color: transparent!important;
+        color: #1d1d1d!important;
+        font-weight: bold!important;
+    }
 .sitebutton button{
     width: 200px;
     height: 50px;
@@ -838,16 +852,10 @@ footer ul a{
     border: 1px solid lightgray;
     padding: 2%;
     clip-path: polygon(100% 0, 100% 90%, 50% 100%, 0 90%, 0 0);
-    
+    font-size: 1.2rem;
     background-color: dodgerblue;
 }
-.how-it-work-box{
-    font-size: 1.2rem;
-}
-.av{
-    /* margin-top: 5%;
-    align-self: end; */
-}
+
 .index-pricing-table h2{
     font-size: 2rem;
     color:rgb(35, 19, 216);
@@ -940,8 +948,35 @@ footer ul a{
     background-color: white;
 }
 .call-to-action-first-div{width: 50%;}
-
-
+.why-us-row{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 0;
+    justify-content: space-evenly;
+}
+.why-us-col{
+    width: 300px    ;
+    border: 1px solid lightblue;
+    padding: 1%;
+    border-radius: 5px;
+    margin: 5px 0;
+    color: whitesmoke;
+    text-align: center;
+}
+.why-us-col h3{
+    font-size: 1.5rem;
+}
+.why-us-col p{
+    font-size: 1.1rem;
+    line-height: 30px;
+}
+.why-us-icon{
+    width: 80px;
+    margin: 0 auto ;
+    padding: 0;
+}
 
 
 
@@ -1194,7 +1229,7 @@ footer ul a{
     bottom: -20%;
     top: auto;
 }
-
+.why-choose-us__title {width: 100%;}
 }
 
 
