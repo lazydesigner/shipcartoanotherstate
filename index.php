@@ -558,7 +558,7 @@
         <div class="services-we-provide-row">
             <div class="services-we-provide-col">
                 <div class="services-we-provide-img">
-                    <img src="./assets/images/california-to-alabama.webp" width="100%" height="100%" alt="">
+                    <img src="./assets/images/services-images.png" width="100%" height="100%" alt="">
                 </div>
             </div>
             <div class="services-we-provide-col services-we-provide-content" >
