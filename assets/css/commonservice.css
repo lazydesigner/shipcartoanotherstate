@@ -435,7 +435,7 @@ footer ul a{
     top: 0;
     left: 0;
 }
-.why-us{width: 100%;
+.why-us{width: 100%;padding: 1%;
 height: auto;position: relative;z-index: 1;}
 .why-choose-us__title{
     width: 60%;
