@@ -476,59 +476,78 @@
     <section class="why-choose-us">
         <div class="why-choose-us-bg"></div>
         <div class="why-us">
-            <p class="why-choose-us__title" style="margin: 0;">Why Choose Us?</p>
-            <p style="text-align: center;color:white;margin-bottom:3.5%;padding:0">We Provide the Best Facilites For
-                Transport</p>
-                <div class="row">
-                <div class="box">
-                    <i class="ri-service-line"></i>
-                    <p><strong>BEST SERVICES</strong></p>
-                    <p>At high excellence, we offer our customers a wide range of services like open and enclosed car transport service with additional services including Door-to-Door car shipping, California to Hawaii car shipping and Military PCS shipping with competitive rates.</p>
+            <p class="why-choose-us__title">Reasons to Choose us for your Upcoming Auto Shipment Needs</p>
+            <!-- <p style="text-align: center;color:white;margin-bottom:3.5%;padding:0">We Provide the Best Facilites For
+                Transport</p> -->
+            <div class="why-us-row">
+                <div class="why-us-col">
+                    <div class="why-us-icon"><img src="./assets/images/ach.svg" width="100%" height="100%" alt=""></div>
+                    <h3>11 Years of Auto Transportation</h3>
+                    <p>Being an experience auto transporter in the industry, we understand most of the shipping routes and challenges during the vehicle transportation making your car shipping process easy and reliable.</p>
                 </div>
-                <div class="box">
-                    <i class="ri-shield-check-fill"></i>
-                    <p><b>SAFE AND SECURE </b></p>
-                    <p>We Promise! For your vehicle safety. We provide the ultimate protection to your car as it matters most for you. Our top-notch security solutions like enclosed carriers and experienced drivers ensure your vehicle safety. Trust Ship Car To Another State expertise, because your car safety is our priority.</p>
+                <div class="why-us-col">
+                <div class="why-us-icon"><img src="./assets/images/exp.svg" width="100%" height="100%" alt=""></div>
+                    <h3>Auto Transport Experts</h3>
+                    <p>In the process of Car Shipment it is very necessary to have excellent customer support agents to answer and assist the shipment process Our Auto Professionals goes an extra mile to make your complex car shipping process an easy one.</p>
                 </div>
-                <div class="box">
-                    <i class="ri-pin-distance-line"></i>
-                    <p><b>EXPRESS SHIPPING</b></p>
-                    <p>We excels in express shipping, guaranteeing swift and reliable deliveries, making them the top choice for urgent transportation needs.</p>
+                <div class="why-us-col">
+                <div class="why-us-icon"><img src="./assets/images/zero.svg" width="100%" height="100%" alt=""></div>
+                    <h3>$ Zero Down Payment</h3>
+                    <p>We never take any upfront payment to schedule your Auto Transportation.We charge you  money at the time of assigning of the driver. Once Driver is appointed we get in touch to confirm the date and time of the Auto Carrier.</p>
                 </div>
-                <div class="box">
-                    <i class="ri-money-dollar-circle-line"></i>
-                    <p><b>PRICE MATCH</b></p>
+            </div>
+            <div class="why-us-row">
+            
+                <div class="why-us-col">
+                <div class="why-us-icon"><img src="./assets/images/price.svg" width="100%" height="100%" alt=""></div>
+                    <h3> Price Match</h3>
                     <p>You will have unbeatable savings with the Ship Car To Another State Price Match guarantee! We have beaten every competitor's price and we ensure you always get the best services at lowest market cost .</p>
+                </div>
+                <div class="why-us-col">
+                <div class="why-us-icon"><img src="./assets/images/insure.svg" width="100%" height="100%" alt=""></div>
+                    <h3>Fully Insured</h3>
+                    <p>Our Auto insurance are from the top notch insurance agency making your car shipment 100% insured covering all kind of damages if occured during the car shipment process. Insurance coverage are always included in the price that we offer.</p>
+                </div>
+                <div class="why-us-col">
+                <div class="why-us-icon"><img src="./assets/images/peace.svg" width="100%" height="100%" alt=""></div>
+                    <h3>Peace of Mind</h3>
+                    <p>Our Responsibility begins once you finalize the order with us. We answer all your questions at the time of booking, work as per your desired Car shipping requirement with the driver and provide you GPS tracking system to track Carrier during transportation.</p>
                 </div>
             </div>
         </div>
 
     </section>
-    <section class="how-it-work">
-        <p class="how-it-work-title">How It Work</p>
-        <div class="how-work row">
-            <div class="how-box a">
-                <p><b>Vehicle pick up</b></p>
-                <span>Our staff professional will pick your vehicle from your desired location on your desired date.</span>
+    <div class="how-it-work-v">
+        <p class="how-it-work-title">How we Ship Your Car from Point A to Point B</p>
+        <div class="how-it-work-steps-v">
+            <div class="how-it-work-box" style="text-align: center;">
+                <strong>STEP 1</strong> <br>
+                <b>Get Quotes</b>
+                <p style="text-align: start;">It is never easy to get car shipping quotes with other Vehicle Transportation companies, but we here make the process simple as our Auto Transport Experts are just a call away ( +1 (833) 233-4447. ) Our Vehicle Shipping Quotes are based on cost on which we can safely deliver your vehicle to your Desired location on a given time including full Car insurance coverage and taxes in it.</p>
             </div>
-            <div class="how-a"></div>
-            <div class="how-box a">
-                <p><b>Shipping Process</b></p>
-                <span>Our professionals clear all the documentation and other processes and ready your vehicle for shipping</span>
+            
+            <div class="how-it-work-box" style="background-color: tomato;text-align: center;">
+                <strong>STEP 2</strong> <br>
+                <b>Vehicle Pickup</b>
+                <p style="text-align: start;">On Provided Date our Specialise Auto Transport Carrier will contact you and inform you about the Car Pickup Time and Location as Provided earlier. The Driver will pickup the Car with all required tools to ensure the it gets safely loaded on the truck. Driver will take pictures and Videos of the Vehicle and will confirm the same to the Auto Transport Agent</p>
             </div>
-            <div class="how-a"></div>
-            <div class="how-box">
-                <p><b>Vehicle delivery</b></p>
-                <span>We ensure our professionals deliver your vehicle on the decided date and we provide live shipment tracking with 24×7 live support.</span>
+            <div class="how-it-work-box av" style="background-color: green;text-align: center;">
+                <strong>STEP 3</strong> <br>
+                <b>Shipping Process</b>
+                <p style="text-align: start;">As soon as we receive your car the care and safety of your vehicle is our Responsibility. We understand that you are not only shipping your car but also trusting us. We provide you the GPS tracking system most of the time to track the current location of the Auto Carrier so you can have peace of mind. As you are shipping with the best Auto Transportation company so your CAr Shipment is Fully insured.</p>
+            </div>
+            <div class="how-it-work-box" style="background-color: #fc038c;text-align: center;">
+                <strong>STEP 4</strong> <br>
+                <b>Vehicle Delivery</b>
+                <p style="text-align: start;">Like Pickup, Our Auto Carrier Driver will call you and confirm you about the Delivery Time on the mentioned date by the Transport Agent. Our Driver will come to your desired location as close as possible . At the time of Vehicle Delivery we charge you the Final Payment as mentioned during the booking and Drivers take Pictures and videos of the Car to ensure transportation agent about the successful delivery of the Vehicle.</p>
             </div>
         </div>
-    </section>
+    </div>
     <section class="call-to-action">
-        <div class="row">
-            <h2>Want to know the cost of shipping a car with us?</h2>
-            <div style="width: 100%; display: flex;justify-content: center;gap:1%;flex-wrap:wrap;"><a href="<?= get_home_url()  ?>get-quotes"><button>Get Free Quote</button></a>
-                <a href="tel:+1 (833) 233-4447"><button>Call Us Now</button></a>
-            </div>
+        <div class="row" style="align-items: center;">
+            <div class="call-to-action-first-div"><h2>Ready to Ship Your Car with Best Auto Transporter in the Vehicle Transportation Industry ?</h2></div>
+            <div style="display: flex;gap:1%;" class="call-to-btn-wrap"><a href="get-quotes" style="margin-right: 5px;"><button>Get Free Instant Quote</button></a>
+            <a href="tel:+1 (833) 233-4447"><button>+1 (833) 233-4447</button></a></div>
         </div>
     </section>
     <section class="testmo">
@@ -539,51 +558,57 @@
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/29/06/46/adult-1867889_640.jpg" alt="https://shipcartoanotherstate.com/new-york-to-nevada-auto-transport">
+                    <i class="ri-double-quotes-l" style="font-size: 4rem;"></i>
                     <h2>Mark de cole</h2>
-                    <p>They did a great job delivering my two-wheeler in their trailer. Auto Shippers did a great job of
+                    <p style="font-size: 2rem;">They did a great job delivering my two-wheeler in their trailer. Auto Shippers did a great job of
                         delivering it. This is my third time with them, and I am always happy with their services.</p>
+                        <div class="top-review-img2"><img src="./assets/images/google2.png" width="100%" height="100%" alt="" ></div>
                 </div>
             </div>
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2017/02/16/23/10/smile-2072907_640.jpg" alt="https://shipcartoanotherstate.com/new-york-to-nevada-auto-transport">
+                    <i class="ri-double-quotes-l" style="font-size: 4rem;"></i>
                     <h2>Steven Faith</h2>
-                    <p>I asked them for car shipping in a trailer to Vegas. I have been using their services for many
+                    <p style="font-size: 2rem;">I asked them for car shipping in a trailer to Vegas. I have been using their services for many
                         years and I am never disappointed. The vehicles arrived quickly and safely.</p>
+                        <div class="top-review-img2"><img src="./assets/images/transpoorts.png" width="100%" height="100%" alt="" ></div>
 
                 </div>
             </div>
 
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2016/11/18/19/07/happy-1836445_640.jpg" alt="https://shipcartoanotherstate.com/new-york-to-nevada-auto-transport">
+                    <i class="ri-double-quotes-l" style="font-size: 4rem;"></i> 
                     <h2>Estep Meade</h2>
-                    <p>Very accurate and in-time services. Their home pickup was excellent, and auto shippers took care
+                    <p style="font-size: 2rem;">Very accurate and in-time services. Their home pickup was excellent, and auto shippers took care
                         of the vehicle very well. If I had known they were so good, I would have also asked them for car
                         shipping.</p>
+                        <div class="top-review-img2"><img src="./assets/images/trustpilot2.png" width="100%" height="100%" alt="" ></div>
                 </div>
             </div>
             <div class="mySlides fade">
                 <div class="t-s">
-                    <img class="testo-img" src="https://cdn.pixabay.com/photo/2018/02/16/14/38/portrait-3157821_640.jpg" alt="https://shipcartoanotherstate.com/new-york-to-nevada-auto-transport">
+                    <i class="ri-double-quotes-l" style="font-size: 4rem;"></i>
                     <h2>Mark Hill</h2>
-                    <p>Their auto shipping services are accurate whether it is home pickup or taking care of my
+                    <p style="font-size: 2rem;">Their auto shipping services are accurate whether it is home pickup or taking care of my
                         vehicles. I was happy with all their services and their shipping and transport services were
                         better than anyone else.</p>
+                        <div class="top-review-img2"><img src="./assets/images/google2.png" width="100%" height="100%" alt="" ></div>
                 </div>
             </div>
-
+            <div style="text-align:center">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
         </div>
-        <div style="text-align:center">
-            <span class="dot"></span>
-            <span class="dot"></span>
-            <span class="dot"></span>
-            <span class="dot"></span>
         </div>
     </section>
     <?php include '../../footer.php' ?>
+    <div class="sitebutton sitebutton-call" id="sitebutton">
+        <a href="tel:+1 (833) 233-4447" ><button style="font-size: 1.2rem;"><i class="ri-phone-fill"></i> +1 (833) 233-4447</button></a>
+    </div>
     <div class="sitebutton" id="sitebutton">
         <a href="<?= get_home_url()  ?>get-quotes"><button>GET FREE QUOTES</button></a>
     </div>
@@ -635,9 +660,17 @@
         window.addEventListener('scroll', function() {
             a = window.pageYOffset
             if (a >= 500) {
-                document.getElementById('sitebutton').style.display = 'block'
+                ac = document.querySelectorAll('#sitebutton')
+                for(i=0;i<ac.length;i++){
+                    ac[i].style.display = 'block'
+                }
+                // document.getElementById('sitebutton').style.display = 'block'
             } else {
-                document.getElementById('sitebutton').style.display = 'none'
+                // document.getElementById('sitebutton').style.display = 'none'
+                ac = document.querySelectorAll('#sitebutton')
+                for(i=0;i<ac.length;i++){
+                    ac[i].style.display = 'none'
+                }
             }
         });
 

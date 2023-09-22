@@ -29,7 +29,7 @@
     <meta name="google-site-verification" content="970kFHxDIhqBEORbOCCKDtfAS19KZPYrQdbsVWcSFCk" />
     <!-- change -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="<?= get_home_url()  ?>assets/css/index.css?v=<?=time() ?>" async>
+    <link rel="stylesheet" href="<?= get_home_url()  ?>deepak/assets/css/index.css?v=<?=time() ?>" async>
     <link rel="icon" href="https://shipcartoanotherstate.com/assets/images/Modern.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -412,8 +412,6 @@
             <p class="why-choose-us__title">Reasons to Choose us for your Upcoming Auto Shipment Needs</p>
             <!-- <p style="text-align: center;color:white;margin-bottom:3.5%;padding:0">We Provide the Best Facilites For
                 Transport</p> -->
-          
-
             <div class="why-us-row">
                 <div class="why-us-col">
                     <div class="why-us-icon"><img src="./assets/images/ach.svg" width="100%" height="100%" alt=""></div>
