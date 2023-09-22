@@ -401,9 +401,9 @@
                     <span class="item6 items1">HAWAII TO CALIFORNIA</span></a>
             </div>
         </div>
-        <!-- <div class="more-service">
+        <div class="more-service">
             <a href="<?= get_home_url()  ?>"><button>Other Shipping Routes</button></a>
-        </div> -->
+        </div>
 
     </section>
     <section class="why-choose-us">
@@ -412,6 +412,8 @@
             <p class="why-choose-us__title">Reasons to Choose us for your Upcoming Auto Shipment Needs</p>
             <!-- <p style="text-align: center;color:white;margin-bottom:3.5%;padding:0">We Provide the Best Facilites For
                 Transport</p> -->
+          
+
             <div class="why-us-row">
                 <div class="why-us-col">
                     <div class="why-us-icon"><img src="./assets/images/ach.svg" width="100%" height="100%" alt=""></div>
@@ -554,7 +556,7 @@
     </section>
     <section class="services-we-provide">
         <div class="services-we-provide-row">
-            <div class="services-we-provide-col1">
+            <div class="services-we-provide-col">
                 <div class="services-we-provide-img">
                     <img src="./assets/images/services-images.png" width="100%" height="100%" alt="">
                 </div>
