@@ -556,7 +556,7 @@
     </section>
     <section class="services-we-provide">
         <div class="services-we-provide-row">
-            <div class="services-we-provide-col">
+            <div class="services-we-provide-col services-we-provide-col1">
                 <div class="services-we-provide-img">
                     <img src="./assets/images/services-images.png" width="100%" height="100%" alt="">
                 </div>
